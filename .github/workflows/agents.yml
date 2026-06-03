@@ -61,7 +61,8 @@ jobs:
         run: |
           git config user.name "Multi-Agent Bot"
           git config user.email "agents@github-actions"
+          git fetch origin claude/stoic-hamilton-u0aC2
+          git rebase origin/claude/stoic-hamilton-u0aC2
           git add outputs/ data/
           git diff --staged --quiet || git commit -m "chore: agent outputs $(date +%Y-%m-%d)"
-          git pull --rebase origin claude/stoic-hamilton-u0aC2
-          git push
+          git push origin HEAD:claude/stoic-hamilton-u0aC2
