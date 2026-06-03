@@ -1,0 +1,59 @@
+{
+  "runs": [
+    {
+      "agent": "youtube",
+      "timestamp": "2026-06-03T20:08:19.988384",
+      "status": "error",
+      "outputs": [],
+      "error": "",
+      "topic": "",
+      "title": ""
+    },
+    {
+      "agent": "kdp",
+      "timestamp": "2026-06-03T20:08:21.781143",
+      "status": "error",
+      "outputs": [],
+      "error": "anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbgvxewsLTLK5L7CLtiNi'}"
+    },
+    {
+      "agent": "newsletter",
+      "timestamp": "2026-06-03T20:08:22.459043",
+      "status": "error",
+      "outputs": [],
+      "error": "",
+      "niche": "",
+      "issue_number": 0,
+      "subject_a": "",
+      "subject_b": ""
+    },
+    {
+      "agent": "stock_images",
+      "timestamp": "2026-06-03T20:08:22.684547",
+      "status": "error",
+      "outputs": [],
+      "error": "anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbgvxitztWFfJuFXM2y41'}"
+    },
+    {
+      "agent": "print_on_demand",
+      "timestamp": "2026-06-03T20:08:23.169897",
+      "status": "success",
+      "outputs": [],
+      "error": ""
+    },
+    {
+      "agent": "local_leads",
+      "timestamp": "2026-06-03T20:08:23.313075",
+      "status": "error",
+      "outputs": [],
+      "error": "TypeError: log_output() got an unexpected keyword argument 'path'"
+    },
+    {
+      "agent": "freelance",
+      "timestamp": "2026-06-03T20:08:23.715661",
+      "status": "success",
+      "outputs": [],
+      "error": ""
+    }
+  ]
+}
