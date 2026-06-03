@@ -538,7 +538,7 @@ def run(config: Optional[dict] = None) -> dict:
     log_output(
         agent_name="local_leads",
         title=f"Local leads: {category} in {city}",
-        path=str(run_dir),
+        output_path=str(run_dir),
         notes=f"{len(businesses)} found, {len(targets)} targeted",
     )
 
