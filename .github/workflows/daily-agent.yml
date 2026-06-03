@@ -1,0 +1,58 @@
+name: Daily Product Agent
+
+on:
+  schedule:
+    # Runs every day at 9 AM UTC
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (skip Gumroad publish)"
+        required: false
+        default: "false"
+      count:
+        description: "Number of products to create (1-5)"
+        required: false
+        default: "1"
+
+jobs:
+  create-and-publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GUMROAD_ACCESS_TOKEN: ${{ secrets.GUMROAD_ACCESS_TOKEN }}
+          AUTHOR_NAME: ${{ secrets.AUTHOR_NAME }}
+          PRODUCTS_PER_RUN: ${{ github.event.inputs.count || '1' }}
+        run: |
+          DRY_RUN_FLAG=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_RUN_FLAG="--dry-run"
+          fi
+          python run.py --count ${{ github.event.inputs.count || '1' }} $DRY_RUN_FLAG
+
+      - name: Commit generated products
+        run: |
+          git config user.name "Product Agent"
+          git config user.email "agent@github-actions"
+          git add products/ data/
+          git diff --staged --quiet || git commit -m "chore: add $(date +%Y-%m-%d) product batch"
+          git push

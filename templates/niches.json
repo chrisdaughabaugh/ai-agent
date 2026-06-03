@@ -1,0 +1,172 @@
+[
+  {
+    "niche": "Personal Finance",
+    "topics": [
+      "Zero-Based Budget Planner",
+      "Debt Snowball Tracker",
+      "52-Week Savings Challenge",
+      "Emergency Fund Builder",
+      "Side Income Tracker",
+      "Net Worth Tracker",
+      "No-Spend Month Challenge Guide"
+    ],
+    "audience": "people struggling with money management",
+    "pain_points": ["living paycheck to paycheck", "can't save money", "don't know where money goes", "want to pay off debt"],
+    "avg_price": 12,
+    "competition": "medium",
+    "keywords": ["budget", "finance", "money", "savings", "debt free"]
+  },
+  {
+    "niche": "Productivity",
+    "topics": [
+      "Daily Planner System",
+      "Weekly Review Template",
+      "Habit Stacking Guide",
+      "Time Blocking Masterplan",
+      "Morning Routine Blueprint",
+      "Deep Work Protocol",
+      "GTD Starter System"
+    ],
+    "audience": "busy professionals and students who feel overwhelmed",
+    "pain_points": ["always busy but never productive", "can't stick to habits", "poor time management", "procrastination"],
+    "avg_price": 10,
+    "competition": "high",
+    "keywords": ["planner", "productivity", "habits", "time management", "focus"]
+  },
+  {
+    "niche": "Side Hustle",
+    "topics": [
+      "Freelance Writing Starter Kit",
+      "Etsy Shop Launch Guide",
+      "Digital Products Business Blueprint",
+      "Passive Income Roadmap",
+      "Fiverr Gig Creation Guide",
+      "Online Tutoring Setup Guide",
+      "Print-on-Demand Quick Start"
+    ],
+    "audience": "people wanting to earn extra income outside their 9-5",
+    "pain_points": ["need more money", "want financial freedom", "feel stuck in day job", "want to work from home"],
+    "avg_price": 15,
+    "competition": "medium",
+    "keywords": ["side hustle", "extra income", "work from home", "passive income", "freelance"]
+  },
+  {
+    "niche": "Health & Wellness",
+    "topics": [
+      "7-Day Meal Prep Guide",
+      "Home Workout Tracker",
+      "Mindfulness Journal Prompts",
+      "Better Sleep Protocol",
+      "Stress Management Toolkit",
+      "30-Day Walking Challenge",
+      "Healthy Habits Tracker"
+    ],
+    "audience": "health-conscious individuals wanting simple, actionable guidance",
+    "pain_points": ["no time for health", "don't know where to start", "inconsistent motivation", "stress and burnout"],
+    "avg_price": 10,
+    "competition": "medium",
+    "keywords": ["health", "wellness", "fitness", "meal prep", "mindfulness"]
+  },
+  {
+    "niche": "Career Development",
+    "topics": [
+      "ATS-Optimized Resume Template",
+      "Cover Letter Swipe File",
+      "Interview Preparation Workbook",
+      "Salary Negotiation Script",
+      "LinkedIn Profile Optimizer",
+      "30-60-90 Day New Job Plan",
+      "Career Change Roadmap"
+    ],
+    "audience": "job seekers and professionals wanting career growth",
+    "pain_points": ["not getting callbacks", "no idea how to negotiate salary", "want a promotion", "career change uncertainty"],
+    "avg_price": 13,
+    "competition": "medium",
+    "keywords": ["resume", "career", "job search", "interview", "LinkedIn"]
+  },
+  {
+    "niche": "Self-Improvement",
+    "topics": [
+      "30-Day Self-Discipline Challenge",
+      "Daily Journaling Prompts",
+      "Confidence Building Workbook",
+      "Anxiety Management Guide",
+      "Gratitude Journal",
+      "Personal Values Discovery Guide",
+      "Comfort Zone Challenge"
+    ],
+    "audience": "individuals on a personal growth journey",
+    "pain_points": ["lack of confidence", "anxiety and overthinking", "stuck in comfort zone", "want to become better"],
+    "avg_price": 9,
+    "competition": "low",
+    "keywords": ["self-improvement", "confidence", "journal", "mindset", "personal growth"]
+  },
+  {
+    "niche": "Small Business",
+    "topics": [
+      "One-Page Business Plan Template",
+      "Social Media Content Calendar",
+      "Email Newsletter Templates",
+      "Customer Onboarding Checklist",
+      "Pricing Strategy Workbook",
+      "Brand Style Guide Template",
+      "Client Proposal Template"
+    ],
+    "audience": "solopreneurs and small business owners",
+    "pain_points": ["no time for marketing", "inconsistent revenue", "hard to get clients", "don't know pricing"],
+    "avg_price": 18,
+    "competition": "medium",
+    "keywords": ["small business", "entrepreneur", "marketing", "templates", "business plan"]
+  },
+  {
+    "niche": "Parenting",
+    "topics": [
+      "Kids Chore Chart System",
+      "Family Weekly Routine Planner",
+      "Homework and Reading Tracker",
+      "Summer Activity Bucket List",
+      "Toddler Activity Ideas Guide",
+      "Screen Time Management Plan",
+      "Kids Allowance Tracker"
+    ],
+    "audience": "parents of young children wanting more structure and fun",
+    "pain_points": ["chaotic mornings", "kids won't do chores", "too much screen time", "need activity ideas"],
+    "avg_price": 8,
+    "competition": "low",
+    "keywords": ["parenting", "kids", "family", "chores", "routine"]
+  },
+  {
+    "niche": "Digital Marketing",
+    "topics": [
+      "Instagram Growth Playbook",
+      "Pinterest SEO Guide",
+      "Email List Building Blueprint",
+      "Content Repurposing System",
+      "YouTube Channel Launch Guide",
+      "SEO Keyword Research Workbook",
+      "Viral Content Formula"
+    ],
+    "audience": "content creators and marketers wanting to grow online",
+    "pain_points": ["low engagement", "no followers", "algorithm confusion", "content ideas drying up"],
+    "avg_price": 17,
+    "competition": "high",
+    "keywords": ["social media", "Instagram", "marketing", "content creator", "grow online"]
+  },
+  {
+    "niche": "Creative Business",
+    "topics": [
+      "Etsy SEO Masterclass Guide",
+      "Product Photography Tips",
+      "Pricing Your Handmade Work",
+      "Craft Show Preparation Checklist",
+      "Packaging and Branding Guide",
+      "Customer Review Strategy",
+      "Wholesale Pitch Template"
+    ],
+    "audience": "artists, makers, and crafters selling their work",
+    "pain_points": ["low Etsy traffic", "underpricing work", "no repeat customers", "hard to stand out"],
+    "avg_price": 14,
+    "competition": "low",
+    "keywords": ["Etsy", "handmade", "creative business", "craft", "artist"]
+  }
+]
