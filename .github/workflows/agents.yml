@@ -1,0 +1,65 @@
+name: Multi-Agent Income System
+
+on:
+  schedule:
+    # Runs every day at 8 AM UTC
+    - cron: "0 8 * * *"
+
+  workflow_dispatch:
+    inputs:
+      agent:
+        description: "Agent to run (leave blank to run all)"
+        required: false
+        default: ""
+        type: choice
+        options:
+          - ""
+          - youtube
+          - kdp
+          - newsletter
+          - stock_images
+          - print_on_demand
+          - local_leads
+          - freelance
+
+jobs:
+  run-agents:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run agents
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          AGENT="${{ github.event.inputs.agent }}"
+          if [ -n "$AGENT" ]; then
+            echo "Running single agent: $AGENT"
+            python orchestrate.py "$AGENT"
+          else
+            echo "Running all agents"
+            python orchestrate.py
+          fi
+
+      - name: Commit new outputs
+        run: |
+          git config user.name "Multi-Agent Bot"
+          git config user.email "agents@github-actions"
+          git add outputs/ data/
+          git diff --staged --quiet || git commit -m "chore: agent outputs $(date +%Y-%m-%d)"
+          git push
