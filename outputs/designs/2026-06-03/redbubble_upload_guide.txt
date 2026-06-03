@@ -1,0 +1,74 @@
+REDBUBBLE UPLOAD GUIDE — Generated 2026-06-03
+===========================================
+
+HOW TO UPLOAD:
+1. Go to https://www.redbubble.com and log in.
+2. Click "Add New Work" (top right).
+3. Upload the colored PNG file first, then the transparent PNG for merch that
+   needs a transparent background (stickers, masks).
+4. Copy the design title and tags below into the listing form.
+5. Enable ALL product types initially; disable low-margin ones later.
+6. Set pricing at 20% markup to start; adjust based on performance.
+
+---
+DESIGN #1: Cosmic Dreams
+Theme: stargazer aesthetic
+Files: cosmic-dreams_colored.png  |  cosmic-dreams_transparent.png
+
+T-SHIRT TITLE:
+  Stargazer Aesthetic Tee Cosmic Dreams
+
+HOODIE TITLE:
+  Galaxy Hoodie Reach for the Stars
+
+MUG TITLE:
+  Astronomy Mug Cosmic Dreams Coffee
+
+PHONE CASE TITLE:
+  Stellar Phone Case Stargazer Design
+
+STICKER TITLE:
+  Stargazer Sticker Cosmic Dreams Decal
+
+DESCRIPTION:
+  Get lost in the cosmos with this stargazer aesthetic design, featuring a delicate balance of deep space and stellar white. Perfect for anyone who's ever looked up at the night sky and felt a sense of wonder and magic.
+
+TAGS (copy all):
+  stargazer, aesthetic, cosmic, galaxy, stars, space, astronomy, night sky, dreamy, magical, starry night, celestial, universe, planets, alien, nasa, space enthusiast, cosmic dreams, stargazing, astrology
+
+COLORS: Deep Space, Galaxy Blue, Aurora Green, Stellar White
+
+DESIGN #2: Wild Woodsy Magic
+Theme: goblincore
+Files: wild-woodsy-magic_colored.png  |  wild-woodsy-magic_transparent.png
+
+T-SHIRT TITLE:
+  Goblincore Wild Spirit Tee
+
+HOODIE TITLE:
+  Mystical Woods Goblin Hoodie
+
+MUG TITLE:
+  Whimsy Woodland Goblin Mug
+
+PHONE CASE TITLE:
+  Goblincore Enchanted Forest Case
+
+STICKER TITLE:
+  Wild Spirit Goblin Sticker
+
+DESCRIPTION:
+  Embody the wild and free spirit of goblincore with this enchanting design, perfect for those who love nature and magic. Featuring a beautiful, whimsical serif font on a mossy green background, this design is sure to transport you to a mystical woodland realm.
+
+TAGS (copy all):
+  goblincore, wild, whimsy, woodland, magic, fantasy, nature, boho, hippie, eclectic, alternative, fairy, mystic, occult, pagan, mythical, folklore, mythology, bohemian, free spirit
+
+COLORS: Mossy Green, Earth Brown, Forest Floor, Rich Gold
+
+---
+
+GENERAL TIPS:
+- Use ALL 20 tags — Redbubble uses them for search ranking.
+- Keep your description under 500 characters for best SEO.
+- Add designs to relevant Groups in Redbubble after uploading.
+- Post to Pinterest / Instagram Reels for extra traffic.

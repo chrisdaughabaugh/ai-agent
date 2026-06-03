@@ -1,0 +1,87 @@
+{
+  "agents": {
+    "kdp": {
+      "outputs": [
+        {
+          "title": "Habit Tracker Planner Daily",
+          "path": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-06-03-habit-tracker-planner-daily",
+          "notes": "Niche: habit tracker | Keywords: habit tracker, daily planner, goal setting",
+          "created_at": "2026-06-03T23:00:35.289580",
+          "revenue_cents": 0
+        }
+      ],
+      "revenue_cents": 0
+    },
+    "newsletter": {
+      "outputs": [
+        {
+          "title": "Issue #1 HTML: Just Replaced My $500/Month Software Stack with THIS",
+          "path": "/home/runner/work/ai-agent/ai-agent/outputs/newsletters/issue-1/email.html",
+          "notes": "niche=AI tools",
+          "created_at": "2026-06-03T23:01:01.372951",
+          "revenue_cents": 0
+        },
+        {
+          "title": "Issue #1 Plain Text",
+          "path": "/home/runner/work/ai-agent/ai-agent/outputs/newsletters/issue-1/plain_text.txt",
+          "notes": "niche=AI tools",
+          "created_at": "2026-06-03T23:01:01.373270",
+          "revenue_cents": 0
+        },
+        {
+          "title": "Issue #1 Metadata",
+          "path": "/home/runner/work/ai-agent/ai-agent/outputs/newsletters/issue-1/metadata.json",
+          "notes": "subjects + story list",
+          "created_at": "2026-06-03T23:01:01.373708",
+          "revenue_cents": 0
+        }
+      ],
+      "revenue_cents": 0
+    },
+    "stock_images": {
+      "outputs": [
+        {
+          "title": "Stock Image Batch \u2014 batch-2026-06-03",
+          "path": "/home/runner/work/ai-agent/ai-agent/outputs/stock_images/batch-2026-06-03",
+          "notes": "10 concepts | Examples: Diverse Team Meeting in Conference Room; Happy Family Walking in Park Together; Fresh Fruit Salad Bowl with Seasonal Fruits",
+          "created_at": "2026-06-03T23:01:16.048008",
+          "revenue_cents": 0
+        }
+      ],
+      "revenue_cents": 0
+    },
+    "print_on_demand": {
+      "outputs": [
+        {
+          "title": "Cosmic Dreams",
+          "path": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-03/cosmic-dreams_colored.png",
+          "notes": "theme=stargazer aesthetic, tags=20",
+          "created_at": "2026-06-03T23:01:25.463333",
+          "revenue_cents": 0
+        },
+        {
+          "title": "Wild Woodsy Magic",
+          "path": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-03/wild-woodsy-magic_colored.png",
+          "notes": "theme=goblincore, tags=20",
+          "created_at": "2026-06-03T23:01:34.064377",
+          "revenue_cents": 0
+        }
+      ],
+      "revenue_cents": 0
+    },
+    "local_leads": {
+      "outputs": [
+        {
+          "title": "Local leads: restaurants in Austin TX",
+          "path": "/home/runner/work/ai-agent/ai-agent/outputs/leads/2026-06-03",
+          "notes": "0 found, 0 targeted",
+          "created_at": "2026-06-03T23:01:34.174237",
+          "revenue_cents": 0
+        }
+      ],
+      "revenue_cents": 0
+    }
+  },
+  "total_revenue_cents": 0,
+  "last_updated": "2026-06-03T23:01:34.174243"
+}
