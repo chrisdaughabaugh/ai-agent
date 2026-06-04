@@ -39,30 +39,37 @@ STATE_FILE = DATA_DIR / "pod_state.json"
 
 CANVAS_SIZE = (800, 800)
 
+# BRAND: RISE SUPPLY CO. — Motivational/Mindset niche
+# Proven #1 POD earner. Bold dark aesthetic. Max revenue focus.
+BRAND_NAME  = "RISE SUPPLY CO."
+BRAND_NICHE = "motivational mindset"
+
 CURATED_THEMES = [
-    "cottagecore",
-    "dark academia",
-    "Y2K aesthetic",
-    "mental health awareness",
-    "retro gaming",
-    "astronomy and space",
-    "plant mom",
-    "feminist empowerment",
-    "cat lover",
-    "dog lover",
-    "solarpunk",
-    "witchy vibes",
-    "ocean cottagecore",
-    "goblincore",
-    "vaporwave nostalgia",
-    "mushroom forager",
-    "frog appreciation",
-    "stargazer aesthetic",
-    "bookworm life",
-    "hiking and outdoors",
+    # Core motivational — highest search volume
+    "stoic philosophy",
+    "self discipline",
+    "grind and hustle",
+    "mental toughness",
+    "winners mindset",
+    "silent hard work",
+    "discipline over motivation",
+    "delayed gratification",
+    "no excuses mentality",
+    "build your empire",
+    # Lifestyle/identity
+    "early riser 5am club",
+    "gym and fitness mindset",
+    "entrepreneur grind",
+    "be the wolf not the sheep",
+    "stay dangerous stay humble",
+    "pressure makes diamonds",
+    "control what you can control",
+    "do it scared anyway",
+    "your only competition is yesterday",
+    "outwork everyone",
 ]
 
-REDDIT_SOURCES = ["redbubble", "Etsy", "tshirtdesigns"]
+REDDIT_SOURCES = ["getmotivated", "EntrepreneurRideAlong", "Entrepreneur"]
 
 SYSTEM_PROMPT = (
     "You are a professional print-on-demand designer with deep knowledge of "
@@ -134,44 +141,49 @@ def pick_themes(theme_pool: list[str], used: list[str], n: int = 3) -> list[str]
 
 def generate_concept(theme: str) -> dict:
     """Ask Claude to produce full design metadata for a theme."""
-    prompt = f"""Create a print-on-demand design concept for the theme: "{theme}".
+    prompt = f"""Create a HIGH-CONVERTING print-on-demand design for RISE SUPPLY CO., a motivational/mindset brand.
 
-Return a JSON object with exactly these keys:
+Theme: "{theme}"
+
+BRAND RULES — follow exactly:
+- Bold, dark aesthetic: deep black or near-black background (#0a0a0a, #111111, #1a1a1a) + white or gold text
+- Main text = punchy, emotionally charged quote (4-7 words MAX, all caps preferred)
+- Sub text = short supporting line that adds depth (max 8 words)
+- Font = bold geometric sans-serif or strong condensed display — conveys power
+- Designs must look great on black t-shirts and white mugs
+- Target audience: 18-35 male and female, driven, ambitious, gym-goers, entrepreneurs
+
+Return ONLY a JSON object with exactly these keys:
 {{
   "theme": "{theme}",
-  "design_title": "catchy 3-6 word design title",
-  "main_text": "the primary quote or phrase (max 6 words, bold statement)",
-  "sub_text": "secondary line (max 8 words, softer complement)",
-  "font_style": "description of font personality (e.g. 'serif with elegant thin strokes')",
+  "design_title": "3-5 word brand-aligned title",
+  "main_text": "THE BOLD QUOTE (ALL CAPS, max 7 words)",
+  "sub_text": "supporting line max 8 words",
+  "font_style": "bold geometric sans-serif, high contrast, strong weight",
   "color_palette": [
-    {{"name": "color name", "hex": "#RRGGBB"}},
-    {{"name": "color name", "hex": "#RRGGBB"}},
-    {{"name": "color name", "hex": "#RRGGBB"}},
-    {{"name": "color name", "hex": "#RRGGBB"}}
+    {{"name": "background", "hex": "#111111"}},
+    {{"name": "primary text", "hex": "#FFFFFF"}},
+    {{"name": "accent gold", "hex": "#C9A84C"}},
+    {{"name": "secondary", "hex": "#888888"}}
   ],
   "product_titles": {{
-    "t_shirt": "SEO title for t-shirt listing",
-    "hoodie": "SEO title for hoodie listing",
-    "mug": "SEO title for mug listing",
-    "phone_case": "SEO title for phone case listing",
-    "sticker": "SEO title for sticker listing"
+    "t_shirt": "Shopify SEO title for t-shirt (include keyword + brand)",
+    "mug": "Shopify SEO title for mug listing",
+    "tote_bag": "Shopify SEO title for tote bag listing"
   }},
-  "redbubble_tags": [
+  "listing_description": "2-sentence product description optimized for Shopify/SEO, benefit-focused",
+  "tags": [
     "tag1", "tag2", "tag3", "tag4", "tag5",
     "tag6", "tag7", "tag8", "tag9", "tag10",
-    "tag11", "tag12", "tag13", "tag14", "tag15",
-    "tag16", "tag17", "tag18", "tag19", "tag20"
-  ],
-  "design_description": "2-sentence product description for listings"
+    "tag1", "tag2", "tag3", "tag4", "tag5",
+    "tag6", "tag7", "tag8", "tag9", "tag10",
+    "tag11", "tag12", "tag13"
+  ]
 }}
 
-Rules:
-- main_text should be short enough to display on a shirt (max 30 chars preferred)
-- color_palette: first color = background, last color = main text color
-- all 20 tags must be unique, relevant, mix of broad and niche
-- font_style: pick from serif / sans-serif / script / display / monospace + personality descriptors"""
+Tags must be Shopify/Etsy SEO terms: mix of theme keywords, product type, audience (motivational gift, gym shirt, etc.)"""
 
-    return generate_json(prompt, system=SYSTEM_PROMPT, max_tokens=1200, smart=True)
+    return generate_json(prompt, system=SYSTEM_PROMPT, max_tokens=1400, smart=True)
 
 
 # ---------------------------------------------------------------------------

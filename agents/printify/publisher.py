@@ -13,19 +13,26 @@ from typing import Dict, List, Optional
 
 BASE = "https://api.printify.com/v1"
 
-# Popular product blueprints — t-shirts, mugs, totes
-# These IDs are stable in Printify's catalog
-TARGET_BLUEPRINTS = {
-    "Unisex T-Shirt":  {"id": 6,   "markup": 2.8},  # Gildan 64000 — most popular
-    "Classic Mug":     {"id": 19,  "markup": 2.5},  # 11oz ceramic
-    "Tote Bag":        {"id": 77,  "markup": 2.4},  # Canvas tote
+# RISE SUPPLY CO. — fixed retail prices (cents) for max margin
+# Printify base costs: shirt ~$8-11, mug ~$7, tote ~$10
+RETAIL_PRICES = {
+    "Unisex T-Shirt": 2799,  # $27.99 — premium positioning
+    "Classic Mug":    1699,  # $16.99 — impulse buy sweet spot
+    "Tote Bag":       2299,  # $22.99 — eco-conscious premium
 }
 
-# Colors to include per product (keeps variant count manageable)
-SHIRT_COLORS  = ["Black", "White", "Navy", "Forest Green", "Heather Gray"]
-MUG_COLORS    = ["White"]
-TOTE_COLORS   = ["Natural"]
-SHIRT_SIZES   = ["S", "M", "L", "XL", "2XL"]
+# Printify blueprint IDs (stable catalog IDs)
+TARGET_BLUEPRINTS = {
+    "Unisex T-Shirt": {"id": 6,  "retail": RETAIL_PRICES["Unisex T-Shirt"]},   # Gildan 64000
+    "Classic Mug":    {"id": 19, "retail": RETAIL_PRICES["Classic Mug"]},       # 11oz ceramic
+    "Tote Bag":       {"id": 77, "retail": RETAIL_PRICES["Tote Bag"]},          # Canvas tote
+}
+
+# Colors — dark/bold aesthetic optimized for motivational designs
+SHIRT_COLORS = ["Black", "Navy", "Dark Heather", "Forest Green", "White"]
+MUG_COLORS   = ["White"]
+TOTE_COLORS  = ["Natural"]
+SHIRT_SIZES  = ["S", "M", "L", "XL", "2XL"]
 
 
 def _headers() -> Dict:
@@ -97,17 +104,15 @@ def get_variants(blueprint_id: int, provider_id: int,
 def create_product(shop_id: str, blueprint_id: int, provider_id: int,
                    variants: List[Dict], image_id: str,
                    title: str, description: str, tags: List[str],
-                   markup: float) -> Dict:
+                   retail_price: int) -> Dict:
     """Create a product on Printify with the uploaded design."""
 
-    # Build variant list with pricing
+    # Fixed retail price per product type — consistent brand pricing
     variant_list = []
     for v in variants:
-        cost = v.get("cost", 800)  # cost in cents
-        price = round((cost / 100) * markup, 2)
         variant_list.append({
-            "id":      v["id"],
-            "price":   int(price * 100),
+            "id":         v["id"],
+            "price":      retail_price,  # cents, e.g. 2799 = $27.99
             "is_enabled": True,
         })
 
@@ -167,12 +172,16 @@ def publish_product(shop_id: str, product_id: str) -> bool:
     return True
 
 
+BRAND_NAME = "RISE SUPPLY CO."
+
+
 def publish_design_to_shopify(design: Dict, image_path: Path) -> List[Dict]:
     """
     Full pipeline: take a design dict + PNG path → publish products to Shopify.
     Returns list of created product details.
     """
-    print(f"  [Printify] Starting publish for: {design['title']}")
+    design_title = design.get("design_title", design.get("title", "Untitled"))
+    print(f"  [Printify] Publishing: {design_title}")
 
     shop_id = get_shop_id()
     print(f"  [Printify] Shop ID: {shop_id}")
@@ -180,11 +189,15 @@ def publish_design_to_shopify(design: Dict, image_path: Path) -> List[Dict]:
     print(f"  [Printify] Uploading image...")
     image_id = upload_image(image_path)
 
+    product_titles = design.get("product_titles", {})
+    listing_desc   = design.get("listing_description", design_title)
+    tags           = design.get("tags", [])[:13]
+
     created = []
 
     for product_name, bp_info in TARGET_BLUEPRINTS.items():
         blueprint_id = bp_info["id"]
-        markup       = bp_info["markup"]
+        retail_price = bp_info["retail"]
 
         print(f"  [Printify] Creating {product_name}...")
 
@@ -192,45 +205,45 @@ def publish_design_to_shopify(design: Dict, image_path: Path) -> List[Dict]:
             providers = get_print_providers(blueprint_id)
             if not providers:
                 continue
-            # Pick first available provider
-            provider = providers[0]
-            provider_id = provider["id"]
+            provider_id = providers[0]["id"]
 
-            # Pick colors/sizes per product type
             if "T-Shirt" in product_name:
                 colors, sizes = SHIRT_COLORS, SHIRT_SIZES
+                seo_title = product_titles.get("t_shirt", f"{design_title} T-Shirt | {BRAND_NAME}")
             elif "Mug" in product_name:
                 colors, sizes = MUG_COLORS, []
+                seo_title = product_titles.get("mug", f"{design_title} Mug | {BRAND_NAME}")
             else:
                 colors, sizes = TOTE_COLORS, []
+                seo_title = product_titles.get("tote_bag", f"{design_title} Tote Bag | {BRAND_NAME}")
 
             variants = get_variants(blueprint_id, provider_id, colors, sizes)
             if not variants:
                 print(f"  [Printify] No variants found for {product_name}, skipping")
                 continue
 
-            title = f"{design['title']} — {product_name}"
             description = (
-                f"<p>{design.get('listing_description', design['title'])}</p>"
-                f"<p>Original artwork printed on demand. Ships in 3-5 business days.</p>"
+                f"<p>{listing_desc}</p>"
+                f"<p>Premium quality print-on-demand product from {BRAND_NAME}. "
+                f"Ships in 3-5 business days. Satisfaction guaranteed.</p>"
             )
-            tags = design.get("tags", [])[:13]
 
             product = create_product(
                 shop_id, blueprint_id, provider_id,
-                variants, image_id, title, description, tags, markup
+                variants, image_id, seo_title, description, tags, retail_price
             )
 
             product_id = product["id"]
             publish_product(shop_id, product_id)
 
-            url = f"https://your-store.myshopify.com/products/{product.get('handle', product_id)}"
-            print(f"  [Printify] ✓ {product_name} live: {product_id}")
+            retail_dollars = retail_price / 100
+            print(f"  [Printify] LIVE: {seo_title} @ ${retail_dollars:.2f}")
 
             created.append({
-                "product_type": product_name,
-                "printify_id":  product_id,
-                "title":        title,
+                "product_type":  product_name,
+                "printify_id":   product_id,
+                "title":         seo_title,
+                "retail_price":  f"${retail_dollars:.2f}",
             })
 
         except Exception as e:
