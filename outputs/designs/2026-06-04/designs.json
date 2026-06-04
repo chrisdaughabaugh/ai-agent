@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-04",
+  "designs": [
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Driven",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "Consistency Wins",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Discipline Over Motivation T Shirt for Gym Rats and Entrepreneurs by RISE SUPPLY CO.",
+        "mug": "Rise Above Motivational Coffee Mug for Discipline and Consistency",
+        "tote_bag": "Discipline Driven Tote Bag for Fitness and Business Ambassadors of RISE SUPPLY CO."
+      },
+      "listing_description": "Unleash your inner strength with this powerful design, built to remind you that discipline is the key to unlocking your true potential. Perfect for gym-goers and entrepreneurs, this design will fuel your motivation and drive you to succeed.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "discipline over motivation",
+        "fitness motivation",
+        "Entrepreneur shirt",
+        "gym rat",
+        "motivational quote",
+        "RISE SUPPLY CO.",
+        "motivation",
+        "inspirational",
+        "discipline",
+        "consistency",
+        "motivational design",
+        "entrepreneur gifts",
+        "gym apparel",
+        "fitness apparel",
+        "motivational decor",
+        "mindset shirt"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-04/discipline-driven_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-04/discipline-driven_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "self discipline",
+      "design_title": "Discipline Wins",
+      "main_text": "NO EXCUSES",
+      "sub_text": "Only results matter",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Self Discipline Gym Shirt Motivation",
+        "mug": "Motivational Discipline Wins Coffee Mug for Gym Goers",
+        "tote_bag": "Discipline Wins Tote Bag for Ambitious Entrepreneurs"
+      },
+      "listing_description": "Unlock your full potential with this bold self-discipline design, perfect for driven individuals who strive for success. Wear or use it as a daily reminder to stay focused and motivated towards your goals.",
+      "tags": [
+        "self discipline",
+        "motivation",
+        "gym shirt",
+        "fitness motivation",
+        "discipline wins",
+        "no excuses",
+        "mindset shift",
+        "success mindset",
+        "gym motivation",
+        "motivational gift",
+        "rise supply co",
+        "motivational quotes",
+        "inspirational quotes",
+        "motivation Monday",
+        "fitness quotes",
+        "motivational designs",
+        "gym quotes",
+        "discipline motivation",
+        "self improvement",
+        "motivational tee",
+        "gym tee",
+        "motivation mug",
+        "discipline mug",
+        "entrepreneur mindset",
+        "ambitious gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-04/discipline-wins_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-04/discipline-wins_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "no excuses mentality",
+      "design_title": "Unstoppable Mindset Fuel",
+      "main_text": "NO EXCUSES",
+      "sub_text": "Own Your Greatness",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. No Excuses Mentality Gym Shirt for Men and Women",
+        "mug": "Motivational Coffee Mug - Unstoppable Mindset Fuel by RISE SUPPLY CO.",
+        "tote_bag": "Gym Tote Bag - No Excuses Mentality Motivational Gift for Fitness Enthusiasts"
+      },
+      "listing_description": "Fuel your unstoppable mindset with this bold design, perfect for gym-goers and entrepreneurs who refuse to make excuses. Wear your motivation on your sleeve and own your greatness with RISE SUPPLY CO.",
+      "tags": [
+        "no excuses mentality",
+        "motivational quotes",
+        "gym shirt",
+        "fitness motivation",
+        "mindset fuel",
+        "motivational gift",
+        "unstoppable mindset",
+        "gym inspiration",
+        "fitness enthusiast",
+        "motivational apparel",
+        "gym tote bag",
+        "motivational mug",
+        "quote tee",
+        "inspirational gift",
+        "motivational accessory",
+        "RISE SUPPLY CO.",
+        "mindset shift",
+        "gym motivation",
+        "fitness quote",
+        "motivational poster"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-04/unstoppable-mindset-fuel_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-04/unstoppable-mindset-fuel_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
