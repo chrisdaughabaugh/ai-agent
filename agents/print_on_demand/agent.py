@@ -3,6 +3,7 @@ Print-on-Demand Design Agent
 Generates typography-based POD designs with Pillow and Claude-generated metadata.
 """
 
+import os
 import sys
 import json
 import math
@@ -573,7 +574,38 @@ def run():
     })
     save_state(state)
 
+    # Auto-publish to Shopify via Printify if API key is set
+    published = []
+    if os.environ.get("PRINTIFY_API_KEY"):
+        print("\n  [Printify] API key found — auto-publishing to Shopify...")
+        try:
+            from agents.printify.publisher import publish_design_to_shopify
+            for concept in concepts:
+                colored_path = Path(concept["files"]["colored"])
+                if colored_path.exists():
+                    products = publish_design_to_shopify(concept, colored_path)
+                    published.extend(products)
+                    concept["shopify_products"] = products
+        except Exception as e:
+            print(f"  [Printify] Publish error: {e}")
+            print("  [Printify] Designs saved locally — upload manually via redbubble_upload_guide.txt")
+    else:
+        print("\n  [Printify] PRINTIFY_API_KEY not set — skipping auto-publish.")
+        print("  Add PRINTIFY_API_KEY to GitHub secrets to enable autonomous publishing.")
+
+    # Re-save designs.json with Shopify product links
+    save_json(designs_json_path, {"date": datestamp(), "designs": concepts, "published": published})
+
+    if published:
+        print(f"\n  [Printify] Published {len(published)} products to Shopify automatically!")
     print(f"\n[POD Agent] Done. Created {len(concepts)} designs in {out_dir}\n")
+
+    return {
+        "status": "success",
+        "designs": len(concepts),
+        "published_to_shopify": len(published),
+        "outputs": [str(out_dir)],
+    }
 
 
 if __name__ == "__main__":
