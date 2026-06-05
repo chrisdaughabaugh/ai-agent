@@ -1,0 +1,194 @@
+{
+  "date": "2026-06-05",
+  "designs": [
+    {
+      "theme": "pressure makes diamonds",
+      "design_title": "Diamond Mindset Tees",
+      "main_text": "PRESSURE MAKES DIAMONDS",
+      "sub_text": "stronger with each test",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Pressure Makes Diamonds Mens Gym Shirt Motivational Tee",
+        "mug": "Rise Supply Co Diamond Mindset Coffee Mug Inspirational Quote",
+        "tote_bag": "Rise Supply Co Pressure Makes Diamonds Tote Bag Gym Bag Motivational Gift"
+      },
+      "listing_description": "Unlock your inner strength with the 'Pressure Makes Diamonds' design, perfect for gym-goers and entrepreneurs who thrive under pressure. Wear your motivation on your sleeve with Rise Supply Co's bold and stylish apparel and accessories.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "mens tee",
+        "inspirational quote",
+        "pressure makes diamonds",
+        "diamond mindset",
+        "rise supply co",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "gym motivation",
+        "motivational apparel",
+        "quotes for gym",
+        "gym quotes",
+        "mens gym shirt",
+        "womens gym shirt",
+        "gym tote bag",
+        "motivational mug",
+        "inspirational mug",
+        "coffee mug quote",
+        "tote bag",
+        "gym bag",
+        "motivational gift for him",
+        "motivational gift for her"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-05/diamond-mindset-tees_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-05/diamond-mindset-tees_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "mental toughness",
+      "design_title": "Unbreakable Mindset",
+      "main_text": "STRENGTH IN PAIN",
+      "sub_text": "Fuel your greatnes",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Mental Toughness T Shirt for Men and Women - RISE SUPPLY CO.",
+        "mug": "Mental Toughness Coffee Mug - Daily Motivation for Gym and Office",
+        "tote_bag": "Unbreakable Mindset Tote Bag - Inspirational Gym Bag for Men and Women"
+      },
+      "listing_description": "Stay motivated and focused with our mental toughness apparel and accessories, designed to help you power through challenges and achieve your goals. Perfect for gym-goers, entrepreneurs, and anyone looking to boost their mindset and productivity.",
+      "tags": [
+        "mental toughness",
+        "motivational quote",
+        "gym shirt",
+        "mindset apparel",
+        "entrepreneur gift",
+        "gym motivation",
+        "fitness inspiration",
+        "productivity mindset",
+        "strong mindset",
+        "toughness quote",
+        "mind over matter",
+        "motivational gift",
+        "gym rat",
+        "fitness enthusiast",
+        "motivational tee",
+        "inspirational mug",
+        "motivational tote bag",
+        "mental strength",
+        "fitness motivation",
+        "mental toughness quote",
+        "rise above",
+        "stay strong",
+        "unbreakable mindset"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-05/unbreakable-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-05/unbreakable-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "delayed gratification",
+      "design_title": "Discipline Over Desire",
+      "main_text": "WAIT FOR IT",
+      "sub_text": "The best is yet",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Delayed Gratification T Shirt for Men and Women - RISE SUPPLY CO",
+        "mug": "Motivational Mug - Wait For It - Gym Coffee Mug",
+        "tote_bag": "Discipline Over Desire Tote Bag - Motivational Gift - RISE SUPPLY CO"
+      },
+      "listing_description": "This design reminds you that the best things in life are worth waiting for. Perfect for anyone striving for self-improvement and discipline, this 'Wait For It' design will motivate you to reach your goals.",
+      "tags": [
+        "delayed gratification",
+        "motivational quote",
+        "mindset shirt",
+        "gym inspiration",
+        "discipline over desire",
+        "wait for it",
+        "self improvement",
+        "motivational gift",
+        "rise supply co",
+        "fitness motivation",
+        "mental toughness",
+        "gym shirt",
+        "motivational t shirt",
+        "productivity",
+        "ambition",
+        "motivation",
+        "inspirational quote",
+        "mindset",
+        "fitness quote",
+        "gym quote",
+        "motivational mug",
+        "gym coffee mug",
+        "motivational tote bag",
+        "fitness gift",
+        "motivational apparel",
+        "self discipline",
+        "patient mindset",
+        "success mindset"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-05/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-05/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
