@@ -37,7 +37,14 @@ DATA_DIR = BASE_DIR / "data"
 OUTPUTS_DIR = BASE_DIR / "outputs" / "designs"
 STATE_FILE = DATA_DIR / "pod_state.json"
 
-CANVAS_SIZE = (800, 800)
+CANVAS_SIZE = (4500, 4500)   # print-quality: 15×15 in @ 300 DPI
+
+# Brand constants
+BRAND_BG      = (13, 13, 13)       # near-black background
+BRAND_WHITE   = (255, 255, 255)    # pure white text
+BRAND_GOLD    = (201, 168, 76)     # gold accent #C9A84C
+BRAND_DIMGOLD = (140, 117, 53)     # dimmer gold for sub elements
+BRAND_GRAY    = (80, 80, 80)       # subtle brand mark color
 
 # BRAND: RISE SUPPLY CO. — Motivational/Mindset niche
 # Proven #1 POD earner. Bold dark aesthetic. Max revenue focus.
@@ -201,65 +208,51 @@ def lerp_color(c1: tuple, c2: tuple, t: float) -> tuple[int, int, int]:
     return tuple(int(c1[i] + (c2[i] - c1[i]) * t) for i in range(3))
 
 
-def draw_gradient_bg(draw: "ImageDraw.ImageDraw", w: int, h: int,
-                     top_color: tuple, bottom_color: tuple):
-    for y in range(h):
-        t = y / h
-        r, g, b = lerp_color(top_color, bottom_color, t)
-        draw.line([(0, y), (w, y)], fill=(r, g, b))
+def draw_gold_rule(draw, w: int, y: int, span_pct: float = 0.55, thickness: int = 6):
+    """Draw a centered gold horizontal rule."""
+    span = int(w * span_pct)
+    x0 = (w - span) // 2
+    draw.line([(x0, y), (x0 + span, y)], fill=BRAND_GOLD, width=thickness)
 
 
-def draw_decorative_circles(draw: "ImageDraw.ImageDraw", w: int, h: int,
-                             accent_rgb: tuple, count: int = 6):
-    """Scatter translucent decorative circles around the canvas."""
-    for _ in range(count):
-        cx = random.randint(0, w)
-        cy = random.randint(0, h)
-        r = random.randint(20, 80)
-        # Use a slightly transparent version by layering
-        draw.ellipse(
-            [cx - r, cy - r, cx + r, cy + r],
-            outline=(*accent_rgb, 60),
-            width=2,
-        )
+def draw_border_frame(draw, w: int, h: int, margin: int = 120, thickness: int = 4):
+    """Draw a thin gold rectangular border inset from the edges."""
+    m = margin
+    draw.rectangle([m, m, w - m, h - m], outline=BRAND_GOLD, width=thickness)
 
 
-def draw_corner_lines(draw: "ImageDraw.ImageDraw", w: int, h: int,
-                      color_rgb: tuple, margin: int = 40):
-    """Draw elegant corner bracket lines."""
-    length = 60
-    lw = 2
-    c = (*color_rgb,)
-    # Top-left
-    draw.line([(margin, margin), (margin + length, margin)], fill=c, width=lw)
-    draw.line([(margin, margin), (margin, margin + length)], fill=c, width=lw)
-    # Top-right
-    draw.line([(w - margin - length, margin), (w - margin, margin)], fill=c, width=lw)
-    draw.line([(w - margin, margin), (w - margin, margin + length)], fill=c, width=lw)
-    # Bottom-left
-    draw.line([(margin, h - margin - length), (margin, h - margin)], fill=c, width=lw)
-    draw.line([(margin, h - margin), (margin + length, h - margin)], fill=c, width=lw)
-    # Bottom-right
-    draw.line([(w - margin, h - margin - length), (w - margin, h - margin)], fill=c, width=lw)
-    draw.line([(w - margin - length, h - margin), (w - margin, h - margin)], fill=c, width=lw)
+def fit_font_to_width(text: str, draw, max_width: int,
+                      start_size: int = 700, min_size: int = 120) -> tuple:
+    """Return (font, actual_size) that fits text within max_width pixels."""
+    size = start_size
+    while size >= min_size:
+        font = get_font(size)
+        bbox = draw.textbbox((0, 0), text, font=font)
+        if (bbox[2] - bbox[0]) <= max_width:
+            return font, size
+        size -= 10
+    return get_font(min_size), min_size
 
 
-def draw_horizontal_dividers(draw: "ImageDraw.ImageDraw", w: int, h: int,
-                              y_pos: int, color_rgb: tuple):
-    """Draw a short decorative line divider centered horizontally."""
-    line_w = 120
-    cx = w // 2
-    lw = 1
-    draw.line([(cx - line_w, y_pos), (cx + line_w, y_pos)],
-              fill=(*color_rgb,), width=lw)
-    # Small diamond at center
-    d = 4
-    draw.polygon([
-        (cx, y_pos - d),
-        (cx + d, y_pos),
-        (cx, y_pos + d),
-        (cx - d, y_pos),
-    ], fill=(*color_rgb,))
+def layout_main_lines(main_text: str) -> list[str]:
+    """
+    Split a short motivational phrase into high-impact display lines.
+    Strategy: one or two words per line for maximum visual weight.
+    """
+    words = main_text.upper().split()
+    if len(words) == 1:
+        return words
+    if len(words) == 2:
+        return words                     # one word each line
+    if len(words) == 3:
+        return [words[0], " ".join(words[1:])]   # 1 / 2
+    if len(words) == 4:
+        return [" ".join(words[:2]), " ".join(words[2:])]  # 2 / 2
+    # 5+ words: pairs
+    lines = []
+    for i in range(0, len(words), 2):
+        lines.append(" ".join(words[i:i + 2]))
+    return lines
 
 
 def get_font(size: int) -> "ImageFont.FreeTypeFont":
@@ -316,120 +309,97 @@ def wrap_text(text: str, font, max_width: int, draw) -> list[str]:
 
 
 def render_design(concept: dict, out_path_colored: Path, out_path_transparent: Path):
-    """Create two 800x800 PNGs: one with colored BG, one with transparent BG."""
+    """
+    Render a high-impact motivational POD design.
+    4500×4500 px (print-quality), solid black bg, massive white text, gold accents.
+    """
     if not PILLOW_OK:
         print(f"  [SKIP] Pillow unavailable — skipping PNG generation")
         return
 
-    palette = concept.get("color_palette", [])
-    while len(palette) < 4:
-        palette.append({"name": "white", "hex": "#FFFFFF"})
-
-    bg_rgb = hex_to_rgb(palette[0]["hex"])
-    bg2_rgb = hex_to_rgb(palette[1]["hex"])
-    accent_rgb = hex_to_rgb(palette[2]["hex"])
-    text_rgb = hex_to_rgb(palette[-1]["hex"])
-
-    main_text = concept.get("main_text", "BE YOURSELF")
-    sub_text = concept.get("sub_text", "always and forever")
-    w, h = CANVAS_SIZE
-
-    # ---- Colored background version ----------------------------------------
-    img_c = Image.new("RGB", (w, h), bg_rgb)
-    draw_c = ImageDraw.Draw(img_c)
-
-    # Gradient background
-    draw_gradient_bg(draw_c, w, h, bg_rgb, bg2_rgb)
-
-    # Decorative background circles (subtle)
-    random.seed(main_text)  # deterministic per design
-    draw_decorative_circles(draw_c, w, h, accent_rgb, count=8)
-
-    # Corner brackets
-    draw_corner_lines(draw_c, w, h, accent_rgb, margin=35)
-
-    # Fonts
-    main_font_size = 72
-    main_font = get_font(main_font_size)
-    sub_font = get_font_regular(32)
-    tiny_font = get_font_regular(18)
-
-    # Wrap and measure main text
-    max_text_w = int(w * 0.78)
-    main_lines = wrap_text(main_text.upper(), main_font, max_text_w, draw_c)
-
-    line_h = main_font_size + 12
-    total_main_h = len(main_lines) * line_h
-    main_start_y = h // 2 - total_main_h // 2 - 40
-
-    # Draw main text (slight shadow)
-    shadow_offset = 3
-    for i, line in enumerate(main_lines):
-        bbox = draw_c.textbbox((0, 0), line, font=main_font)
-        lw = bbox[2] - bbox[0]
-        x = (w - lw) // 2
-        y = main_start_y + i * line_h
-        # Shadow
-        draw_c.text((x + shadow_offset, y + shadow_offset), line,
-                    font=main_font, fill=(*accent_rgb, 80))
-        # Main text
-        draw_c.text((x, y), line, font=main_font, fill=text_rgb)
-
-    # Divider line
-    divider_y = main_start_y + total_main_h + 20
-    draw_horizontal_dividers(draw_c, w, h, divider_y, accent_rgb)
-
-    # Sub text
-    sub_lines = wrap_text(sub_text, sub_font, max_text_w, draw_c)
-    sub_start_y = divider_y + 30
-    for i, line in enumerate(sub_lines):
-        bbox = draw_c.textbbox((0, 0), line, font=sub_font)
-        lw = bbox[2] - bbox[0]
-        x = (w - lw) // 2
-        y = sub_start_y + i * 40
-        draw_c.text((x, y), line, font=sub_font, fill=accent_rgb)
-
-    # Small theme label at bottom
-    theme_label = concept.get("theme", "").upper()
-    bbox = draw_c.textbbox((0, 0), theme_label, font=tiny_font)
-    lw = bbox[2] - bbox[0]
-    draw_c.text(((w - lw) // 2, h - 55), theme_label,
-                font=tiny_font, fill=(*accent_rgb,))
+    main_text = concept.get("main_text", "RISE UP").upper()
+    sub_text  = concept.get("sub_text",  "built different").upper()
+    w, h = CANVAS_SIZE   # 4500 × 4500
 
     out_path_colored.parent.mkdir(parents=True, exist_ok=True)
-    img_c.save(str(out_path_colored), "PNG", dpi=(300, 300))
 
-    # ---- Transparent background version ------------------------------------
-    img_t = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    # ── COLORED (dark background) VERSION ────────────────────────────────────
+    img  = Image.new("RGB", (w, h), BRAND_BG)
+    draw = ImageDraw.Draw(img)
+
+    # Thin gold border frame
+    draw_border_frame(draw, w, h, margin=140, thickness=5)
+
+    # Split phrase into display lines for maximum visual weight
+    lines = layout_main_lines(main_text)
+
+    # Find the largest font size where the widest line fits in 84% of canvas
+    max_text_w = int(w * 0.84)
+    widest = max(lines, key=len)
+    main_font, font_size = fit_font_to_width(widest, draw, max_text_w,
+                                              start_size=700, min_size=120)
+
+    # Tight leading: 95% of font size so lines feel powerful, not airy
+    line_h     = int(font_size * 0.95)
+    total_text_h = len(lines) * line_h
+
+    # Center text block — nudge up slightly to leave room for sub text
+    text_block_y = (h - total_text_h) // 2 - int(font_size * 0.3)
+
+    for i, line in enumerate(lines):
+        bbox  = draw.textbbox((0, 0), line, font=main_font)
+        text_w = bbox[2] - bbox[0]
+        x = (w - text_w) // 2
+        y = text_block_y + i * line_h
+        draw.text((x, y), line, font=main_font, fill=BRAND_WHITE)
+
+    # Gold rule below main text
+    rule_y = text_block_y + total_text_h + int(font_size * 0.18)
+    draw_gold_rule(draw, w, rule_y, span_pct=0.42, thickness=7)
+
+    # Sub text — refined, gold, smaller
+    sub_font_size = max(80, font_size // 6)
+    sub_font = get_font_regular(sub_font_size)
+    sub_bbox  = draw.textbbox((0, 0), sub_text, font=sub_font)
+    sub_x = (w - (sub_bbox[2] - sub_bbox[0])) // 2
+    sub_y = rule_y + 55
+    draw.text((sub_x, sub_y), sub_text, font=sub_font, fill=BRAND_GOLD)
+
+    # Brand mark — very subtle at bottom center
+    brand_font = get_font_regular(60)
+    brand_text = "RISE SUPPLY CO."
+    bb = draw.textbbox((0, 0), brand_text, font=brand_font)
+    draw.text(((w - (bb[2] - bb[0])) // 2, h - 220),
+              brand_text, font=brand_font, fill=BRAND_GRAY)
+
+    img.save(str(out_path_colored), "PNG", dpi=(300, 300))
+
+    # ── TRANSPARENT VERSION (white text on clear bg — for light products) ────
+    img_t  = Image.new("RGBA", (w, h), (0, 0, 0, 0))
     draw_t = ImageDraw.Draw(img_t)
 
-    # Corner brackets in accent color
-    draw_corner_lines(draw_t, w, h, accent_rgb, margin=35)
+    # Border
+    draw_border_frame(draw_t, w, h, margin=140, thickness=5)
 
-    # Main text (use dark color for visibility on transparent)
-    render_color = text_rgb if sum(text_rgb) < 400 else bg_rgb
-    for i, line in enumerate(main_lines):
-        bbox = draw_t.textbbox((0, 0), line, font=main_font)
-        lw = bbox[2] - bbox[0]
-        x = (w - lw) // 2
-        y = main_start_y + i * line_h
-        draw_t.text((x, y), line, font=main_font, fill=(*render_color, 255))
+    for i, line in enumerate(lines):
+        bbox  = draw_t.textbbox((0, 0), line, font=main_font)
+        text_w = bbox[2] - bbox[0]
+        x = (w - text_w) // 2
+        y = text_block_y + i * line_h
+        draw_t.text((x, y), line, font=main_font, fill=(13, 13, 13, 255))
 
-    draw_horizontal_dividers(draw_t, w, h, divider_y, accent_rgb)
+    draw_gold_rule(draw_t, w, rule_y, span_pct=0.42, thickness=7)
 
-    for i, line in enumerate(sub_lines):
-        bbox = draw_t.textbbox((0, 0), line, font=sub_font)
-        lw = bbox[2] - bbox[0]
-        x = (w - lw) // 2
-        y = sub_start_y + i * 40
-        draw_t.text((x, y), line, font=sub_font, fill=(*accent_rgb, 230))
+    sub_bb = draw_t.textbbox((0, 0), sub_text, font=sub_font)
+    draw_t.text(((w - (sub_bb[2] - sub_bb[0])) // 2, sub_y),
+                sub_text, font=sub_font, fill=(*BRAND_GOLD, 230))
 
-    draw_t.text(((w - draw_t.textbbox((0, 0), theme_label, font=tiny_font)[2]) // 2,
-                  h - 55),
-                theme_label, font=tiny_font, fill=(*accent_rgb, 200))
+    bb_t = draw_t.textbbox((0, 0), brand_text, font=brand_font)
+    draw_t.text(((w - (bb_t[2] - bb_t[0])) // 2, h - 220),
+                brand_text, font=brand_font, fill=(*BRAND_GRAY, 180))
 
     img_t.save(str(out_path_transparent), "PNG", dpi=(300, 300))
-    print(f"  Saved: {out_path_colored.name} + transparent variant")
+    print(f"  Saved: {out_path_colored.name} ({w}×{h} @ 300 DPI)")
 
 
 # ---------------------------------------------------------------------------
