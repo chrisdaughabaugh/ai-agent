@@ -1,9 +1,7 @@
 name: Daily Product Agent
 
 on:
-  schedule:
-    # Runs every day at 9 AM UTC
-    - cron: "0 9 * * *"
+  # Disabled — replaced by Multi-Agent Income System (agents.yml)
   workflow_dispatch:
     inputs:
       dry_run:
