@@ -1,0 +1,191 @@
+{
+  "date": "2026-06-08",
+  "designs": [
+    {
+      "theme": "stay dangerous stay humble",
+      "design_title": "Dangerous Humble Mindset",
+      "main_text": "STAY DANGEROUS",
+      "sub_text": "Humble in Heart",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Stay Dangerous T Shirt for Gym and Fitness Motivation",
+        "mug": "Stay Humble Stay Dangerous Coffee Mug for Entrepreneurs and Fitness Enthusiasts",
+        "tote_bag": "Motivational Stay Dangerous Tote Bag for Ambitious Men and Women"
+      },
+      "listing_description": "Unlock your inner strength with this powerful design, perfect for those who embody a strong and humble mindset. Wear or display your motivation with Rise Supply Co's exclusive 'Stay Dangerous Stay Humble' collection.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "humility",
+        "dangerous mindset",
+        "stay humble",
+        "rise supply co",
+        "t shirt",
+        "mug",
+        "tote bag",
+        "entrepreneur gift",
+        "gym enthusiast",
+        "ambitious men",
+        "strong women",
+        "fitness inspiration",
+        "gym motivation",
+        "motivational quotes",
+        "mindset shift",
+        "stay dangerous",
+        "humble heart",
+        "motivational apparel",
+        "inspirational gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-08/dangerous-humble-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-08/dangerous-humble-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "no excuses mentality",
+      "design_title": "No Excuses Motivation",
+      "main_text": "NO EXCUSES ALLOWED",
+      "sub_text": "rise above the noise",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co No Excuses Motivation T Shirt for Gym and Fitness",
+        "mug": "Motivational Mug for Entrepreneurs - No Excuses Allowed by Rise Supply Co",
+        "tote_bag": "No Excuses Tote Bag for Ambitious Men and Women - Rise Supply Co Motivation"
+      },
+      "listing_description": "Unlock your full potential with this powerful no excuses design by Rise Supply Co, perfect for fitness enthusiasts and entrepreneurs who refuse to back down. Wear your motivation on your sleeve and stay driven with this bold and eye-catching design.",
+      "tags": [
+        "no excuses",
+        "motivation",
+        "fitness motivation",
+        "gym shirt",
+        "entrepreneur gift",
+        "motivational quote",
+        "rise supply co",
+        "no excuses allowed",
+        "motivational mug",
+        "gym motivation",
+        "fitness gift",
+        "ambitious men",
+        "ambitious women",
+        "driven individuals",
+        "motivational tote bag",
+        "no excuses mentality",
+        "motivational apparel",
+        "inspirational quotes",
+        "fitness enthusiasts",
+        "entrepreneur motivation"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-08/no-excuses-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-08/no-excuses-motivation_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "entrepreneur grind",
+      "design_title": "Grind Daily Motive",
+      "main_text": "-rise above doubt",
+      "sub_text": " Fuel your hustle",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Entrepreneur Grind T Shirt for Men and Women",
+        "mug": "Motivational Coffee Mug for Entrepreneurs",
+        "tote_bag": "Rise Supply Co Gym Tote Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Unlock your inner strength with this bold design, perfect for entrepreneurs and fitness enthusiasts who grind daily. This motivational quote on a premium t-shirt, mug, or tote bag is the perfect way to stay focused and driven on your journey to success.",
+      "tags": [
+        "entrepreneur gift",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "hustle hard",
+        "rise and grind",
+        "daily motivation",
+        "startup mindset",
+        "business owner",
+        "fitness enthusiast",
+        "motivational gear",
+        "inspirational quote",
+        "gym motivation",
+        "fitness quote",
+        "entrepreneur mindset",
+        "motivational tee",
+        "gym tote bag",
+        "fitness mug",
+        "entrepreneur apparel",
+        "motivational accessories",
+        "grind daily",
+        "hustle motivation",
+        "fitness inspiration",
+        "startup motivation",
+        "entrepreneur motivation",
+        "motivational products",
+        "inspirational gifts",
+        "fitness gifts",
+        "entrepreneur gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-08/grind-daily-motive_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-08/grind-daily-motive_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
