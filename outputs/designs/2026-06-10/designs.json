@@ -1,0 +1,191 @@
+{
+  "date": "2026-06-10",
+  "designs": [
+    {
+      "theme": "early riser 5am club",
+      "design_title": "Rise Above",
+      "main_text": "RISE BEFORE THE SUN",
+      "sub_text": "Own Your Morning",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Early Riser 5am Club T-Shirt for Men and Women - RISE SUPPLY CO.",
+        "mug": "Motivational Morning Mug for Early Risers - RISE SUPPLY CO.",
+        "tote_bag": "Gym Tote Bag for Fitness Enthusiasts - RISE SUPPLY CO. Early Riser"
+      },
+      "listing_description": "Start your day with a bold statement and rise above the rest with this empowering design. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed, this early riser 5am club design will motivate you to take on the day.",
+      "tags": [
+        "early riser",
+        "5am club",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "rise and grind",
+        "morning motivation",
+        "inspirational quote",
+        "black t shirt",
+        "white mug",
+        "tote bag",
+        "gym bag",
+        "fitness enthusiast",
+        "motivational gift",
+        "productivity",
+        "success mindset",
+        "morning routine",
+        "rise above"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-10/rise-above_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-10/rise-above_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "mental toughness",
+      "design_title": "Unbreakable Mindset",
+      "main_text": "UNLEASH YOUR STRENGTH",
+      "sub_text": "Train your mind daily",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Mental Toughness Gym Shirt - RISE SUPPLY CO. Motivational Tee",
+        "mug": "Unbreakable Mindset Coffee Mug - RISE SUPPLY CO. Motivational Gift",
+        "tote_bag": "Mental Strength Tote Bag - RISE SUPPLY CO. Gym Bag"
+      },
+      "listing_description": "Upgrade your mindset with this powerful design, perfect for those who crave mental toughness and unbreakable spirit. Wear or use this design as a daily reminder to unleash your inner strength and reach new heights.",
+      "tags": [
+        "mental toughness",
+        "motivational quote",
+        "gym shirt",
+        "mindset gift",
+        "unbreakable spirit",
+        "motivational mug",
+        "gym motivation",
+        "strong mindset",
+        "fitness inspiration",
+        "mind over matter",
+        "motivational tote bag",
+        "gym bag",
+        "mental strength",
+        "inspirational gift",
+        "motivational quote gift",
+        "RISE SUPPLY CO.",
+        "gym clothing",
+        "motivational clothing",
+        "mindset apparel",
+        "mental toughness apparel",
+        "fitness motivation",
+        "workout inspiration",
+        "motivational gifts for men",
+        "motivational gifts for women",
+        "motivational gifts",
+        "mindset quotes",
+        "gym quotes",
+        "fitness quotes",
+        "inspirational quotes"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-10/unbreakable-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-10/unbreakable-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "gym and fitness mindset",
+      "design_title": "Unstoppable Fitness Motive",
+      "main_text": "LIFT HEAVY DREAM BIG",
+      "sub_text": "Stronger every rep",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Gym Motivation T Shirt - Fitness Mindset Apparel",
+        "mug": "RISE SUPPLY CO Unstoppable Fitness Motive Coffee Mug - Gym Gift",
+        "tote_bag": "RISE SUPPLY CO Gym Tote Bag - Fitness Motivation Bag - Workout Gear"
+      },
+      "listing_description": "Fuel your fitness journey with this bold and inspiring design, perfect for anyone who hits the gym and hustles every day. Stay motivated and focused on your goals with RISE SUPPLY CO's high-quality apparel and Accessories.",
+      "tags": [
+        "gym shirt",
+        "fitness motivation",
+        "motivational gift",
+        "gym motivation",
+        "fitness apparel",
+        "workout clothes",
+        "gym lover",
+        "fitness enthusiast",
+        "motivational quote",
+        "gym quote",
+        "fitness quote",
+        "inspirational quote",
+        "motivational tee",
+        "gym tee",
+        "fitness tee",
+        "gym tank",
+        "fitness tank",
+        "gym hoodie",
+        "fitness hoodie",
+        "RISE SUPPLY CO",
+        "gym gifts",
+        "fitness gifts",
+        "motivational gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-10/unstoppable-fitness-motive_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-10/unstoppable-fitness-motive_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
