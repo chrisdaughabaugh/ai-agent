@@ -1,0 +1,193 @@
+{
+  "date": "2026-06-11",
+  "designs": [
+    {
+      "theme": "grind and hustle",
+      "design_title": "Hustle Mode Activated",
+      "main_text": "GRIND EVERY DAY",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Grind Every Day Motivational Gym Shirt for Men and Women",
+        "mug": "Hustle Mode Activated Coffee Mug for Entrepreneurs and Fitness Enthusiasts",
+        "tote_bag": "Rise Supply Co Grind Every Day Gym Tote Bag for Athletes and Motivation Seekers"
+      },
+      "listing_description": "Unleash your inner strength with this bold motivational design, perfect for gym-goers and entrepreneurs who refuse to back down. Fuel your hustle with a daily reminder to grind every day and reach your goals.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "hustle mode",
+        "grind every day",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "gym tote bag",
+        "motivational mug",
+        "rise supply co",
+        "gym enthusiast",
+        "fitness enthusiast",
+        "motivational quote",
+        "gym inspiration",
+        "hustle and grind",
+        "motivational apparel",
+        "gym wear",
+        "fitness wear",
+        "entrepreneur gift",
+        "motivation",
+        "inspiration",
+        "gym motivation",
+        "fitness motivation",
+        "hustle",
+        "grind"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-11/hustle-mode-activated_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-11/hustle-mode-activated_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "do it scared anyway",
+      "design_title": "Fearless Motivation",
+      "main_text": "DO IT SCARED ANYWAY",
+      "sub_text": "Face your fears now",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Do It Scared Anyway Motivational T Shirt",
+        "mug": "Motivational Mug Do It Scared Anyway RISE SUPPLY CO Gift",
+        "tote_bag": "RISE SUPPLY CO Do It Scared Anyway Gym Tote Bag Motivation"
+      },
+      "listing_description": "Empower yourself with the fearless motivation you need to take on any challenge. This 'Do It Scared Anyway' design is perfect for anyone looking to push past their fears and achieve their goals.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "fearless motivation",
+        "do it scared anyway",
+        "motivational gift",
+        "rise supply co",
+        "print on demand",
+        "motivation apparel",
+        "inspirational quotes",
+        "gym motivation",
+        "motivational mug",
+        "fearless",
+        "motivational tote bag",
+        "fitness motivation",
+        "entrepreneur motivation",
+        "mindset shift",
+        "motivational wall art",
+        "quotes about fear",
+        "motivational jewelry",
+        "gym accessories",
+        "motivational phone case",
+        "fearless quotes",
+        "motivational art",
+        "motivational poster",
+        "rise above fear"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-11/fearless-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-11/fearless-motivation_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "self discipline",
+      "design_title": "Discipline Equals Freedom",
+      "main_text": "I CONTROL MY DESTINY",
+      "sub_text": "Every rep every set",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Self Discipline T Shirt for Gym and Fitness",
+        "mug": "RISE SUPPLY CO Motivational Discipline Quotes Coffee Mug",
+        "tote_bag": "RISE SUPPLY CO Discipline Equals Freedom Tote Bag for Gym Goers"
+      },
+      "listing_description": "Unlock your full potential with this powerful self discipline design, perfect for gym enthusiasts and entrepreneurs who strive for greatness. Wear your motivation on your sleeve and stay focused on your goals with RISE SUPPLY CO.",
+      "tags": [
+        "self discipline",
+        "motivational quotes",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "mens gym wear",
+        "womens fitness apparel",
+        "discipline equals freedom",
+        "motivational gift",
+        "RISE SUPPLY CO",
+        "gym quotes",
+        "fitness quotes",
+        "motivation",
+        "inspiration",
+        "gym bag",
+        "gym tote",
+        "fitness gear",
+        "workout motivation",
+        "motivational clothing",
+        "self improvement",
+        "productivity",
+        "goal setting",
+        "success mindset",
+        "mindset shift"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-11/discipline-equals-freedom_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-11/discipline-equals-freedom_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
