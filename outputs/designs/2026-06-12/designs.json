@@ -1,0 +1,194 @@
+{
+  "date": "2026-06-12",
+  "designs": [
+    {
+      "theme": "grind and hustle",
+      "design_title": "Rise Above All",
+      "main_text": "GRIND EVERY DAY",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Grind Mindset T Shirt for Gym and Fitness",
+        "mug": "Rise Above Morning Motivation Mug for Hustlers and Entrepreneurs",
+        "tote_bag": "Rise Supply Co Motivational Tote Bag for Fitness and Business"
+      },
+      "listing_description": "Unleash your inner strength with this motivational design, perfect for gym-goers and entrepreneurs who refuse to back down. Wear your mindset on your sleeve and rise above the ordinary with Rise Supply Co.",
+      "tags": [
+        "grind and hustle",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "mindset quote",
+        "rise above",
+        "entrepreneur apparel",
+        "gym wear",
+        "mindset t shirt",
+        "hustle hard",
+        "motivational mug",
+        "gym bag",
+        "fitness tote",
+        "motivation quote",
+        "no excuses",
+        "workout motivation",
+        "startup entrepreneur",
+        "entrepreneur gifts",
+        "gym lover",
+        "fitness enthusiast",
+        "mindset matters",
+        "motivational poster",
+        "motivational art",
+        "inspirational quote",
+        "quote of the day",
+        "motivational design"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-12/rise-above-all_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-12/rise-above-all_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "self discipline",
+      "design_title": "Discipline Over Desire",
+      "main_text": "CONTROL YOUR MIND",
+      "sub_text": "Own your actions",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Self Discipline Gym T Shirt for Men and Women",
+        "mug": "Motivational Coffee Mug - Discipline Over Desire Morning Routine",
+        "tote_bag": "RISE SUPPLY CO Discipline Tote Bag for Gym and Daily Use"
+      },
+      "listing_description": "Unleash your inner strength with this powerful design, reminding you to stay focused and disciplined on your journey to success. Perfect for gym enthusiasts, entrepreneurs, and anyone striving to reach their goals",
+      "tags": [
+        "self discipline",
+        "motivational quote",
+        "gym shirt",
+        "motivational gift",
+        "mindset shirt",
+        "fitness motivation",
+        " Discipline Over Desire",
+        "RISE SUPPLY CO",
+        "gym tank",
+        "motivational mug",
+        "discipline quote",
+        "success mindset",
+        "mental toughness",
+        "gym motivation",
+        "workout routine",
+        "goal setting",
+        "inspirational quotes",
+        "motivational clothing",
+        "discipline is key"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-12/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-12/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "winners mindset",
+      "design_title": "Unstoppable Mindset Wins",
+      "main_text": "I AM UNSTOPPABLE",
+      "sub_text": "Every rep every day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Winners Mindset Gym Shirt Motivation Tee",
+        "mug": "RISE SUPPLY CO Unstoppable Mindset Coffee Mug Morning Motivation",
+        "tote_bag": "RISE SUPPLY CO Motivational Gym Tote Bag Unstoppable Mindset"
+      },
+      "listing_description": "Unlock your full potential with the unstoppable mindset design, perfect for gym-goers and entrepreneurs seeking motivation. Wear your mindset on your sleeve and stay driven every day with RISE SUPPLY CO.",
+      "tags": [
+        "winners mindset",
+        "motivational quote",
+        "gym shirt",
+        "unstoppable mindset",
+        "motivation tee",
+        "mindset is everything",
+        "gym motivation",
+        "RISE SUPPLY CO",
+        "fitness inspiration",
+        "winner mindset quote",
+        "unstoppable quote",
+        "motivational gift",
+        "gym lover",
+        "entrepreneur motivation",
+        "fitness mindset",
+        "gym bag",
+        "motivational mug",
+        "morning motivation",
+        "coffee mug",
+        "tote bag",
+        "motivational tote",
+        "winner",
+        "motivation",
+        "gym goer",
+        "fitness enthusiast",
+        "motivational apparel",
+        "unstoppable",
+        "mindset",
+        "RISE SUPPLY CO mindset"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-12/unstoppable-mindset-wins_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-12/unstoppable-mindset-wins_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
