@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-13",
+  "designs": [
+    {
+      "theme": "early riser 5am club",
+      "design_title": "Rise Above Madness",
+      "main_text": "RISE BEFORE THE SUN",
+      "sub_text": "own your day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Early Riser 5am Club T-Shirt for Gym Motivation",
+        "mug": "5am Club Rise Above Madness Morning Motivation Mug",
+        "tote_bag": "Rise Before The Sun Inspirational Tote Bag for Ambitious Entrepreneurs"
+      },
+      "listing_description": "Unlock your full potential with this bold design, empowering you to take control of your day. Perfect for driven individuals, this early riser 5am club motivational gear is designed to fuel your ambition and inspire a productive lifestyle.",
+      "tags": [
+        "early riser",
+        "5am club",
+        "motivational quote",
+        "gym shirt",
+        "rise above",
+        "motivation mug",
+        "inspirational tote",
+        "ambitious entrepreneurs",
+        "productive lifestyle",
+        "morning motivation",
+        "rise before the sun",
+        "gym motivation",
+        "motivational gift",
+        "fitness inspiration",
+        "entrepreneur gift",
+        "morning routine",
+        "productivity",
+        "early bird",
+        "rise and grind",
+        "motivational apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-13/rise-above-madness_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-13/rise-above-madness_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "silent hard work",
+      "design_title": "Silent Grind Mode",
+      "main_text": "SILENTLY GETTING IT DONE",
+      "sub_text": "no noise just results",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Silent Grind Mode T Shirt for Gym and Fitness Motivation",
+        "mug": "Motivational Coffee Mug Silent Hard Work RISE SUPPLY CO",
+        "tote_bag": "RISE SUPPLY CO Silent Grind Mode Tote Bag for Fitness and Motivation"
+      },
+      "listing_description": "Unleash your inner strength with this bold design that reminds you to stay focused and quiet, while putting in the hard work to achieve your goals. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed, this design is a constant motivation to keep pushing forward.",
+      "tags": [
+        "silent grind",
+        "hard work",
+        "motivation",
+        "gym shirt",
+        "fitness motivation",
+        "rise supply co",
+        "motivational quote",
+        "gym motivation",
+        "fitness gift",
+        "motivational gift",
+        "t shirt for men",
+        "t shirt for women",
+        "gym t shirt",
+        "workout motivation",
+        "entrepreneur motivation",
+        "success mindset",
+        "gym inspiration",
+        "fitness inspiration",
+        "rise and grind",
+        "motivational quotes",
+        "fitness quote",
+        "gym quote",
+        "inspirational quotes",
+        "motivational design",
+        "gym design",
+        "fitness design"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-13/silent-grind-mode_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-13/silent-grind-mode_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "winners mindset",
+      "design_title": "Unstoppable Mindset Wins",
+      "main_text": "I AM UNSTOPPABLE",
+      "sub_text": "Fuel your inner strength",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Unstoppable Mindset T-Shirt for Gym and Fitness",
+        "mug": "Motivational Winner Mindset Quote Mug for Coffee Lovers",
+        "tote_bag": "Inspirational Unstoppable Mindset Tote Bag for Daily Use"
+      },
+      "listing_description": "Unlock your inner strength and unleash your full potential with this powerful design, perfect for gym-goers and entrepreneurs who refuse to back down. Wear your mindset on your sleeve and inspire others to do the same with RISE SUPPLY CO.'s unstoppable mindset apparel and accessories.",
+      "tags": [
+        "winners mindset",
+        "unstoppable mindset",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "mindset quote",
+        "inspirational quote",
+        "RISE SUPPLY CO.",
+        "motivational tee",
+        "gym motivation",
+        "fitness inspiration",
+        "winner mindset",
+        "quotes for gym",
+        "gym quotes",
+        "unstoppable quote",
+        "motivation gift",
+        "motivational mug",
+        "gym bag",
+        "fitness bag",
+        "motivational tote",
+        "inspirational tote",
+        "gym inspiration"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-13/unstoppable-mindset-wins_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-13/unstoppable-mindset-wins_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
