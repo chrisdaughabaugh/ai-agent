@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-14",
+  "designs": [
+    {
+      "theme": "stay dangerous stay humble",
+      "design_title": "Dangerously Driven",
+      "main_text": "STAY DANGEROUS",
+      "sub_text": "Humble in heart",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Stay Dangerous T-Shirt for Gym and Fitness",
+        "mug": "Motivational Mug - Stay Humble Stay Dangerous Coffee Cup",
+        "tote_bag": "RISE SUPPLY CO. Dangerously Driven Tote Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Fuel your ambition with the Stay Dangerous design from RISE SUPPLY CO., perfect for gym-goers and entrepreneurs who refuse to back down. Wear your motivation on your sleeve with our high-quality apparel and accessories, designed to inspire greatness.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "stay humble",
+        "stay dangerous",
+        "fitness apparel",
+        "entrepreneur gift",
+        "motivational gift",
+        "mindset shirt",
+        "gym motivation",
+        "fitness motivation",
+        "RISE SUPPLY CO.",
+        "dangerously driven",
+        "humble in heart",
+        "inspirational quotes",
+        "gym quotes",
+        "fitness quotes",
+        "motivational tees",
+        "gym wear",
+        "fitness wear",
+        "entrepreneur apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-14/dangerously-driven_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-14/dangerously-driven_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Inner Strength",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Hunt Your Goals",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Be The Wolf T-Shirt - Motivational Gym Shirt",
+        "mug": "Be The Wolf Not The Sheep Motivational Mug - RISE SUPPLY CO",
+        "tote_bag": "RISE SUPPLY CO Unleash Inner Strength Tote Bag - Be The Wolf Bag"
+      },
+      "listing_description": "Unleash your inner strength and unleash your potential with this bold design. Perfect for gym-goers, entrepreneurs, and anyone looking to stay motivated and focused on their goals.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "be the wolf",
+        "wolf quote",
+        "motivational quote",
+        "inner strength",
+        "unleash potential",
+        "gym motivation",
+        "entrepreneur gift",
+        "motivational mug",
+        "wolf design",
+        "tough shirt",
+        "mental toughness",
+        "fitness motivation",
+        "ambition quote",
+        "drive and ambition",
+        "stay motivated",
+        "focus on goals",
+        "be the wolf not the sheep",
+        "rise above",
+        "wolf mentality",
+        "motivational apparel",
+        "gym wear",
+        "fitness wear",
+        "inspirational quote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-14/unleash-inner-strength_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-14/unleash-inner-strength_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
