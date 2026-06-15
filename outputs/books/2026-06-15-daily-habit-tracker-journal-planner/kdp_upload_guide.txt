@@ -1,0 +1,80 @@
+AMAZON KDP UPLOAD GUIDE
+=======================
+Book: Daily Habit Tracker Journal Planner
+Generated: 2026-06-15
+
+STEP-BY-STEP UPLOAD INSTRUCTIONS
+----------------------------------
+
+1. LOG IN TO KDP
+   Go to: https://kdp.amazon.com
+   Sign in with your Amazon account (or create one free).
+
+2. CREATE A NEW TITLE
+   Click "Create" > "Paperback"
+
+3. BOOK DETAILS (Paperback Details tab)
+   - Language: English
+   - Book Title: Daily Habit Tracker Journal Planner
+   - Subtitle: Boost Productivity and Achieve Goals with Daily Habit Tracking and Planning Templates
+   - Primary Author: [Your Name or Pen Name]
+   - Description: [Paste from metadata.json "description" field]
+   - Publishing Rights: I own the copyright
+   - Keywords (7 max): habit tracker, daily planner, productivity journal, goal setting, self improvement, mindfulness journal, motivation planner
+   - Categories: Books > Self-Help > Personal Development / Books > Health, Fitness & Dieting > Mental Health
+   - Age & Grade Range: Leave blank unless children's book
+
+4. BOOK CONTENT (Paperback Content tab)
+   - ISBN: Get a Free KDP ISBN
+   - Publication Date: Leave blank (auto-filled)
+   - Print Options:
+     * Interior & paper type: Black & White, White paper
+     * Trim size: 6 x 9 in
+     * Bleed settings: No Bleed
+     * Cover finish: Matte (recommended for journals/planners)
+   - Upload Manuscript: Upload manuscript.pdf from this folder
+   - Book Cover: Use KDP Cover Creator OR upload a custom cover
+     (Recommended: Create a professional cover on Canva.com using the 6x9 template)
+
+5. KDP COVER CREATOR TIPS
+   - Choose a simple, clean template
+   - Use your title and subtitle exactly as shown above
+   - Pick colors that match the book's mood/niche
+   - Add a tagline from the description
+
+6. PAPERBACK RIGHTS & PRICING (Pricing tab)
+   - Territories: All territories
+   - Primary marketplace: Amazon.com
+   - Pricing:
+     * Recommended retail price: $8.99 - $12.99
+     * KDP royalty: 60% after printing costs
+     * Printing cost for 6x9 ~60 pages: ~$3.22
+     * Suggested list price: $9.99 (nets ~$2.77 royalty per sale)
+   - Expanded Distribution: Enable for extra reach
+
+7. PUBLISH
+   - Click "Publish Your Paperback Book"
+   - Review takes 24-72 hours
+   - Once approved, your book goes live on Amazon
+
+ALSO CONSIDER: KINDLE EBOOK VERSION
+-------------------------------------
+- Create a Kindle version (KDP > Create > eBook)
+- Price at $2.99 - $4.99 for the eBook
+- Enroll in KDP Select for 90 days to access Kindle Unlimited readers
+- Kindle Unlimited pays per page read (~$0.004/page)
+
+MARKETING TIPS
+--------------
+- Run a free promotion in KDP Select during your first week
+- Ask friends/family for honest reviews
+- Use the 7 keywords in your Amazon Ads campaigns
+- Create a simple social media post showing the book cover
+
+TRACKING YOUR SALES
+--------------------
+- Check KDP Reports dashboard daily
+- Sales appear with 24-48 hour delay
+- Payments issued monthly (60 days after end of month)
+
+Good luck with your launch!

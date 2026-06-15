@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-15",
+  "designs": [
+    {
+      "theme": "entrepreneur grind",
+      "design_title": "Grind Mode Activated",
+      "main_text": "HUSTLE EVERY DAY",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Entrepreneur Grind T Shirt for Men and Women",
+        "mug": "Motivational Mug for Entrepreneurs - Hustle Every Day",
+        "tote_bag": "RISE SUPPLY CO Gym Tote Bag - Hustle and Grind Every Day"
+      },
+      "listing_description": "Unleash your inner entrepreneur with this motivational design, perfect for anyone who embodies the hustle mindset. Wear your grind on your sleeve and stay motivated to crush your goals every day",
+      "tags": [
+        "entrepreneur grind",
+        "hustle mentality",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "business owner",
+        "startup mindset",
+        "productivity hack",
+        "daily motivation",
+        "inspirational quote",
+        "fitness quote",
+        "gym quote",
+        "motivational quote",
+        "entrepreneur quote",
+        "small business owner",
+        "side hustle",
+        "online business",
+        "e-commerce",
+        "marketing motivation",
+        "sales motivation",
+        "success mindset",
+        "goal setting",
+        "motivation",
+        "inspiration",
+        "fitness",
+        "gym",
+        "workout",
+        "exercise",
+        "wellness",
+        "self improvement",
+        "personal development"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-15/grind-mode-activated_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-15/grind-mode-activated_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "gym and fitness mindset",
+      "design_title": "Unleash Your Strength",
+      "main_text": "LIFT LIKE YOU MEAN IT",
+      "sub_text": "Every rep matters",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Gym Motivation T Shirt for Men and Women",
+        "mug": "RISE SUPPLY CO Fitness Mindset Coffee Mug for Gym Lovers",
+        "tote_bag": "RISE SUPPLY CO Gym Workout Tote Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for gym-goers and fitness enthusiasts. Wear your motivation on your sleeve and take your workouts to the next level with RISE SUPPLY CO.",
+      "tags": [
+        "gym motivation",
+        "fitness mindset",
+        "workout inspiration",
+        "motivational gift",
+        "gym shirt",
+        "fitness quote",
+        "gym lover",
+        "fitness enthusiast",
+        "RISE SUPPLY CO",
+        "gym tank top",
+        "fitness t shirt",
+        "motivation",
+        "inspiration",
+        "gym bag",
+        "fitness accessories",
+        "gym clothes",
+        "workout clothes",
+        "motivational quote",
+        "fitness gear",
+        "gym equipment",
+        "fitness motivation",
+        "gym inspiration",
+        "workout motivation",
+        "fitness goal",
+        "gym goal",
+        "motivational apparel",
+        "fitness apparel",
+        "gym wear",
+        "fitness wear"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-15/unleash-your-strength_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-15/unleash-your-strength_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "no excuses mentality",
+      "design_title": "No Excuses Mentality",
+      "main_text": "NO EXCUSES ALLOWED",
+      "sub_text": "own your success",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "No Excuses Gym Shirt for Men and Women - RISE SUPPLY CO.",
+        "mug": "Motivational No Excuses Coffee Mug - Morning Inspiration",
+        "tote_bag": "No Excuses Tote Bag - Motivational Gift for Fitness Enthusiasts"
+      },
+      "listing_description": "Unlock your full potential with this bold design, perfect for the driven and ambitious. Fuel your morning routine or gym sessions with a reminder that no excuses will hold you back from achieving your goals.",
+      "tags": [
+        "no excuses",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "rise supply co",
+        "inspirational quote",
+        "no excuses mentality",
+        "gym wear",
+        "motivational quotes",
+        "fitness enthusiast",
+        "gym inspiration",
+        "motivation",
+        "no excuse",
+        "fitness apparel",
+        "rise and grind",
+        "gym motivation",
+        "workout inspiration",
+        "no excuses allowed",
+        "fitspo",
+        "gym gifts",
+        "motivational clothing",
+        "fitness gifts",
+        "motivational",
+        "no excuses t shirt",
+        "gym quotes"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-15/no-excuses-mentality_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-15/no-excuses-mentality_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
