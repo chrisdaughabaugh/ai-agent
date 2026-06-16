@@ -1,0 +1,179 @@
+{
+  "date": "2026-06-16",
+  "designs": [
+    {
+      "theme": "do it scared anyway",
+      "design_title": "Fearless Motivation",
+      "main_text": "DO IT SCARED",
+      "sub_text": "face your fears daily",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Do It Scared Motivational Gym Shirt",
+        "mug": "Do It Scared Anyway Motivational Coffee Mug",
+        "tote_bag": "Fearless Motivation Do It Scared Tote Bag"
+      },
+      "listing_description": "Unleash your inner strength with this powerful reminder to face your fears head-on. Perfect for gym-goers, entrepreneurs, and anyone seeking a motivational boost to achieve their goals.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fearless motivation",
+        "do it scared",
+        "rise supply co",
+        "motivational quote",
+        "gym motivation",
+        "fitness inspiration",
+        "entrepreneur mindset",
+        "motivational apparel",
+        "motivational mug",
+        "motivational tote bag",
+        "fearless quotes",
+        "scared but strong",
+        "face your fears",
+        "daily motivation",
+        "gym motivation quotes",
+        "motivational products"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-16/fearless-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-16/fearless-motivation_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Desire",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "builds lasting results",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Discipline Over Motivation Gym Shirt for Men and Women",
+        "mug": "Motivational Coffee Mug Discipline Over Motivation Quote",
+        "tote_bag": "RISE SUPPLY CO Discipline Over Desire Tote Bag for Gym and Everyday Use"
+      },
+      "listing_description": "Unlock your full potential with the Discipline Over Motivation design, a powerful reminder to focus on what drives lasting results. Perfect for gym-goers, entrepreneurs, and anyone striving for success, this design is available on a range of products, from t-shirts to mugs and tote bags.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "discipline over motivation",
+        "mindset quote",
+        "rise supply co",
+        "fitness inspiration",
+        "entrepreneur motivation",
+        "gym motivation",
+        "motivational apparel",
+        "motivational mug",
+        "inspirational quote",
+        "productivity motivation",
+        "mental toughness",
+        "motivational tote bag",
+        "fitness quote",
+        "gym quote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-16/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-16/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "delayed gratification",
+      "design_title": "Grind Now Shine",
+      "main_text": "EARN IT LATER",
+      "sub_text": "no shortcuts to success",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Delayed Gratification T Shirt Motivational Gym",
+        "mug": "Delayed Gratification Morning Motivation Coffee Mug Rise Supply",
+        "tote_bag": "Grind Now Shine Tote Bag Motivational Gift For Gym Enthusiasts"
+      },
+      "listing_description": "Unlock your full potential with this powerful reminder to stay focused on your long-term goals. Perfect for gym-goers and entrepreneurs who understand the value of hard work and dedication.",
+      "tags": [
+        "delayed gratification",
+        "motivational quote",
+        "gym shirt",
+        "gym motivation",
+        "fitness inspiration",
+        "entrepreneur gift",
+        "motivational gift",
+        "rise supply co",
+        "grind now shine",
+        "earn it later",
+        "no shortcuts to success",
+        "productivity motivation",
+        "success mindset",
+        "fitness mindset",
+        "gym tote bag",
+        "motivational mug",
+        "morning motivation",
+        "coffee mug",
+        "inspirational quote",
+        "motivational quote",
+        "t shirt design",
+        "tote bag design",
+        "mug design",
+        "print on demand",
+        "rise supply co design"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-16/grind-now-shine_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-16/grind-now-shine_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
