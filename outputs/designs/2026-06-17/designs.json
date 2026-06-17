@@ -1,0 +1,181 @@
+{
+  "date": "2026-06-17",
+  "designs": [
+    {
+      "theme": "mental toughness",
+      "design_title": "Unbroken Mindset",
+      "main_text": "UNLEASH YOUR STRENGTH",
+      "sub_text": "inner power within",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Mental Toughness T-Shirt for Gym Goers",
+        "mug": "Motivational Mindset Mug for Ambitious Entrepreneurs",
+        "tote_bag": "Unbroken Mindset Tote Bag for Driven Individuals"
+      },
+      "listing_description": "Unlock your inner strength with this powerful design, perfect for gym enthusiasts and entrepreneurs alike. Fuel your mental toughness and crush your goals with Rise Supply Co's motivational apparel and accessories.",
+      "tags": [
+        "mental toughness",
+        "motivational quotes",
+        "gym shirt",
+        "mindset apparel",
+        "entrepreneur gifts",
+        "fitness motivation",
+        "gym motivation",
+        "motivational mug",
+        "toughness quote",
+        "inner strength",
+        "mindset shirt",
+        "gym goer gifts",
+        "ambitious entrepreneurs",
+        "driven individuals",
+        "motivational gift",
+        "mental wellness",
+        "fitness apparel",
+        "gym accessories",
+        "motivational accessories",
+        "rise supply co",
+        "unbroken mindset",
+        "motivation",
+        "inspiration",
+        "mindset"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-17/unbroken-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-17/unbroken-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "winners mindset",
+      "design_title": "Rise Above Doubt",
+      "main_text": "I AM UNSTOPPABLE",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Winners Mindset T Shirt - Motivational Gym Shirt",
+        "mug": "Rise Above Doubt Motivational Coffee Mug - Winners Mindset Morning Routine",
+        "tote_bag": "Rise Supply Co Unstoppable Tote Bag - Gym Bag Motivational Quote"
+      },
+      "listing_description": "Unlock your full potential with the Rise Supply Co winners mindset design, a powerful reminder to stay focused and driven. Perfect for gym-goers, entrepreneurs, and anyone chasing their dreams, this design is a constant motivation to rise above doubt and achieve greatness.",
+      "tags": [
+        "winners mindset",
+        "motivational quote",
+        "gym shirt",
+        "motivational gift",
+        "rise above",
+        "unstoppable",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "success mindset",
+        "mindset shift",
+        "gym motivation",
+        "motivational t shirt",
+        "motivational mug",
+        "tote bag",
+        "gym bag",
+        "motivational gift for him",
+        "motivational gift for her",
+        "motivation",
+        "inspiration",
+        "productivity",
+        "success"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-17/rise-above-doubt_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-17/rise-above-doubt_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "do it scared anyway",
+      "design_title": "Fearless Motivation",
+      "main_text": "DO IT SCARED",
+      "sub_text": "face your fears daily",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Motivational Gym Shirt - Do It Scared T-Shirt",
+        "mug": "Rise Supply Co Motivational Coffee Mug - Face Your Fears Quote",
+        "tote_bag": "Rise Supply Co Motivational Tote Bag - Fearless Daily Reminder"
+      },
+      "listing_description": "Unlock your inner strength with this bold motivational design, perfect for gym-goers and entrepreneurs who refuse to let fear hold them back. Wear your fearless mindset on your sleeve with Rise Supply Co's high-quality apparel and accessories.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "fearless motivation",
+        "do it scared",
+        "face your fears",
+        "motivational gift",
+        "rise supply co",
+        "gym inspiration",
+        "entrepreneur mindset",
+        "fitness motivation",
+        "mental toughness",
+        "motivational apparel",
+        "tough love quote",
+        "motivational mug",
+        "gym tote bag",
+        "fearless daily"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-17/fearless-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-17/fearless-motivation_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
