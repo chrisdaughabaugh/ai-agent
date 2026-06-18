@@ -1,0 +1,182 @@
+{
+  "date": "2026-06-18",
+  "designs": [
+    {
+      "theme": "silent hard work",
+      "design_title": "Unseen Grind",
+      "main_text": "HUSTLE IN SILENCE",
+      "sub_text": "results speak louder",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Silent Hard Work Gym Shirt Motivational Tee",
+        "mug": "Rise Supply Co Hustle in Silence Morning Coffee Mug",
+        "tote_bag": "Rise Supply Co Unseen Grind Motivational Tote Bag Gym Bag"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, reminding you that the hardest work often goes unseen. Perfect for the driven and ambitious, this motivational tee or mug is the ideal way to start your day and stay focused on your goals.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "hustle and grind",
+        "silent hard work",
+        "rise supply co",
+        "unseen grind",
+        "gym inspiration",
+        "motivational quote",
+        "strong and bold",
+        "black t shirt",
+        "white mug",
+        "tote bag",
+        "gym bag",
+        "motivational clothing",
+        "gym wear",
+        "ambitious gift",
+        "driven people",
+        "fitness tee",
+        "inspirational quote",
+        "bold design",
+        "black background",
+        "white text",
+        "gold accent"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-18/unseen-grind_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-18/unseen-grind_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "grind and hustle",
+      "design_title": "Rise Above Grind",
+      "main_text": "GRIND EVERY DAY",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Grind Mindset Gym T Shirt for Men and Women",
+        "mug": "Rise Above Grind Motivational Coffee Mug for Gym Goers",
+        "tote_bag": "RISE SUPPLY CO Grind Hustle Tote Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Unleash your inner strength with this bold grind and hustle design, perfect for those who refuse to back down from a challenge. Wear your motivation on your sleeve and stay driven with RISE SUPPLY CO's inspiring apparel and accessories.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "grind mindset",
+        "hustle culture",
+        "fitness motivation",
+        "gym motivation",
+        "mindset shirt",
+        "motivational quote",
+        "gym apparel",
+        "rise above",
+        "grind every day",
+        "no excuses",
+        "fitness enthusiast",
+        "gym goer",
+        "motivational mug",
+        "grind hustle",
+        "workout motivation",
+        "motivational tote bag",
+        "gym bag",
+        "fitness gift",
+        "motivation",
+        "inspiration",
+        "productivity"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-18/rise-above-grind_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-18/rise-above-grind_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Desire",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "Consistency is key",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Discipline Over Motivation T Shirt for Gym Goers RISE SUPPLY CO",
+        "mug": "Motivational Mug Discipline Over Motivation Quote RISE SUPPLY CO",
+        "tote_bag": "Discipline Over Desire Tote Bag for Fitness and Entrepreneurship RISE SUPPLY CO"
+      },
+      "listing_description": "Unlock your full potential with the Discipline Over Motivation design, a powerful reminder that consistency and hard work are the keys to success. Perfect for gym-goers, entrepreneurs, and anyone seeking motivation to stay driven and focused.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fitness quote",
+        "discipline over motivation",
+        "RISE SUPPLY CO",
+        "mindset shirt",
+        "inspirational clothing",
+        "productivity quote",
+        "motivational mug",
+        "gym motivation",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational tote bag",
+        "discipline quote",
+        "motivation quote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-18/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-18/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
