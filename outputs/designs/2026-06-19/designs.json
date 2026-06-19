@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-19",
+  "designs": [
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Unbroken Will",
+      "main_text": "FORTUNE FAVORS THE BOLD",
+      "sub_text": "Stay strong in adversity",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Stoic Philosophy T Shirt for Men and Women",
+        "mug": "Motivational Stoic Philosophy Coffee Mug by RISE SUPPLY CO",
+        "tote_bag": "RISE SUPPLY CO Unbroken Will Stoic Philosophy Tote Bag for Gym and Everyday Use"
+      },
+      "listing_description": "Unleash your inner strength with this powerful stoic philosophy design, perfect for gym-goers and entrepreneurs who strive for greatness. This bold and eye-catching design makes a great motivational gift for anyone looking to stay strong and focused.",
+      "tags": [
+        "stoic philosophy",
+        "motivational quote",
+        "gym shirt",
+        "entrepreneur gift",
+        "RISE SUPPLY CO",
+        "mindset motivation",
+        "stoicism",
+        "mens motivational t shirt",
+        "womens motivational t shirt",
+        "motivational gift",
+        "gym motivation",
+        "strength and resilience",
+        "philosophy quote",
+        "inspirational quote",
+        "motivational mug",
+        "stoic philosophy mug",
+        "gym tote bag",
+        "motivational tote bag",
+        "stoicism gift",
+        "mindset gift",
+        "ambition quote",
+        "motivational apparel",
+        "stoic apparel",
+        "philosophy apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-19/unbroken-will_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-19/unbroken-will_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "self discipline",
+      "design_title": "Disciplined Mindset Wins",
+      "main_text": "I CONTROL MY DESTINY",
+      "sub_text": "every rep every day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Self Discipline Gym Shirt Motivational Fitness Tee",
+        "mug": "RISE SUPPLY CO Discipline Mindset Morning Motivation Coffee Mug",
+        "tote_bag": "RISE SUPPLY CO Self Discipline Quote Tote Bag Gym Motivational Gift"
+      },
+      "listing_description": "Unlock your full potential with the power of self discipline, and take control of your life. This bold design is perfect for driven individuals who want to stay motivated and focused on their goals, whether in the gym or in business.",
+      "tags": [
+        "self discipline",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "mindset shift",
+        "disciplined mindset",
+        "motivational gift",
+        "RISE SUPPLY CO",
+        "gym motivation",
+        "fitness tee",
+        "motivation mug",
+        "discipline quote",
+        "self control",
+        "mental toughness",
+        "ambition",
+        "drive",
+        "focus",
+        "productivity",
+        "gym bag",
+        "tote bag",
+        "motivational tote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-19/disciplined-mindset-wins_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-19/disciplined-mindset-wins_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "silent hard work",
+      "design_title": "Unseen Grind",
+      "main_text": "WORK IN SILENCE",
+      "sub_text": "results speak loud",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Silent Hard Work Gym Shirt Motivational Tee",
+        "mug": "Morning Motivation Silent Hard Work Quote Coffee Mug",
+        "tote_bag": "Gym Tote Bag Silent Hard Work Quotes Fitness Motivation Bag"
+      },
+      "listing_description": "Unleash your inner strength with this powerful silent hard work design, perfect for gym-goers and entrepreneurs who know that results speak louder than words. This motivational quote is a constant reminder to stay focused and driven towards your goals.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "silent hard work",
+        "fitness motivation",
+        "entrepreneur gift",
+        "hard work pays off",
+        "motivational tee",
+        "gym motivation",
+        "workout quotes",
+        "drive and ambition",
+        "gym bag",
+        "motivational mug",
+        "fitness inspiration",
+        "gym quotes",
+        "strong will",
+        "motivational gift",
+        "gym enthusiast",
+        "fitness enthusiast",
+        "ambitious minds",
+        "success mindset",
+        "hard work and dedication",
+        "fitness journey",
+        "motivation and inspiration"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-19/unseen-grind_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-19/unseen-grind_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
