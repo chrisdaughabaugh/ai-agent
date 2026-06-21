@@ -1,0 +1,179 @@
+{
+  "date": "2026-06-21",
+  "designs": [
+    {
+      "theme": "stay dangerous stay humble",
+      "design_title": "Dangerous Mindset Apparel",
+      "main_text": "STAY DANGEROUS",
+      "sub_text": "humble in pursuit",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Stay Dangerous T Shirt Motivational Gym Wear",
+        "mug": "Stay Humble Stay Dangerous Coffee Mug Motivation Gift",
+        "tote_bag": "RISE SUPPLY CO Inspirational Tote Bag Stay Dangerous Mindset"
+      },
+      "listing_description": "Unleash your inner strength with RISE SUPPLY CO's motivational apparel, designed to fuel your ambitions and push you to stay dangerous. Perfect for gym-goers, entrepreneurs, and anyone looking to elevate their mindset and stay humble in pursuit of greatness.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "stay humble",
+        "stay dangerous",
+        "mindset apparel",
+        "inspirational gifts",
+        "gym motivation",
+        "entrepreneur mindset",
+        "quote t shirt",
+        "motivational mug",
+        "gift for gym lovers",
+        "dangerous mindset",
+        "humble pursuit",
+        "fitness motivation",
+        "motivational gifts for men",
+        "motivational gifts for women",
+        "stay focused",
+        "stay driven",
+        "rise supply co",
+        "motivation",
+        "inspiration"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-21/dangerous-mindset-apparel_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-21/dangerous-mindset-apparel_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Unbroken Will",
+      "main_text": "I AM UNSTOPPABLE",
+      "sub_text": "No fear, no doubt",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Unbroken Will Motivational Gym T Shirt",
+        "mug": "Stoic Philosophy Unbroken Will Motivational Coffee Mug",
+        "tote_bag": "RISE SUPPLY CO. Unbroken Will Inspirational Tote Bag"
+      },
+      "listing_description": "Unlock your inner strength with this powerful design, perfect for those who refuse to back down. Wear your unbroken will on your sleeve and take on the day with confidence and determination.",
+      "tags": [
+        "stoic philosophy",
+        "motivational gift",
+        "gym shirt",
+        "inspirational quote",
+        "unstoppable mindset",
+        "mental toughness",
+        "motivational t shirt",
+        "stoicism",
+        "productivity",
+        "self improvement",
+        "confidence booster",
+        "determination",
+        "fitness motivation",
+        "gym motivation",
+        "motivational mug",
+        "inspirational mug",
+        "stoic gifts",
+        "motivational tote bag",
+        "inspirational tote bag"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-21/unbroken-will_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-21/unbroken-will_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Desire",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "every single day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Discipline Over Motivation Gym Shirt for Men and Women",
+        "mug": "Motivational Coffee Mug - Discipline Over Motivation Quote",
+        "tote_bag": "Discipline Over Motivation Tote Bag - Inspirational Gift for Fitness Enthusiasts"
+      },
+      "listing_description": "Unleash your inner strength with this powerful reminder that discipline is the key to unlocking your full potential. Perfect for gym-goers, entrepreneurs, and anyone seeking a motivational boost to reach their goals.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fitness quote",
+        "discipline over motivation",
+        "rise supply co",
+        "inspirational clothing",
+        "gym motivation",
+        "motivational mug",
+        "motivational tote bag",
+        "entrepreneur gifts",
+        "fitness enthusiast",
+        "motivation quote",
+        "gym quote",
+        "workout motivation",
+        "discipline quote",
+        "motivational apparel",
+        "inspirational apparel",
+        "fitness inspiration",
+        "gym inspiration"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-21/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-21/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
