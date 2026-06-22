@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-22",
+  "designs": [
+    {
+      "theme": "silent hard work",
+      "design_title": "Silent Grind Mode",
+      "main_text": "SILENTLY GRINDING",
+      "sub_text": "No noise, just results",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Silent Grind Mode T Shirt for Gym Fitness Motivation",
+        "mug": "RISE SUPPLY CO Silent Grind Mode Coffee Mug for Morning Motivation",
+        "tote_bag": "RISE SUPPLY CO Silent Grind Mode Tote Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Unleash your inner strength with the Silent Grind Mode design, a powerful reminder to stay focused and driven. Perfect for fitness enthusiasts and entrepreneurs, this design is a constant motivation to push yourself to new heights.",
+      "tags": [
+        "silent grind",
+        "motivational quote",
+        "fitness motivation",
+        "gym shirt",
+        "motivational gift",
+        "rise supply co",
+        "hard work",
+        "dedication",
+        "fitness enthusiast",
+        "entrepreneur gift",
+        "gym motivation",
+        "motivational t shirt",
+        "fitness quote",
+        "silent hard work",
+        "grind mode",
+        "fitness inspiration",
+        "gym inspiration",
+        "motivational mug",
+        "fitness mug",
+        "morning motivation",
+        "workout motivation",
+        "gym tote bag",
+        "fitness tote bag"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-22/silent-grind-mode_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-22/silent-grind-mode_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "no excuses mentality",
+      "design_title": "No Excuses Mindset",
+      "main_text": "NO EXCUSES ALLOWED",
+      "sub_text": "Own Your Greatness",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co No Excuses T Shirt for Gym Motivation",
+        "mug": "Motivational Mug No Excuses Mindset for Morning Routine",
+        "tote_bag": "No Excuses Tote Bag for Fitness and Daily Use by Rise Supply Co"
+      },
+      "listing_description": "Empower your mindset with this bold no excuses design, perfect for fitness enthusiasts and entrepreneurs seeking motivation. Wear or use this design to remind yourself to own your greatness and crush your goals with Rise Supply Co.",
+      "tags": [
+        "no excuses mindset",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "mindset shirt",
+        "no excuses allowed",
+        "gym motivation",
+        "rise supply co",
+        "fitness apparel",
+        "motivational apparel",
+        "no excuses mentality",
+        "gym quote",
+        "motivation",
+        "inspirational quote",
+        "fitness gift",
+        "entrepreneur apparel",
+        "mindset motivation",
+        "no excuses",
+        "motivational clothing",
+        "gym clothing",
+        "fitness clothing",
+        "rise supply co"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-22/no-excuses-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-22/no-excuses-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "control what you can control",
+      "design_title": "OWN THE CHASE",
+      "main_text": "CONTROL YOUR DESTINY",
+      "sub_text": "Focus on what matters",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Control Your Destiny Black T Shirt - Motivational Gym Tee",
+        "mug": "RISE SUPPLY CO. Own The Chase White Mug - Inspirational Coffee Cup",
+        "tote_bag": "RISE SUPPLY CO. Focus On What Matters Tote Bag - Motivational Gift Bag"
+      },
+      "listing_description": "Take control of your life with this powerful design, perfect for anyone who needs a reminder to focus on what truly matters. Makes a great motivational gift for gym-goers, entrepreneurs, and anyone striving for success.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "entrepreneur gift",
+        "RISE SUPPLY CO.",
+        "control your destiny",
+        "own the chase",
+        "fitness motivation",
+        "gym motivation",
+        "inspirational quote",
+        "motivational gift",
+        "black t shirt",
+        "white mug",
+        "tote bag",
+        "motivation",
+        "productivity",
+        "success mindset",
+        "focus on what matters",
+        "mental toughness",
+        "mindset shift",
+        "personal growth",
+        "self improvement",
+        "motivational apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-22/own-the-chase_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-22/own-the-chase_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}

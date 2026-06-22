@@ -1,0 +1,34 @@
+{
+  "title": "Habit Tracker Journal Planner",
+  "subtitle": "Daily Goal Setting and Productivity Tracker for Morning Routine and Evening Reflection",
+  "description": "Take control of your habits and achieve your goals with this comprehensive habit tracker journal. By using this planner, you'll be able to identify and break bad habits, create healthy routines, and increase your productivity. With space to track your daily progress, reflect on your successes and setbacks, and plan for the future, this journal is the perfect tool for anyone looking to improve their mental and physical well-being. Whether you're trying to start a new exercise routine, eat healthier, or simply be more mindful, this habit tracker journal will help you stay on track and reach your full potential. Get ready to transform your life and achieve your goals with this powerful habit tracking system. Key features include: daily and weekly spreads, goal setting templates, and reflection pages. Start building positive habits today and watch your life change for the better.",
+  "keywords": [
+    "habit tracker",
+    "productivity planner",
+    "goal setting journal",
+    "morning routine",
+    "evening reflection",
+    "daily planner",
+    "monthly planner",
+    "self care",
+    "mindfulness"
+  ],
+  "primary_category": "Books > Self-Help > Personal Development",
+  "secondary_category": "Books > Health, Fitness & Dieting > Mental Health",
+  "audience": "Individuals looking to improve their productivity and well-being, including students, professionals, and anyone seeking personal growth",
+  "chapter_themes": [
+    "Goal Setting",
+    "Morning Routine",
+    "Daily Tracking",
+    "Weekly Review",
+    "Monthly Planning",
+    "Reflection and Mindfulness",
+    "Customization and Accountability"
+  ],
+  "niche": "habit tracker",
+  "generated_date": "2026-06-22",
+  "output_dir": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-06-22-habit-tracker-journal-planner",
+  "manuscript_path": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-06-22-habit-tracker-journal-planner/manuscript.txt",
+  "chapter_count": 7,
+  "estimated_page_count": 60
+}
