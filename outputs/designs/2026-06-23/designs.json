@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-23",
+  "designs": [
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Inner Strength",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Lead the pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Be The Wolf T-Shirt Motivational Gym Wear",
+        "mug": "Be The Wolf Motivational Mug for Entrepreneurs and Gym Goers",
+        "tote_bag": "Unleash Inner Strength Tote Bag for Driven Individuals"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for driven individuals who refuse to blend in. Wear your motivation on your sleeve and stay focused on your goals with RISE SUPPLY CO's high-quality apparel and accessories.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "be the wolf",
+        "wolf mindset",
+        "motivational gift",
+        "inner strength",
+        "entrepreneur motivation",
+        "fitness motivation",
+        "gym motivation",
+        "motivational apparel",
+        "rise supply co",
+        "wolf quote",
+        "motivational tee",
+        "gym wear",
+        "motivational mug",
+        "motivational tote bag",
+        "driven individuals",
+        "ambitious mindset",
+        "fitness enthusiast",
+        "entrepreneur gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-23/unleash-inner-strength_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-23/unleash-inner-strength_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Unbroken Will",
+      "main_text": "FORTITUDE OVER FEAR",
+      "sub_text": "inner strength revealed",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Stoic Philosophy Gym T Shirt for Men and Women",
+        "mug": "RISE SUPPLY CO Unbroken Will Stoic Mindset Coffee Mug",
+        "tote_bag": "RISE SUPPLY CO Stoic Philosophy Gift Tote Bag for Motivation"
+      },
+      "listing_description": "Unleash your inner strength with this powerful design, perfect for those who embody the unbroken will. Rise above fear and doubt with RISE SUPPLY CO's stoic philosophy apparel and accessories, designed to inspire and motivate your daily grind.",
+      "tags": [
+        "stoic philosophy",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "mindset apparel",
+        "RISE SUPPLY CO",
+        "stoic quotes",
+        "inspirational quotes",
+        "mental toughness",
+        "motivational t shirt",
+        "gym motivation",
+        "gym gifts",
+        "stoic gifts",
+        "motivational mug",
+        "stoic mindset",
+        "unbroken will",
+        "inner strength",
+        "fortitude over fear",
+        " Stoic",
+        "philosophy"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-23/unbroken-will_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-23/unbroken-will_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stay dangerous stay humble",
+      "design_title": "Stay Humble Designs",
+      "main_text": "STAY DANGEROUS",
+      "sub_text": "humble in victory",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Stay Dangerous T Shirt for Gym and Fitness Motivation",
+        "mug": "Stay Humble Stay Dangerous Coffee Mug for Ambitious Entrepreneurs",
+        "tote_bag": "Motivational Stay Dangerous Tote Bag for Driven Individuals"
+      },
+      "listing_description": "Unleash your inner strength with this bold Stay Dangerous design, perfect for fitness enthusiasts and ambitious entrepreneurs who strive to stay humble in victory. Wear your motivation on your sleeve and stay focused on your goals with Rise Supply Co's high-quality apparel and accessories.",
+      "tags": [
+        "stay humble",
+        "stay dangerous",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "ambitious mindset",
+        "humble in victory",
+        "-rise supply co",
+        "stay focused",
+        "inner strength",
+        "motivational gift",
+        "gym motivation",
+        "fitness enthusiast",
+        "driven individuals",
+        "goal oriented",
+        "success mindset",
+        "motivational apparel",
+        "inspirational quotes",
+        "quotes for gym",
+        "quotes for entrepreneurs",
+        "stay humble stay dangerous",
+        "motivational mug",
+        "motivational tote bag"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-23/stay-humble-designs_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-23/stay-humble-designs_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
