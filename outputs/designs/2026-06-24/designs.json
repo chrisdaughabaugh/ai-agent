@@ -1,0 +1,201 @@
+{
+  "date": "2026-06-24",
+  "designs": [
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Unbroken Will",
+      "main_text": "FORTUNE FAVORS THE BOLD",
+      "sub_text": "stay strong, never yield",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Stoic Philosophy Gym Shirt - Motivational Tee for Fitness",
+        "mug": "Stoic Mindset Coffee Mug - RISE SUPPLY CO. Ambition Morning Motivation",
+        "tote_bag": "RISE SUPPLY CO. Unbroken Will Stoic Philosophy Tote - Gym Bag Motivational Gift"
+      },
+      "listing_description": "Unlock your inner strength with this empowering design, inspired by stoic philosophy. Perfect for gym-goers, entrepreneurs, and anyone seeking a motivational boost to fuel their ambition and drive.",
+      "tags": [
+        "stoic philosophy",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "ambition quote",
+        "mindset mindset",
+        "strong will",
+        "never give up",
+        "mental toughness",
+        "fitness enthusiast",
+        "gym motivation",
+        "morning motivation",
+        "coffee mug",
+        "tote bag",
+        "RISE SUPPLY CO.",
+        "stoic quote",
+        "philosophy tee",
+        "motivational tee",
+        "gym wear",
+        "inspirational gift",
+        "motivation",
+        "stoicism",
+        "productivity",
+        "self improvement",
+        "confidence",
+        "discipline",
+        "resilience"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-24/unbroken-will_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-24/unbroken-will_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Motivation",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "Every day, every rep",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Discipline Over Motivation Gym Shirt for Men and Women",
+        "mug": "Motivational Discipline Over Motivation Coffee Mug for Gym Lovers",
+        "tote_bag": "Discipline Over Motivation Tote Bag for Ambitious Entrepreneurs"
+      },
+      "listing_description": "Unlock your full potential with the Discipline Over Motivation design, perfect for driven individuals who understand that discipline is the key to success. This bold design is a constant reminder to stay focused and motivated, making it an ideal gift for gym-goers, entrepreneurs, and anyone striving for greatness.",
+      "tags": [
+        "discipline over motivation",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "inspirational quote",
+        "gym lover",
+        "workout motivation",
+        "success mindset",
+        "motivation quote",
+        "discipline quote",
+        "gym motivation",
+        "fitness quote",
+        "entrepreneur motivation",
+        "motivational design",
+        "inspirational design",
+        "gym design",
+        "fitness design",
+        "success quote",
+        "mental toughness",
+        "motivational poster",
+        "gym poster",
+        "fitness poster",
+        "entrepreneur poster",
+        "motivational art",
+        "inspirational art",
+        "gym art",
+        "fitness art",
+        "success art",
+        "RISE SUPPLY CO",
+        "motivational apparel",
+        "gym apparel",
+        "fitness apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-24/discipline-over-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-24/discipline-over-motivation_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "your only competition is yesterday",
+      "design_title": "Beat Yesterday",
+      "main_text": "BEAT YESTERDAY",
+      "sub_text": "every day counts",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Beat Yesterday Motivational Gym Shirt",
+        "mug": "RISE SUPPLY CO. Daily Motivation Mug for Coffee Lovers",
+        "tote_bag": "RISE SUPPLY CO. Beat Yesterday Gym Tote Bag for Athletes"
+      },
+      "listing_description": "Unlock your full potential with RISE SUPPLY CO.'s motivational apparel and accessories, designed to remind you that your only competition is yesterday. Beat yesterday and crush your goals with our empowering gear.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "RISE SUPPLY CO.",
+        "motivational quotes",
+        "gym motivation",
+        "fitness apparel",
+        "daily motivation",
+        "productivity",
+        "goal oriented",
+        "inspirational",
+        "motivational mug",
+        "gym bag",
+        "fitness tote",
+        "motivational accessory",
+        "quotes",
+        "gym quotes",
+        "motivation",
+        "fitness motivation",
+        "workout motivation",
+        "gym inspiration"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-24/beat-yesterday_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-24/beat-yesterday_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
