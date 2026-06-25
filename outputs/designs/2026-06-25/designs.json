@@ -1,0 +1,195 @@
+{
+  "date": "2026-06-25",
+  "designs": [
+    {
+      "theme": "self discipline",
+      "design_title": "Discipline Over Desire",
+      "main_text": "CONTROL YOUR MIND",
+      "sub_text": "own your goals",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Self Discipline Motivational Gym Shirt",
+        "mug": "RISE SUPPLY CO Discipline Over Desire Morning Motivation Mug",
+        "tote_bag": "RISE SUPPLY CO Control Your Mind Inspirational Tote Bag"
+      },
+      "listing_description": "Unleash your inner strength with this powerful self-discipline design, perfect for gym-goers and entrepreneurs who strive for greatness. Shop RISE SUPPLY CO for motivational apparel and accessories that fuel your ambition and drive.",
+      "tags": [
+        "self discipline",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "mental toughness",
+        "discipline over desire",
+        "mind over matter",
+        "motivational apparel",
+        "inspirational quote",
+        "rise supply co",
+        "motivational gift",
+        "gym motivation",
+        "fitness inspiration",
+        "goal setter",
+        "control your mind",
+        "own your goals",
+        "motivational mug",
+        "tote bag",
+        "motivational accessories",
+        "self improvement",
+        "personal growth",
+        "gym goer",
+        "entrepreneur mindset",
+        "motivation monday",
+        "productivity hack",
+        "mental health awareness",
+        "fitness journey",
+        "motivational tools"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-25/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-25/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "build your empire",
+      "design_title": "Empire Builder",
+      "main_text": "BUILD YOUR LEGACY",
+      "sub_text": "start with one step",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Build Your Empire Gym Shirt Motivational Tee",
+        "mug": "Rise Supply Co Empire Builder Coffee Mug Motivational Gift",
+        "tote_bag": "Rise Supply Co Build Your Empire Tote Bag Motivational Bag"
+      },
+      "listing_description": "Unleash your inner strength and start building your empire with this powerful design. Perfect for driven individuals who strive for greatness and want to showcase their ambitious mindset.",
+      "tags": [
+        "build your empire",
+        "motivational gift",
+        "gym shirt",
+        "entrepreneur mindset",
+        "ambitious tees",
+        "motivational quotes",
+        "empire builder",
+        "rise supply co",
+        "gym motivation",
+        "fitness inspiration",
+        "motivational mugs",
+        "coffee lover gifts",
+        "tote bag",
+        "motivational bags",
+        "empire building",
+        "legDay motivation",
+        "gains motivation",
+        "gym rat gift",
+        "fitness enthusiast",
+        "motivational apparel",
+        "daily motivation",
+        "motivational poster",
+        "wall art",
+        "home decor",
+        "office decor"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-25/empire-builder_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-25/empire-builder_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "do it scared anyway",
+      "design_title": "Fearless Motivation",
+      "main_text": "DO IT SCARED",
+      "sub_text": "face your fears daily",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Motivational Gym Shirt - Do It Scared Tee",
+        "mug": "Rise Supply Co Motivational Mug - Face Your Fears Daily Coffee Cup",
+        "tote_bag": "Rise Supply Co Motivational Tote Bag - Fearless Motivation Bag"
+      },
+      "listing_description": "Unlock your inner strength with our motivational apparel and home goods, designed to inspire you to face your fears and push past your limits. Perfect for gym-goers, entrepreneurs, and anyone seeking a mindset boost to achieve their goals.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fearless motivation",
+        "do it scared",
+        "rise supply co",
+        "motivational quote",
+        "gym motivation",
+        "mindset shirt",
+        "motivational mug",
+        "face your fears",
+        "daily motivation",
+        "gym inspiration",
+        "entrepreneur gift",
+        "motivational tote bag",
+        "fearless apparel",
+        "mindset motivation",
+        "gym goer gift",
+        "motivational home decor",
+        "rise above fear",
+        "motivational apparel",
+        "motivational accessories"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-25/fearless-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-25/fearless-motivation_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
