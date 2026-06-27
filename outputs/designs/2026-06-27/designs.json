@@ -1,0 +1,187 @@
+{
+  "date": "2026-06-27",
+  "designs": [
+    {
+      "theme": "control what you can control",
+      "design_title": "Own Your Outcome",
+      "main_text": "OWN THE CHAOS",
+      "sub_text": "Focus on what matters",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Motivational Gym Shirt - Own Your Outcome",
+        "mug": "Control Your Day Coffee Mug - RISE SUPPLY CO. Mindset Gift",
+        "tote_bag": "Motivational Tote Bag - Own The Chaos by RISE SUPPLY CO."
+      },
+      "listing_description": "Take control of your life with this powerful design, perfect for gym-goers and entrepreneurs alike. Own Your Outcome and stay focused on what matters with RISE SUPPLY CO.'s bold and inspiring apparel and accessories.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fitness apparel",
+        "entrepreneur mindset",
+        "mindset shift",
+        "own your outcome",
+        "mental toughness",
+        "gym motivation",
+        "motivational quotes",
+        "inspirational clothing",
+        "control your day",
+        "rise above",
+        "chaos control",
+        "motivation",
+        "productivity",
+        "focus",
+        "discipline",
+        "mental strength",
+        "self improvement",
+        "self care",
+        "motivational mug",
+        "gym tote bag",
+        "mindset tote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-27/own-your-outcome_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-27/own-your-outcome_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "outwork everyone",
+      "design_title": "Outwork All",
+      "main_text": "OUTWORK EVERYONE",
+      "sub_text": "Outlast the rest",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Outwork Everyone Gym Shirt",
+        "mug": "Outwork All Motivational Coffee Mug by RISE SUPPLY CO",
+        "tote_bag": "Outwork Everyone Tote Bag by RISE SUPPLY CO for Gym Goers"
+      },
+      "listing_description": "Unleash your inner strength with the Outwork All design, motivating you to push beyond limits and outlast the rest. Perfect for gym-goers and entrepreneurs seeking a mindset boost, this bold design makes a statement on any product.",
+      "tags": [
+        "outwork everyone",
+        "motivational gift",
+        "gym shirt",
+        "RISE SUPPLY CO",
+        "outwork all",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "gym motivation",
+        "ambitious gift",
+        "mindset quote",
+        "outlast the rest",
+        "gym goers",
+        "motivational quote",
+        "outwork everyone mug",
+        "outwork all tote bag",
+        "RISE SUPPLY CO shirt",
+        "motivational apparel",
+        "inspirational gift",
+        "gym enthusiast",
+        "fitness enthusiast",
+        "entrepreneur apparel",
+        "motivational gift for men",
+        "motivational gift for women",
+        "outwork everyone design"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-27/outwork-all_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-27/outwork-all_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "winners mindset",
+      "design_title": "Unstoppable Winner",
+      "main_text": "I AM UNSTOPPABLE",
+      "sub_text": "Own Your Greatness",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Winners Mindset T Shirt for Gym and Fitness",
+        "mug": "Motivational Winner Mindset Coffee Mug for Entrepreneurs",
+        "tote_bag": "Unstoppable Winner Tote Bag for Driven Individuals"
+      },
+      "listing_description": "Unlock your full potential with this powerful winners mindset design, perfect for gym-goers and entrepreneurs who refuse to back down. Make a statement with this bold and motivational gear from Rise Supply Co, designed to fuel your ambition and drive.",
+      "tags": [
+        "winners mindset",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "unstoppable winner",
+        "mindset shift",
+        "driven individuals",
+        "ambitious people",
+        "gym motivation",
+        "motivational gift",
+        "rise supply co",
+        " winners mindset shirt",
+        "motivational mug",
+        "winner mindset tote",
+        "fitness enthusiast",
+        "gym rat",
+        "entrepreneur motivation",
+        "mindset matters",
+        "success mindset"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-27/unstoppable-winner_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-27/unstoppable-winner_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
