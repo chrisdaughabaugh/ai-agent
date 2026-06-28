@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-28",
+  "designs": [
+    {
+      "theme": "your only competition is yesterday",
+      "design_title": "Beat Yesterday",
+      "main_text": "BEAT YESTERDAY",
+      "sub_text": "be better today",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Motivational T Shirt - Beat Yesterday Gym Tee",
+        "mug": "Rise Supply Co Motivational Mug - Beat Yesterday Morning Coffee",
+        "tote_bag": "Rise Supply Co Beat Yesterday Tote Bag - Gym Motivation"
+      },
+      "listing_description": "Unleash your inner strength with this powerful motivational design, reminding you to beat yesterday and be better today. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed, this design is a constant reminder to push yourself to new heights.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "beat yesterday",
+        "rise supply co",
+        "motivational gift",
+        "gym motivation",
+        "fitness quote",
+        "motivational tee",
+        "inspirational mug",
+        "motivational tote bag",
+        "gym bag",
+        "fitness gift",
+        "entrepreneur motivation",
+        "success quote",
+        "motivational design",
+        "inspirational design",
+        "gym design",
+        "fitness design",
+        "rise above",
+        "beat the ordinary",
+        "motivation monday",
+        "gym motivation monday",
+        "fitness motivation",
+        "motivational apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-28/beat-yesterday_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-28/beat-yesterday_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Stoic Mindset Fuel",
+      "main_text": "FORTUNE FAVORS THE BOLD",
+      "sub_text": "Stay strong in the fire",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Stoic Philosophy Gym Shirt for Men and Women - Rise Supply Co.",
+        "mug": "Stoic Mindset Morning Coffee Mug - Motivational Gift",
+        "tote_bag": "Stoic Philosophy Tote Bag for Fitness and Daily Use - Rise Supply"
+      },
+      "listing_description": "Empower your mind and body with this stoic philosophy design, perfect for fitness enthusiasts and entrepreneurs who embody a bold and driven mindset. This high-quality product is designed to inspire and motivate you to reach your full potential.",
+      "tags": [
+        "stoic philosophy",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "rise supply co",
+        "mindset fuel",
+        "stoic mindset",
+        "philosophy quotes",
+        "gym inspiration",
+        "motivational quotes",
+        "fitness quotes",
+        "stoic quotes",
+        "strong mindset",
+        "bold and driven",
+        "men's gym shirt",
+        "women's gym shirt",
+        "motivational mug",
+        "stoic philosophy tote bag",
+        "fitness tote bag",
+        "gym tote bag",
+        "mindfulness",
+        "self improvement",
+        "personal growth"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-28/stoic-mindset-fuel_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-28/stoic-mindset-fuel_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "early riser 5am club",
+      "design_title": "Rise Above",
+      "main_text": "OWN THE DAWN",
+      "sub_text": "start strong finish stronger",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co 5am Club T Shirt - Motivational Gym Shirt for Early Risers",
+        "mug": "Rise Above 5am Club Coffee Mug - Morning Motivation Mug for Entrepreneurs",
+        "tote_bag": "Rise Supply Co Early Riser Tote Bag - Gym Tote for Driven Individuals"
+      },
+      "listing_description": "Unlock your full potential with this powerful reminder to start your day strong. Perfect for gym-goers, entrepreneurs, and anyone striving to reach new heights, this design will motivate you to own the dawn and take control of your day.",
+      "tags": [
+        "5am club",
+        "early riser",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "rise and grind",
+        "morning motivation",
+        "inspirational quote",
+        "gym tote bag",
+        "coffee mug",
+        "motivational mug",
+        "gym motivation",
+        "fitness quote",
+        "early riser club",
+        "motivation gift",
+        "rise above",
+        "own the dawn",
+        "start strong",
+        "finish stronger"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-28/rise-above_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-28/rise-above_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
