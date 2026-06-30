@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-30",
+  "designs": [
+    {
+      "theme": "your only competition is yesterday",
+      "design_title": "Beat Yesterday",
+      "main_text": "BEAT YESTERDAY",
+      "sub_text": "get better daily",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Beat Yesterday Black T Shirt Motivational Gym Tee",
+        "mug": "Rise Supply Co Beat Yesterday White Mug Motivational Quote Coffee Cup",
+        "tote_bag": "Rise Supply Co Beat Yesterday Black Tote Bag Motivational Gym Bag"
+      },
+      "listing_description": "Stay motivated with the Beat Yesterday design from Rise Supply Co, a constant reminder to push yourself beyond yesterday's limits. Perfect for fitness enthusiasts and entrepreneurs, this design will fuel your drive to succeed.",
+      "tags": [
+        "motivational quotes",
+        "gym shirt",
+        "fitness motivation",
+        "rise supply co",
+        "beat yesterday",
+        "gym tee",
+        "motivational gift",
+        "workout motivation",
+        "entrepreneur gifts",
+        "success mindset",
+        "daily motivation",
+        "gym inspiration",
+        "fitness inspiration",
+        "motivational apparel",
+        "gym clothes",
+        "motivational mugs",
+        "quote t shirt",
+        "gym quotes",
+        "fitness quotes",
+        "motivational tote bag",
+        "gym bag",
+        "fitness bag",
+        "motivational gifts for men",
+        "motivational gifts for women",
+        "rise above",
+        "fitness motivation quotes",
+        "gym motivation quotes"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-30/beat-yesterday_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-30/beat-yesterday_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "build your empire",
+      "design_title": "Empire Builder Mindset",
+      "main_text": "BUILD YOUR EMPIRE",
+      "sub_text": "Every day matters",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Empire Builder T Shirt Motivational Gym Tee",
+        "mug": "Rise Supply Co Build Your Empire Coffee Mug Motivational Quote",
+        "tote_bag": "Rise Supply Co Empire Builder Tote Bag Motivational Gift Bag"
+      },
+      "listing_description": "Unleash your inner strength and build your empire with this bold and motivational design, perfect for driven individuals who strive for success. Wear your ambition on your sleeve and stay focused on your goals with Rise Supply Co's empowering apparel and accessories.",
+      "tags": [
+        "motivational quote",
+        "empire builder",
+        "gym shirt",
+        "motivational gift",
+        "rise supply co",
+        "build your empire",
+        "mindset apparel",
+        "ambitious clothing",
+        "driven individuals",
+        "success mindset",
+        "fitness motivation",
+        "entrepreneur gear",
+        "motivational mug",
+        "empowerment accessories",
+        "gym motivation",
+        "fitness quote",
+        "motivational tote bag",
+        "inspirational gift"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-30/empire-builder-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-30/empire-builder-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "entrepreneur grind",
+      "design_title": "Hustle Harder Daily",
+      "main_text": "RISE ABOVE PAIN",
+      "sub_text": "fuel your ambition",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Entrepreneur Grind T Shirt for Motivated Hustlers",
+        "mug": "Rise Above Pain Coffee Mug for Ambitious Entrepreneurs",
+        "tote_bag": "Hustle Harder Daily Tote Bag for Driven Gym Goers"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for entrepreneurs and gym-goers who refuse to back down. Wear your motivation on your sleeve and take on the day with confidence and determination.",
+      "tags": [
+        "entrepreneur grind",
+        "motivational quote",
+        "gym shirt",
+        "hustle harder",
+        "rise above pain",
+        "motivational gift",
+        "ambitious entrepreneur",
+        "gym motivation",
+        "strong mindset",
+        "fitness inspiration",
+        "daily hustle",
+        "grind mode",
+        "entrepreneur mindset",
+        "motivational apparel",
+        "inspirational quote",
+        "gym goer gift",
+        "entrepreneur gift",
+        "motivation monday",
+        "fitness motivation",
+        "rise supply co",
+        "hustle and grind",
+        "motivational mug",
+        "entrepreneur quotes",
+        "gym inspiration",
+        "mindset shift"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-30/hustle-harder-daily_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-06-30/hustle-harder-daily_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
