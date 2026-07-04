@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-04",
+  "designs": [
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Desire",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "Results over feelings",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Discipline Over Motivation T Shirt for Gym and Fitness Enthusiasts by Rise Supply Co",
+        "mug": "Discipline Over Motivation Morning Motivation Mug for Entrepreneurs and Athletes",
+        "tote_bag": "Discipline Over Motivation Quote Tote Bag for Ambitious Men and Women by Rise Supply Co"
+      },
+      "listing_description": "Unlock your full potential with this bold reminder that discipline is the key to success. Perfect for gym-goers, entrepreneurs, and anyone striving for greatness, this design will keep you motivated and focused on your goals.",
+      "tags": [
+        "discipline over motivation",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational mug",
+        "ambitious men",
+        "ambitious women",
+        "rise supply co",
+        "gym inspiration",
+        "fitness quote",
+        "motivation quote",
+        "discipline quote",
+        "gym motivation",
+        "fitness enthusiast",
+        "entrepreneur motivation",
+        "motivational gift",
+        "gym gift",
+        "fitness gift",
+        "ambitious gift",
+        "motivation",
+        "discipline",
+        "fitness",
+        "gym",
+        "entrepreneur",
+        "ambitious",
+        "quote",
+        "motivational"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-04/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-04/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "self discipline",
+      "design_title": "Discipline Driven",
+      "main_text": "SELF DISCIPLINE IS FREEDOM",
+      "sub_text": "control your mind",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Self Discipline T Shirt for Gym and Fitness Motivation",
+        "mug": "Rise Supply Co Discipline Driven Coffee Mug for Motivational Gifts",
+        "tote_bag": "Rise Supply Co Discipline Driven Tote Bag for Fitness and Motivation"
+      },
+      "listing_description": "Unlock your full potential with Rise Supply Co's Discipline Driven design, a powerful reminder that self-discipline is the key to freedom. Perfect for driven individuals who want to take control of their minds and bodies, this design makes a great motivational gift for gym-goers, entrepreneurs, and anyone striving for success.",
+      "tags": [
+        "self discipline",
+        "motivational gifts",
+        "gym shirt",
+        "fitness motivation",
+        "mental toughness",
+        "mindset apparel",
+        "discipline driven",
+        "rise supply co",
+        "motivational quotes",
+        "gym motivation",
+        "fitness quotes",
+        "self improvement",
+        "personal growth",
+        "motivation",
+        "inspiration",
+        "gym clothes",
+        "fitness clothes",
+        "motivational t shirts",
+        "self discipline quotes",
+        "motivational mugs",
+        "discipline mindset",
+        "motivational gear",
+        "self discipline mindset",
+        "fitness motivation quotes",
+        "gym motivational quotes",
+        "self discipline apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-04/discipline-driven_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-04/discipline-driven_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stay dangerous stay humble",
+      "design_title": "Stay Deadly Humble",
+      "main_text": "STAY DANGEROUS",
+      "sub_text": "Humble in spirit",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Stay Dangerous T Shirt - Mens Motivational Gym Tee",
+        "mug": "Stay Humble Stay Deadly Coffee Mug - RISE SUPPLY CO Morning Motivation",
+        "tote_bag": "RISE SUPPLY CO Stay Dangerous Tote Bag - Gym Motivational Gift Bag"
+      },
+      "listing_description": "Unlock your inner strength with RISE SUPPLY CO's Stay Dangerous design, inspiring you to push beyond limits and stay humble in spirit. Perfect for gym-goers and entrepreneurs seeking a motivational boost to fuel their ambitions.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "stay humble",
+        "stay dangerous",
+        "RISE SUPPLY CO",
+        "mens motivational tee",
+        "stay deadly",
+        "gym motivation",
+        "entrepreneur gift",
+        "mens gym wear",
+        "humility",
+        "danger zone",
+        "fitness motivation",
+        "gym quotes",
+        "strong mind",
+        "ambition",
+        "driven",
+        "motivational mug",
+        "quote tote bag"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-04/stay-deadly-humble_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-04/stay-deadly-humble_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}

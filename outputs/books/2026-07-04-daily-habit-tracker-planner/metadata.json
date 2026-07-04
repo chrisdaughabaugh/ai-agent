@@ -1,0 +1,33 @@
+{
+  "title": "Daily Habit Tracker Planner",
+  "subtitle": "Create Lasting Change with a Customizable Weekly and Monthly Habit Tracker Journal",
+  "description": "Take control of your life with this comprehensive habit tracker planner. By using this daily and weekly tracker, you'll be able to identify areas for improvement, set achievable goals, and celebrate your successes. Whether you're looking to improve your physical health, increase productivity, or simply find more balance in your life, this habit tracker journal is the perfect tool to help you get started. With space to track your daily habits, weekly progress, and monthly reflections, you'll be able to stay motivated and focused on your goals. Say goodbye to procrastination and hello to a more productive, happier you. This habit tracker is perfect for anyone looking to create lasting change and improve their overall well-being. Start tracking your habits today and start achieving your goals tomorrow.",
+  "keywords": [
+    "habit tracker",
+    "productivity planner",
+    "daily planner",
+    "weekly planner",
+    "monthly planner",
+    "goal setting",
+    "self improvement",
+    "journaling"
+  ],
+  "primary_category": "Books > Self-Help > Personal Development",
+  "secondary_category": "Books > Health, Fitness & Dieting > Mental Health",
+  "audience": "Individuals looking to improve their productivity, set achievable goals, and track their progress",
+  "chapter_themes": [
+    "Introduction to Habit Tracking",
+    "Setting Goals and Intentions",
+    "Creating a Daily Routine",
+    "Weekly Review and Reflection",
+    "Monthly Progress Tracking",
+    "Overcoming Obstacles",
+    "Maintaining Motivation"
+  ],
+  "niche": "habit tracker",
+  "generated_date": "2026-07-04",
+  "output_dir": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-07-04-daily-habit-tracker-planner",
+  "manuscript_path": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-07-04-daily-habit-tracker-planner/manuscript.txt",
+  "chapter_count": 7,
+  "estimated_page_count": 60
+}
