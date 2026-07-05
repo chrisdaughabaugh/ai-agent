@@ -1,0 +1,191 @@
+{
+  "date": "2026-07-05",
+  "designs": [
+    {
+      "theme": "winners mindset",
+      "design_title": "Rise Above Fear",
+      "main_text": "UNSTOPPABLE",
+      "sub_text": "Own Your Greatness",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Unstoppable Mindset Gym Shirt for Men and Women",
+        "mug": "Motivational Winner Mindset Coffee Mug for Entrepreneurs",
+        "tote_bag": "Rise Above Fear Winners Mindset Tote Bag for Ambitious Women"
+      },
+      "listing_description": "Empower your mindset with the unstoppable design, perfect for driven individuals who strive for greatness. Wear your motivation on your sleeve and rise above fear with Rise Supply Co's high-quality apparel and accessories.",
+      "tags": [
+        "winners mindset",
+        "motivational gift",
+        "gym shirt",
+        "entrepreneur apparel",
+        "mindset quotes",
+        "unstoppable",
+        "rise above fear",
+        "motivation",
+        "inspiration",
+        "gym motivation",
+        "fitness quote",
+        "motivational mug",
+        "winner mindset",
+        "driven women",
+        "ambitious men",
+        "success mindset",
+        "mind over matter",
+        "positive vibes",
+        "empowerment",
+        "self improvement",
+        "productivity",
+        "motivational tote bag",
+        "quotes on t shirts",
+        "gym quotes",
+        "motivational gifts for him",
+        "motivational gifts for her",
+        "winner mindset quotes",
+        "rise supply co"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-05/rise-above-fear_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-05/rise-above-fear_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "control what you can control",
+      "design_title": "Own Your Outcome",
+      "main_text": "CONTROL YOUR DESTINY",
+      "sub_text": "Focus on what matters",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co. Control Your Destiny Gym Tee",
+        "mug": "Motivational Mug Control Your Destiny Morning Boost",
+        "tote_bag": "Rise Supply Co. Control Your Destiny Gym Tote Bag"
+      },
+      "listing_description": "Empower yourself with this bold design, reminding you to focus on what you can control and own your outcome. Perfect for driven individuals who strive for success and motivation in their daily lives.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "mental toughness",
+        "gym tote bag",
+        "motivational mug",
+        "rise supply co",
+        "control your destiny",
+        "own your outcome",
+        "motivation monday",
+        "gym inspiration",
+        "fitness quote",
+        "motivational quote",
+        "entrepreneur quote",
+        "success mindset",
+        "productivity hack",
+        "mindset shift",
+        "motivational tee"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-05/own-your-outcome_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-05/own-your-outcome_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "do it scared anyway",
+      "design_title": "Fearless Mindset Tees",
+      "main_text": "DO IT SCARED",
+      "sub_text": "face your fears daily",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Motivational T Shirts for Gym - Do It Scared Tee",
+        "mug": "Do It Scared Anyway Morning Motivation Mug by Rise Supply Co",
+        "tote_bag": "Rise Supply Co Motivational Tote Bags - Fearless Mindset Gym Bag"
+      },
+      "listing_description": "Unlock your fearless mindset with Rise Supply Co's motivational apparel and accessories, designed to help you power through your toughest days. Perfect for gym-goers, entrepreneurs, and anyone chasing their dreams, our 'Do It Scared' design will be your daily reminder to face your fears head-on.",
+      "tags": [
+        "motivational quotes",
+        "gym shirt",
+        "mindset apparel",
+        "rise supply co",
+        "do it scared",
+        "fearless mindset",
+        "motivational gift",
+        "gym motivation",
+        "entrepreneur tees",
+        "strong mindset",
+        "fitness apparel",
+        "inspirational quotes",
+        "motivational tee",
+        "gym tote bag",
+        "motivational mug",
+        "morning motivation",
+        "goal oriented",
+        "fitness motivation",
+        "motivational accessories",
+        "gym accessories",
+        "mindset quotes",
+        "tough love quotes",
+        "inspirational apparel",
+        "gym lover gift"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-05/fearless-mindset-tees_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-05/fearless-mindset-tees_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
