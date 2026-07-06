@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-06",
+  "designs": [
+    {
+      "theme": "stay dangerous stay humble",
+      "design_title": "Stay Dangerous Apparel",
+      "main_text": "STAY DANGEROUS",
+      "sub_text": "Humble and hungry",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Stay Dangerous T Shirt Motivational Gym Tee",
+        "mug": "Stay Humble Stay Dangerous Mug Inspirational Coffee Motivation",
+        "tote_bag": "Rise Supply Co Stay Dangerous Tote Bag Motivational Gym Bag"
+      },
+      "listing_description": "Unleash your inner beast with this bold 'Stay Dangerous' design, perfect for gym-goers and entrepreneurs who embody the 'stay humble, stay hungry' mindset. Wear your motivation on your sleeve with Rise Supply Co's high-quality apparel and accessories.",
+      "tags": [
+        "stay dangerous",
+        "stay humble",
+        "motivational quotes",
+        "gym shirt",
+        "inspirational apparel",
+        "fitness motivation",
+        "entrepreneur gifts",
+        "motivational gift",
+        "gym tee",
+        "gym clothes",
+        "workout motivation",
+        "ambitious apparel",
+        "driven individuals",
+        "hustle and grind",
+        "fitness enthusiast",
+        "gymlife",
+        "motivation monday",
+        "gym rat",
+        "entrepreneur mindset",
+        "stay hungry",
+        "risesupplyco"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-06/stay-dangerous-apparel_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-06/stay-dangerous-apparel_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "entrepreneur grind",
+      "design_title": "Rise Above Fear",
+      "main_text": "GRIND EVERY DAY",
+      "sub_text": "No excuses, no limits",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Entrepreneur Grind T Shirt - Motivational Gym Wear",
+        "mug": "Rise Above Fear Entrepreneur Mindset Coffee Mug",
+        "tote_bag": "Motivational Entrepreneur Tote Bag - Grind Every Day Quote"
+      },
+      "listing_description": "Unleash your inner strength and stay motivated with our bold entrepreneur grind design, perfect for gym-goers and driven individuals. This high-quality print-on-demand product is designed to inspire and fuel your passions, whether you're crushing a workout or crushing your business goals.",
+      "tags": [
+        "entrepreneur grind",
+        "motivational quotes",
+        "gym shirt",
+        "rise above fear",
+        "mindset shift",
+        "motivational gift",
+        "gym motivation",
+        "entrepreneur mindset",
+        "fitness motivation",
+        "business motivation",
+        "grind every day",
+        "no excuses",
+        "no limits",
+        "motivational apparel",
+        "inspirational quotes",
+        "gym wear",
+        "entrepreneur gifts",
+        "motivational mugs",
+        "rise supply co",
+        "motivational tote bag",
+        "fitness quotes",
+        "business quotes",
+        "entrepreneur quotes",
+        "motivational posters",
+        "gym inspire",
+        "motivation monday",
+        "wednesday wisdom",
+        "fitness motivation monday",
+        "entrepreneur motivation"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-06/rise-above-fear_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-06/rise-above-fear_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "winners mindset",
+      "design_title": "Champion Mindset Won",
+      "main_text": "UNSTOPPABLE IN MY PRIME",
+      "sub_text": "Driven to succeed",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Winners Mindset T Shirt Gym Motivation Tee",
+        "mug": "RISE SUPPLY CO. Unstoppable Mindset Coffee Mug Motivational Gift",
+        "tote_bag": "RISE SUPPLY CO. Champion Mindset Tote Bag Gym Motivation Bag"
+      },
+      "listing_description": "Unlock your full potential with the unstoppable mindset, perfect for gym-goers and entrepreneurs who refuse to back down. This design is a constant reminder to stay driven and focused on your goals, making it a great motivational gift for anyone who embodies a winners mindset.",
+      "tags": [
+        "winners mindset",
+        "motivational gift",
+        "gym shirt",
+        "entrepreneur motivation",
+        "mindset quotes",
+        "gym motivation",
+        "mental toughness",
+        "champion mindset",
+        "unstoppable motivation",
+        "rise above",
+        "motivational quotes",
+        "gym tees",
+        "motivation gift",
+        "gym wear",
+        "fitness motivation",
+        "mindset is everything",
+        "motivational apparel",
+        "winner mindset quotes",
+        "motivational mugs",
+        "inspirational quotes",
+        "gym tote bag",
+        "motivational bags",
+        "motivation"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-06/champion-mindset-won_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-06/champion-mindset-won_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
