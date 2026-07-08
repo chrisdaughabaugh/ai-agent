@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-08",
+  "designs": [
+    {
+      "theme": "silent hard work",
+      "design_title": "Unseen Grind",
+      "main_text": "HUSTLE IN SILENCE",
+      "sub_text": "results speak loud",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Silent Hard Work Hustle T Shirt for Men and Women Gym Motivation",
+        "mug": "Motivational Quote Mug Hustle in Silence Morning Coffee Gift for Entrepreneurs",
+        "tote_bag": "RISE SUPPLY CO Unseen Grind Tote Bag for Gym and Workouts Silent Hard Work Motivation"
+      },
+      "listing_description": "Unlock your inner strength with this powerful design, reminding you that the greatest accomplishments are often achieved through silent hard work and dedication. Perfect for driven individuals, gym-goers, and entrepreneurs who believe in the hustle, this motivational quote will fuel your journey to success.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "hustle in silence",
+        "silent hard work",
+        "motivational gift",
+        "entrepreneur shirt",
+        "fitness motivation",
+        "workout quote",
+        "gym motivation",
+        "motivational t shirt",
+        "RISE SUPPLY CO",
+        "motivation",
+        "inspiration",
+        "hard work",
+        "dedication",
+        "gym tote bag",
+        "motivational mug",
+        "morning coffee",
+        "quote of the day"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-08/unseen-grind_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-08/unseen-grind_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash The Beast",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Lead the pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Be The Wolf T Shirt for Gym and Fitness Motivation",
+        "mug": "Be The Wolf Motivational Mug for Coffee and Tea Lovers",
+        "tote_bag": "Unleash The Beast Tote Bag for Everyday Carry and Gym Essentials"
+      },
+      "listing_description": "Unleash your inner strength and become the leader of the pack with this bold and empowering design. Perfect for gym-goers, entrepreneurs, and anyone looking to tap into their inner wolf and take control of their lives.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "wolf quote",
+        "be the wolf",
+        "unleash the beast",
+        "rise supply co",
+        "gym motivational quotes",
+        "fitness apparel",
+        "motivational t shirt",
+        "wolf t shirt",
+        "gym tote bag",
+        "fitness tote bag",
+        "motivational mug",
+        "coffee mug",
+        "tea lover gift",
+        "gym coffee mug",
+        "fitness coffee mug",
+        "motivational gift for men",
+        "motivational gift for women",
+        "entrepreneur gift",
+        "gym enthusiast gift"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-08/unleash-the-beast_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-08/unleash-the-beast_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "outwork everyone",
+      "design_title": "Outwork The Competition",
+      "main_text": "OUTWORK EVERYONE",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Outwork Everyone Gym Shirt Motivational Fitness Tee",
+        "mug": "Outwork Everyone Coffee Mug Motivational Quote Gift",
+        "tote_bag": "Rise Supply Co Outwork Everyone Tote Bag Gym Bag Motivational Gift"
+      },
+      "listing_description": "Stay motivated and focused with this bold design that reminds you to outwork everyone. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed.",
+      "tags": [
+        "outwork everyone",
+        "motivational quote",
+        "gym shirt",
+        "fitness tee",
+        "motivational gift",
+        "rise supply co",
+        "outwork",
+        "everyone",
+        "no excuses",
+        "motivation",
+        "gym motivation",
+        "fitness motivation",
+        "entrepreneur gift",
+        "gym goer",
+        "motivational apparel",
+        "motivational accessories",
+        "workout motivation",
+        "fitness inspiration",
+        "gym inspiration",
+        "motivational mug",
+        "motivational tote",
+        "inspirational quote",
+        "motivational quote",
+        "outwork everyone mug",
+        "outwork everyone tote",
+        "outwork everyone shirt",
+        "rise supply co outwork"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-08/outwork-the-competition_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-08/outwork-the-competition_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
