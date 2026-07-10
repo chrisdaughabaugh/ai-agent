@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-10",
+  "designs": [
+    {
+      "theme": "grind and hustle",
+      "design_title": "Hustle Mode Activated",
+      "main_text": "GRIND EVERY DAY",
+      "sub_text": "No excuses, only results",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Grind and Hustle Gym Shirt for Men and Women",
+        "mug": "Morning Motivation Hustle Mode Activated Coffee Mug",
+        "tote_bag": "Hustle and Grind Tote Bag for Gym and Workout Enthusiasts"
+      },
+      "listing_description": "Unlock your full potential with this motivational design, perfect for fitness enthusiasts and entrepreneurs who refuse to back down. Make a statement with RISE SUPPLY CO's high-quality apparel and accessories, designed to fuel your hustle and drive your success.",
+      "tags": [
+        "hustle and grind",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "gym motivation",
+        "workout inspiration",
+        "fitness quote",
+        "hustle mode",
+        "grind every day",
+        "no excuses",
+        "rise supply co",
+        "motivational apparel",
+        "gym enthusiasts",
+        "fitness enthusiasts",
+        "motivational mug",
+        "hustle and grind mug",
+        "gym tote bag",
+        "workout tote bag",
+        "motivational accessories",
+        "fitness accessories",
+        "entrepreneur apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-10/hustle-mode-activated_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-10/hustle-mode-activated_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "outwork everyone",
+      "design_title": "Outwork The Rest",
+      "main_text": "OUTWORK EVERYONE",
+      "sub_text": "Grind daily",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Outwork Everyone Gym Shirt Motivational Tee",
+        "mug": "Outwork Everyone Motivational Coffee Mug by RISE SUPPLY CO",
+        "tote_bag": "RISE SUPPLY CO Outwork Everyone Gym Tote Bag Motivational Gift"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for gym-goers and entrepreneurs who refuse to back down. Wear your motivation on your sleeve and outwork the rest with RISE SUPPLY CO's latest design",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "outwork everyone",
+        "rise supply co",
+        "fitness motivation",
+        "gym tote bag",
+        "motivational mug",
+        "entrepreneur gifts",
+        "gym accessories",
+        "motivational quotes",
+        "fitness quotes",
+        "outwork",
+        "grind daily",
+        "rise and grind",
+        "motivation",
+        "productivity",
+        "gym inspiration",
+        "fitness inspiration",
+        "workout motivation",
+        "gym motivation"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-10/outwork-the-rest_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-10/outwork-the-rest_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "your only competition is yesterday",
+      "design_title": "Beat Yesterday",
+      "main_text": "BEAT YESTERDAY",
+      "sub_text": "be better today",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Motivational Gym Shirt for Men and Women - RISE SUPPLY CO. Beat Yesterday Tee",
+        "mug": "RISE SUPPLY CO. Morning Motivation Coffee Mug - Beat Yesterday Daily Inspiration",
+        "tote_bag": "RISE SUPPLY CO. Inspirational Tote Bag for Fitness and Entrepreneurship - Beat Yesterday"
+      },
+      "listing_description": "Unleash your inner strength and motivation with this powerful design, reminding you that your only competition is yesterday. Perfect for gym-goers, entrepreneurs, and anyone striving to be better today.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fitness inspiration",
+        "entrepreneur mindset",
+        "RISE SUPPLY CO.",
+        "beat yesterday",
+        "motivation quote",
+        "gym motivation",
+        "daily inspiration",
+        "morning motivation",
+        "fitness quote",
+        "entrepreneur quote",
+        "motivational tee",
+        "inspirational mug",
+        "motivational tote bag",
+        "fitness gift",
+        "entrepreneur gift"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-10/beat-yesterday_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-10/beat-yesterday_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
