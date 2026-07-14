@@ -1,0 +1,186 @@
+{
+  "date": "2026-07-14",
+  "designs": [
+    {
+      "theme": "no excuses mentality",
+      "design_title": "No Excuses Mindset",
+      "main_text": "NO EXCUSES",
+      "sub_text": "own your grind",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO No Excuses Motivational Gym Shirt for Men and Women",
+        "mug": "No Excuses Mindset Coffee Mug for Entrepreneurs and Fitness Enthusiasts",
+        "tote_bag": "No Excuses Tote Bag for Driven Individuals and Motivational Gifts"
+      },
+      "listing_description": "Unleash your inner strength with this powerful no excuses design, perfect for gym-goers and entrepreneurs who refuse to back down. This bold design is a constant reminder to own your grind and push through any obstacle that comes your way.",
+      "tags": [
+        "no excuses mentality",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "mindset shift",
+        "no excuses",
+        "own your grind",
+        "gym motivation",
+        "motivational gift",
+        "inspirational quote",
+        "fitness enthusiast",
+        "Driven individuals",
+        "motivational apparel",
+        "RISE SUPPLY CO"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-14/no-excuses-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-14/no-excuses-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Desire",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "Consistency is key",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Discipline Over Motivation T Shirt - Gym Motivation Tee",
+        "mug": "Motivational Coffee Mug - Discipline Over Motivation Quote - RISE SUPPLY CO",
+        "tote_bag": "Discipline Over Motivation Tote Bag - RISE SUPPLY CO Gym Bag - Motivational Gift"
+      },
+      "listing_description": "Unleash your inner strength with this powerful reminder that discipline is the key to success. Perfect for gym-goers and entrepreneurs, this design will motivate you to stay consistent and driven towards your goals.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "discipline over motivation",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "RISE SUPPLY CO",
+        "gym motivation",
+        "consistency is key",
+        "motivation tee",
+        " disciplined mind",
+        "mindset shift",
+        "motivational mug",
+        "gym bag",
+        "fitness quote",
+        "motivational tote bag",
+        "motivation for success",
+        "successful mindset",
+        "gym apparel",
+        "motivational apparel",
+        "discipline quote",
+        "motivation for entrepreneurs",
+        "fitness motivation quote",
+        "motivational design",
+        "inspirational quote",
+        "gym inspiration"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-14/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-14/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "your only competition is yesterday",
+      "design_title": "Beat Yesterday",
+      "main_text": "BEAT YESTERDAY",
+      "sub_text": "get better today",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Motivational Gym Shirt - Beat Yesterday",
+        "mug": "Motivational Coffee Mug - Beat Yesterday by RISE SUPPLY CO.",
+        "tote_bag": "RISE SUPPLY CO. Inspirational Tote Bag - Beat Yesterday Motto"
+      },
+      "listing_description": "Unlock your full potential with this motivational design, reminding you to strive for better every day. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed, this RISE SUPPLY CO. product is a daily reminder to beat yesterday and get better today.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "beat yesterday",
+        "rise supply co",
+        "inspirational quote",
+        "gym inspiration",
+        "motivational quote",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational mug",
+        "gym tote bag",
+        "motivational apparel",
+        "daily motivation",
+        "success quote",
+        "gym motivation",
+        "quote of the day",
+        "inspirational apparel",
+        "motivational products",
+        "risingsupplyco",
+        "motivation",
+        "inspiration",
+        "gym",
+        "fitness",
+        "entrepreneur",
+        "success"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-14/beat-yesterday_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-14/beat-yesterday_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
