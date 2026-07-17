@@ -1,0 +1,179 @@
+{
+  "date": "2026-07-17",
+  "designs": [
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Your Inner Wolf",
+      "main_text": "BE THE WOLF",
+      "sub_text": "lead the pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Wolf Motivation T Shirt for Gym Workout",
+        "mug": "Be The Wolf Morning Motivation Mug for Coffee Tea",
+        "tote_bag": "Unleash Your Inner Wolf Tote Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Unleash your inner strength with this motivational design, perfect for gym-goers and entrepreneurs who refuse to blend in. Wear your ambition on your sleeve and stay motivated to take on the day with Rise Supply Co's bold and inspiring apparel and accessories.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "wolf quote",
+        "fitness motivation",
+        "entrepreneur apparel",
+        "be the wolf",
+        "inner strength",
+        "mindset shift",
+        "rise above",
+        "gym workout",
+        "motivation mug",
+        "morning motivation",
+        "coffee lover gift",
+        "tea enthusiast",
+        "tote bag for gym",
+        "fitness enthusiast gift",
+        "gym bag",
+        "workout motivation",
+        "motivational quote",
+        "inspirational gift",
+        "ambition apparel",
+        "driven individuals",
+        "wolfpack mindset",
+        "alpha mindset",
+        "leader mindset",
+        "motivation for success"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-17/unleash-your-inner-wolf_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-17/unleash-your-inner-wolf_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stay dangerous stay humble",
+      "design_title": "Dangerous Humility Mindset",
+      "main_text": "STAY DANGEROUS",
+      "sub_text": "humble in pursuit",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Stay Dangerous T-Shirt - RISE SUPPLY CO. Motivational Gym Tee",
+        "mug": "Stay Humble Mug - Motivational Quote Coffee Cup - RISE SUPPLY CO.",
+        "tote_bag": "Dangerous Humility Tote Bag - Inspirational Gift - RISE SUPPLY CO."
+      },
+      "listing_description": "Unlock your inner strength with this bold design, perfect for the driven and ambitious. Stay motivated and focused on your goals with RISE SUPPLY CO.'s high-quality apparel and accessories.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "stay humble",
+        "stay dangerous",
+        "mindset quote",
+        "inspirational tee",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational mug",
+        "gym motivation",
+        "humility quote",
+        "dangerous humility",
+        "rise supply co",
+        "motivational apparel",
+        "inspirational gift",
+        "gym rat",
+        "fitness enthusiast",
+        "motivational quote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-17/dangerous-humility-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-17/dangerous-humility-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "no excuses mentality",
+      "design_title": "No Excuses Mindset",
+      "main_text": "NO EXCUSES ONLY RESULTS",
+      "sub_text": "push yourself every day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO No Excuses Mindset Gym Shirt for Men and Women",
+        "mug": "No Excuses Only Results Motivational Coffee Mug by RISE SUPPLY CO",
+        "tote_bag": "RISE SUPPLY CO No Excuses Tote Bag for Gym and Everyday Use"
+      },
+      "listing_description": "Unleash your inner strength with this powerful no excuses mindset design, perfect for gym-goers and entrepreneurs who refuse to back down. Wear your motivation on your sleeve and stay focused on your goals with RISE SUPPLY CO's bold and inspiring apparel and accessories.",
+      "tags": [
+        "no excuses mindset",
+        "gym shirt",
+        "motivational gift",
+        "fitness motivation",
+        "mindset shift",
+        "entrepreneur motivation",
+        "gym inspiration",
+        "motivational quote",
+        "motivation apparel",
+        "rise supply co",
+        "no excuses only results",
+        "motivational mug",
+        "gym tote bag",
+        "fitness gift",
+        "motivational accessories"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-17/no-excuses-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-17/no-excuses-mindset_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,102 @@
+STOCK IMAGE SUBMISSION GUIDE
+============================
+Generated: 2026-07-17
+Batch: batch-2026-07-17
+Concepts: 10
+
+OVERVIEW
+--------
+This batch contains 10 AI image concepts with full metadata for
+Shutterstock and Adobe Stock. Follow these steps to submit them:
+
+STEP 1: GENERATE THE ACTUAL IMAGES
+------------------------------------
+Use the prompts in prompts.json with an AI image generator:
+
+Option A — Midjourney (Recommended for quality):
+  1. Open Discord and join Midjourney server (midjourney.com)
+  2. Use the /imagine command with each prompt
+  3. Choose "Upscale" on the best variation
+  4. Download at full resolution
+  5. Save as JPEG, minimum 4MP (e.g. 2400x1600 pixels)
+
+Option B — DALL-E 3 (via ChatGPT Plus):
+  1. Go to chat.openai.com
+  2. Paste each prompt into the chat
+  3. Download the generated image
+  4. Upscale if needed using upscayl.org (free)
+
+Option C — Stable Diffusion (Free, local):
+  1. Install AUTOMATIC1111 or ComfyUI
+  2. Use SDXL or Juggernaut XL model
+  3. Set resolution to 1024x1024 minimum
+  4. Upscale 2x with ESRGAN or similar
+
+IMAGE QUALITY REQUIREMENTS
+---------------------------
+- Minimum: 4 megapixels (e.g., 2400x1600)
+- Recommended: 8-25 megapixels
+- Format: JPEG (quality 90+) or TIFF
+- No watermarks, logos, or text overlays
+- Sharp focus, proper exposure
+- No AI artifacts (check edges, hands, text in image)
+
+STEP 2: NAME YOUR FILES
+------------------------
+Rename each generated image to match the filename in the CSV files:
+  concept_01.jpg, concept_02.jpg, ... concept_10.jpg
+
+STEP 3: SUBMIT TO SHUTTERSTOCK
+--------------------------------
+  1. Go to: submit.shutterstock.com
+  2. Click "Upload" and batch upload all images
+  3. Once uploaded, click "Edit metadata"
+  4. Click "Import CSV" and upload metadata_shutterstock.csv
+  5. Review each image for auto-filled metadata
+  6. Click "Submit for review"
+  7. Review takes 1-3 business days
+
+Shutterstock royalties: $0.25 - $2.85 per download (level-based)
+
+STEP 4: SUBMIT TO ADOBE STOCK
+-------------------------------
+  1. Go to: contributor.stock.adobe.com
+  2. Create contributor account if needed
+  3. Click "Upload" and select all images
+  4. In the dashboard, use "Bulk Edit" > "Import CSV"
+  5. Upload metadata_adobe.csv
+  6. Review and submit
+  7. Review takes 2-5 business days
+
+Adobe Stock royalties: 33% of sale price (~$0.33 - $3.30 per download)
+
+STEP 5: ALSO CONSIDER THESE PLATFORMS
+---------------------------------------
+- Getty Images / iStock: gettyimages.com/contributor
+  (Higher per-image rates, stricter acceptance)
+- Dreamstime: dreamstime.com/sell-stock-photos
+  (Good supplementary income, 25-50% royalties)
+- Pond5: pond5.com/sell-stock-footage
+  (Good for video clips too, 35-50% royalties)
+- Freepik: freepik.com/sell-your-work
+  (High volume, lower per-download but huge audience)
+
+TIPS FOR ACCEPTANCE
+--------------------
+- Avoid recognizable faces without model releases
+- Avoid trademarked logos or brands visible in image
+- Avoid identifiable private property without release
+- Keep metadata honest and accurate to image content
+- Diverse, inclusive images have higher acceptance rates
+- Business-relevant concepts sell best consistently
+
+TRACKING EARNINGS
+------------------
+- Check your contributor dashboards weekly
+- Most sites pay monthly via PayPal or bank transfer
+- Shutterstock: Pay threshold $35
+- Adobe Stock: Pay threshold $25
+- Expect 2-6 months before first meaningful earnings
+- A portfolio of 500+ images earns consistently
+
+Good luck with your submissions!
