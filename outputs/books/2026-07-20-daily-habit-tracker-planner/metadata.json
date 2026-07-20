@@ -1,0 +1,32 @@
+{
+  "title": "Daily Habit Tracker Planner",
+  "subtitle": "Create Lasting Changes with a 90-Day Goal Setting and Achievement System",
+  "description": "Take control of your daily routines and achieve your goals with this habit tracker planner. By using this 90-day system, you'll be able to identify and break bad habits, create new positive ones, and track your progress along the way. With space to set and review your daily, weekly, and monthly goals, you'll be able to stay focused and motivated on your path to success. This planner is perfect for anyone looking to improve their productivity, increase their self-discipline, and create lasting changes in their life. By tracking your habits and progress, you'll be able to see the positive impact it has on your mental and physical health, relationships, and overall well-being. Start building the life you want today with this daily habit tracker planner.",
+  "keywords": [
+    "habit tracker",
+    "daily planner",
+    "goal setting",
+    "productivity",
+    "self discipline",
+    "90 day challenge",
+    "monthly planner"
+  ],
+  "primary_category": "Books > Self-Help > Personal Development",
+  "secondary_category": "Books > Health, Fitness & Dieting > Mental Health",
+  "audience": "Individuals looking to improve their productivity and create positive habits",
+  "chapter_themes": [
+    "Introduction to Habit Tracking",
+    "Setting Daily Goals",
+    "Creating a Morning Routine",
+    "Building Self-Discipline",
+    "Overcoming Procrastination",
+    "Tracking Progress",
+    "Maintaining Motivation"
+  ],
+  "niche": "habit tracker",
+  "generated_date": "2026-07-20",
+  "output_dir": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-07-20-daily-habit-tracker-planner",
+  "manuscript_path": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-07-20-daily-habit-tracker-planner/manuscript.txt",
+  "chapter_count": 7,
+  "estimated_page_count": 60
+}
