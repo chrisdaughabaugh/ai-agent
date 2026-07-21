@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-21",
+  "designs": [
+    {
+      "theme": "pressure makes diamonds",
+      "design_title": "Diamonds Made Under Pressure",
+      "main_text": "PRESSURE MAKES DIAMONDS",
+      "sub_text": "Stronger with each test",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Pressure Makes Diamonds T-Shirt for Gym and Motivation",
+        "mug": "Pressure Makes Diamonds Coffee Mug for Ambitious Entrepreneurs and Fitness Enthusiasts",
+        "tote_bag": "RISE SUPPLY CO Diamonds Made Under Pressure Tote Bag for Motivational Gifts"
+      },
+      "listing_description": "Unlock your inner strength with this bold design, reminding you that pressure is what makes diamonds shine. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed, this motivational quote will fuel your passion and drive.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "pressure makes diamonds",
+        "diamonds made under pressure",
+        "RISE SUPPLY CO",
+        "ambitious clothing",
+        "gym wear",
+        "motivational gift",
+        "strength quote",
+        "inner strength",
+        "mental toughness",
+        "fitness enthusiast",
+        "business motivation",
+        "success mindset",
+        "motivational apparel",
+        "inspirational quotes",
+        "motivation",
+        "drive"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-21/diamonds-made-under-pressure_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-21/diamonds-made-under-pressure_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "outwork everyone",
+      "design_title": "Unstoppable Grind Gear",
+      "main_text": "OUTWORK EVERYONE ELSE",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Outwork Everyone Else Gym Shirt for Men and Women",
+        "mug": "Motivational Outwork Everyone Coffee Mug by RISE SUPPLY CO",
+        "tote_bag": "Outwork Everyone Else Gym Tote Bag by RISE SUPPLY CO"
+      },
+      "listing_description": "Unleash your inner drive with this bold 'Outwork Everyone Else' design from RISE SUPPLY CO, perfect for fitness enthusiasts and entrepreneurs who refuse to back down. Wear your motivation on your sleeve and stay focused on your goals with this high-quality apparel and homeware.",
+      "tags": [
+        "outwork everyone",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "RISE SUPPLY CO",
+        "motivational gear",
+        "gym motivation",
+        "workout inspiration",
+        "motivational apparel",
+        "outwork everyone else",
+        "no excuses",
+        "unstoppable grind",
+        "fitness enthusiast",
+        "gym enthusiast",
+        "motivational gift",
+        "inspirational quote",
+        "gym quote",
+        "fitness quote",
+        "motivational shirt",
+        "gym shirt for men",
+        "gym shirt for women"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-21/unstoppable-grind-gear_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-21/unstoppable-grind-gear_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "delayed gratification",
+      "design_title": "Grind Now Shine",
+      "main_text": "PAIN NOW GLORY LATER",
+      "sub_text": "success is worth it",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Delayed Gratification Gym T Shirt Motivational Fitness",
+        "mug": "RISE SUPPLY CO Grind Now Shine Later Morning Motivation Coffee Mug",
+        "tote_bag": "RISE SUPPLY CO Success Is Worth It Tote Bag Motivational Gift"
+      },
+      "listing_description": "Get motivated to crush your fitness goals with this bold design, reminding you that pain now means glory later. Perfect for gym-goers and entrepreneurs who understand the value of delayed gratification.",
+      "tags": [
+        "motivational quote",
+        "delayed gratification",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "gym inspiration",
+        "fitness quote",
+        "ambitious mindset",
+        "success mindset",
+        "motivational t shirt",
+        "gym motivation",
+        "fitness motivation",
+        "delayed gratification quote",
+        "rise supply co",
+        "gym wear",
+        "motivational mug",
+        "fitness gift",
+        "entrepreneur motivation",
+        "grind now shine later",
+        "pain now glory later",
+        "motivational tote bag",
+        "fitness inspiration",
+        "delayed gratification mindset",
+        "success is worth it",
+        "gym inspiration quote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-21/grind-now-shine_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-21/grind-now-shine_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
