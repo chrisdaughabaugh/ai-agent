@@ -1,0 +1,199 @@
+{
+  "date": "2026-07-22",
+  "designs": [
+    {
+      "theme": "build your empire",
+      "design_title": "Empire Builder",
+      "main_text": "BUILD YOUR LEGACY",
+      "sub_text": "start now",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Build Your Empire T Shirt for Men and Women",
+        "mug": "Motivational Mug Build Your Empire Coffee Cup by Rise Supply Co",
+        "tote_bag": "Empire Builder Tote Bag by Rise Supply Co, Motivational Gift"
+      },
+      "listing_description": "Unleash your inner strength and build your empire with this powerful design. Perfect for driven individuals who strive for greatness, this motivational quote will fuel your passion and ambition.",
+      "tags": [
+        "build your empire",
+        "motivational quote",
+        "gym shirt",
+        "entrepreneur gift",
+        "rise supply co",
+        "motivational t shirt",
+        "empire builder",
+        "ambition quote",
+        "driven individuals",
+        "fitness motivation",
+        "business motivation",
+        "success mindset",
+        "motivational mug",
+        "coffee lover gift",
+        "tote bag",
+        "motivational gift",
+        "inspirational quote",
+        "build your legacy",
+        "start now",
+        "motivation",
+        "empowerment",
+        "gym motivation",
+        "fitness gift",
+        "entrepreneur shirt",
+        "motivational apparel",
+        "build your empire quote",
+        "rise above"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-22/empire-builder_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-22/empire-builder_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "entrepreneur grind",
+      "design_title": "Grind Mode Activated",
+      "main_text": "RISE AND GRIND",
+      "sub_text": "\u6bce\u65e5\u5411\u4e0a (improve daily)",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Entrepreneur Grind Mode T-Shirt for Hustlers",
+        "mug": "Rise and Grind Morning Motivation Mug for Entrepreneurs",
+        "tote_bag": "Rise Supply Co Grind Mode Activated Tote Bag for Fitness"
+      },
+      "listing_description": "Unlock your full potential with this bold design, perfect for entrepreneurs and fitness enthusiasts who embody the hustle mindset. Wear your motivation on your sleeve and stay focused on your goals with Rise Supply Co's high-quality apparel and accessories.",
+      "tags": [
+        "entrepreneur gifts",
+        "motivational quotes",
+        "gym shirts",
+        "fitness motivation",
+        "hustle mode",
+        "rise and grind",
+        "morning motivation",
+        "productivity tips",
+        "goal setting",
+        "success mindset",
+        "motivational t shirts",
+        "gym apparel",
+        "fitness accessories",
+        "entrepreneur mindset",
+        "grind mode",
+        "hustle and grind",
+        "motivational mugs",
+        "inspirational quotes",
+        "daily motivation",
+        "fitness gifts",
+        "entrepreneur t shirts",
+        "motivational tote bags",
+        "gym motivation",
+        "fitness quotes",
+        "success quotes",
+        "motivational gifts",
+        "entrepreneur accessories"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-22/grind-mode-activated_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-22/grind-mode-activated_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "do it scared anyway",
+      "design_title": "Fearless Motivation",
+      "main_text": "DO IT SCARED",
+      "sub_text": "face your fears daily",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Fearless Motivation T Shirt for Gym Goers",
+        "mug": "Do It Scared Mug - Motivational Coffee Cup for Entrepreneurs",
+        "tote_bag": "RISE SUPPLY CO Fearless Daily Tote Bag for Ambitious Women"
+      },
+      "listing_description": "Unlock your full potential with our fearless motivation design, perfect for daily reminders to push past your limits. Wear your motivation on your sleeve with RISE SUPPLY CO's bold and empowering apparel and accessories.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "fearless motivation",
+        "do it scared",
+        "RISE SUPPLY CO",
+        "entrepreneur gift",
+        "gym motivation",
+        "ambitious women",
+        "fitness inspiration",
+        "motivational quote",
+        "daily motivation",
+        "fearless daily",
+        "gym goers",
+        "motivational apparel",
+        "empowering accessories",
+        "bold fashion",
+        "strong mindset",
+        "mindset shift",
+        "motivation Monday",
+        "gym routine",
+        "workout inspiration",
+        "fitness quote",
+        "motivational mug",
+        "motivational tote bag",
+        "RISE SUPPLY CO apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-22/fearless-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-22/fearless-motivation_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}

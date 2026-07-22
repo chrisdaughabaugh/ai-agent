@@ -1,0 +1,18 @@
+Local Lead Generation Run
+=========================
+Date      : 2026-07-22 10:29
+City      : Austin TX
+Category  : plumbers
+
+Businesses found on Yelp : 0
+Targets identified       : 0
+Emails generated         : 0
+
+Targeting criteria:
+  - No website present
+  - Website unreachable
+  - Website quality score ≤ 1/3 (missing mobile, title, or meta desc)
+
+Output files:
+  /home/runner/work/ai-agent/ai-agent/outputs/leads/2026-07-22/leads.csv
+  /home/runner/work/ai-agent/ai-agent/outputs/leads/2026-07-22/emails/  (0 email files)
