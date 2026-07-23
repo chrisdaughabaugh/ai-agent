@@ -1,0 +1,189 @@
+{
+  "date": "2026-07-23",
+  "designs": [
+    {
+      "theme": "outwork everyone",
+      "design_title": "Outwork The Rest",
+      "main_text": "OUTWORK EVERYONE ELSE",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Outwork Everyone Gym Shirt Motivation Tee",
+        "mug": "Outwork Everyone Motivational Coffee Mug for Gym Goers",
+        "tote_bag": "RISE SUPPLY CO Outwork The Rest Tote Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Unlock your full potential with this bold 'Outwork Everyone' design from RISE SUPPLY CO, perfect for driven individuals who refuse to back down. Wear your motivation on your sleeve and tackle your fitness goals with confidence and determination.",
+      "tags": [
+        "outwork everyone",
+        "motivational shirt",
+        "gym shirt",
+        "fitness motivation",
+        "motivational quote",
+        "gym quotes",
+        "fitness quotes",
+        "motivational gift",
+        "gym gift",
+        "fitness gift",
+        "outwork",
+        "hustle",
+        "grind",
+        "motivation",
+        "inspiration",
+        "fitness",
+        "gym",
+        "workout",
+        "RISE SUPPLY CO",
+        "motivational apparel",
+        "gym apparel",
+        "fitness apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-23/outwork-the-rest_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-23/outwork-the-rest_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "winners mindset",
+      "design_title": "Unstoppable Winner",
+      "main_text": "WIN AT ALL COSTS",
+      "sub_text": "Never give up now",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Winners Mindset T Shirt for Men and Women - RISE SUPPLY CO.",
+        "mug": "Motivational Winner Mug - Inspirational Quotes for Gym and Office",
+        "tote_bag": "Unstoppable Winner Tote Bag - Motivational Gift for Him and Her"
+      },
+      "listing_description": "Unlock your inner strength with this bold winners mindset design, perfect for gym-goers and entrepreneurs. Stay motivated and focused with RISE SUPPLY CO.'s high-quality apparel and accessories.",
+      "tags": [
+        "motivational quotes",
+        "winners mindset",
+        "gym shirt",
+        "inspirational mug",
+        "motivational gift",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "success quotes",
+        "winner mindset",
+        "gym motivation",
+        "motivational apparel",
+        "winner quotes",
+        "gym inspired",
+        "office motivation",
+        "motivational accessories",
+        "rise supply co",
+        "unstoppable winner",
+        "gym lover",
+        "entrepreneur gifts",
+        "motivation",
+        "inspiration",
+        "fitness quotes",
+        "success mindset",
+        "winner",
+        "champion",
+        "gym enthusiast",
+        "office decor"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-23/unstoppable-winner_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-23/unstoppable-winner_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "pressure makes diamonds",
+      "design_title": "Diamonds Under Pressure",
+      "main_text": "PRESSURE MAKES DIAMONDS",
+      "sub_text": "Transform struggle into strength",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Pressure Makes Diamonds T Shirt Motivational Gym Tee",
+        "mug": "Rise Supply Co Diamonds Under Pressure Inspirational Coffee Mug",
+        "tote_bag": "Rise Supply Co Pressure Makes Diamonds Motivational Tote Bag Gym Bag"
+      },
+      "listing_description": "Unlock your inner strength with this bold design, reminding you that pressure is the catalyst for growth and transformation. Perfect for fitness enthusiasts, entrepreneurs, and anyone driven to succeed, this motivational product is a daily reminder to push through challenges and shine.",
+      "tags": [
+        "pressure makes diamonds",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gifts",
+        "inspirational tees",
+        "rise supply co",
+        "mental toughness",
+        "success mindset",
+        "motivational mugs",
+        "gym motivation",
+        "motivational tote bag",
+        "fitness gift",
+        "motivational gift",
+        "gym bag",
+        "diamonds under pressure",
+        "strong mindset",
+        "resilience quote",
+        "transform struggle",
+        "inner strength"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-23/diamonds-under-pressure_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-23/diamonds-under-pressure_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}

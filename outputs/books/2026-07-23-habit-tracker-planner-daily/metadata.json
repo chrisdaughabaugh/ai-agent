@@ -1,0 +1,33 @@
+{
+  "title": "Habit Tracker Planner Daily",
+  "subtitle": "Develop Consistent Routines and Achieve Goals with Daily Habit Tracking and Journaling",
+  "description": "Take control of your life with this daily habit tracker planner. By using this planner, you'll be able to develop consistent routines, break bad habits, and achieve your goals. With space to track your daily habits, reflect on your progress, and plan for the future, this planner is the perfect tool for anyone looking to improve their productivity and well-being. Whether you're looking to start a new exercise routine, eat healthier, or simply be more productive, this habit tracker planner will help you stay on track and achieve success. With its simple and easy-to-use design, you'll be able to focus on what matters most - making progress towards your goals. Start building the habits you need to succeed and achieve your dreams with this daily habit tracker planner. Key features include: daily habit tracking, space for reflection and goal setting, and a simple and easy-to-use design. Get your copy today and start achieving your goals.",
+  "keywords": [
+    "habit tracker",
+    "daily planner",
+    "goal setting",
+    "productivity",
+    "self improvement",
+    "routine builder",
+    "journaling",
+    "mindfulness"
+  ],
+  "primary_category": "Books > Self-Help > Personal Development",
+  "secondary_category": "Books > Health, Fitness & Dieting > Mental Health",
+  "audience": "Individuals looking to improve their productivity, build positive habits, and achieve their goals",
+  "chapter_themes": [
+    "Introduction to Habit Tracking",
+    "Setting Goals",
+    "Building Morning Routines",
+    "Creating Healthy Habits",
+    "Overcoming Procrastination",
+    "Reflecting on Progress",
+    "Maintaining Motivation"
+  ],
+  "niche": "habit tracker",
+  "generated_date": "2026-07-23",
+  "output_dir": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-07-23-habit-tracker-planner-daily",
+  "manuscript_path": "/home/runner/work/ai-agent/ai-agent/outputs/books/2026-07-23-habit-tracker-planner-daily/manuscript.txt",
+  "chapter_count": 7,
+  "estimated_page_count": 60
+}
