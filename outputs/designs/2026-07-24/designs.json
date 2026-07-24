@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-24",
+  "designs": [
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Inner Beast",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Lead the pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Be The Wolf T-Shirt Motivational Gym Wear",
+        "mug": "Be The Wolf Inspirational Coffee Mug Motivational Gift",
+        "tote_bag": "Unleash Inner Beast Tote Bag Motivational Quote Bag"
+      },
+      "listing_description": "Unleash your inner strength with this powerful 'Be The Wolf' design, perfect for anyone who refuses to follow the crowd. Wear your motivation on your sleeve and stay driven with RISE SUPPLY CO's high-quality apparel and accessories.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "be the wolf",
+        "womens motivational clothing",
+        "mens motivational apparel",
+        "inspirational gift",
+        "motivational gift",
+        "gym motivation",
+        "fitness quote",
+        "strong mindset",
+        "inner beast",
+        "unleash your potential",
+        "rise above",
+        "mindset shift",
+        "motivational mug",
+        "gym tote bag",
+        "motivational accessories"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-24/unleash-inner-beast_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-24/unleash-inner-beast_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "pressure makes diamonds",
+      "design_title": "DiamondMindset",
+      "main_text": "PRESSURE MAKES DIAMONDS",
+      "sub_text": "forge your strength",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Pressure Makes Diamonds T Shirt Motivational Gym Tee",
+        "mug": "Pressure Makes Diamonds Morning Motivation Coffee Mug",
+        "tote_bag": "Diamond Mindset Pressure Makes Diamonds Tote Bag Gym Bag"
+      },
+      "listing_description": "Unleash your inner strength with this powerful design, reminding you that pressure is what forges diamonds. Wear your motivation on your sleeve with Rise Supply Co's Pressure Makes Diamonds apparel and accessories, perfect for gym-goers and entrepreneurs alike.",
+      "tags": [
+        "motivational gifts",
+        "gym shirt",
+        "pressure makes diamonds",
+        "rise supply co",
+        "mindset motivation",
+        "gym motivation",
+        "entrepreneur quotes",
+        "fitness motivation",
+        "motivational quotes",
+        "diamond mindset",
+        "inspirational gifts",
+        "motivation",
+        "gym apparel",
+        "fitness apparel",
+        "gifts for him",
+        "gifts for her",
+        "motivational tees",
+        "gym tees",
+        "rise above",
+        "pressure makes diamonds quote",
+        "diamonds are forever",
+        "mental toughness",
+        "motivational mugs",
+        "gym bags",
+        "tote bags",
+        "motivational accessories"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-24/diamondmindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-24/diamondmindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "delayed gratification",
+      "design_title": "Discipline Over Desire",
+      "main_text": "PATIENCE OVER INSTANT",
+      "sub_text": "invest in the wait",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Delayed Gratification Motivational Gym T Shirt",
+        "mug": "RISE SUPPLY CO Discipline Over Desire Black Coffee Mug",
+        "tote_bag": "RISE SUPPLY CO Patience Over Instant Tote Bag Gym Motivation"
+      },
+      "listing_description": "Unlock your full potential with this powerful reminder to prioritize discipline over desire, perfect for gym-goers and entrepreneurs alike. Wear your motivation on your sleeve or sip from a mug that inspires you to invest in the wait.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "delayed gratification",
+        "patience over instant",
+        "discipline over desire",
+        "RISE SUPPLY CO",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "motivational quotes",
+        "gym quotes",
+        "motivation t shirt",
+        "gym inspiration",
+        "mental toughness",
+        "self discipline",
+        "productivity motivation",
+        "gym motivation quotes",
+        "fitness motivation quotes",
+        "motivational mugs",
+        "motivational tote bags",
+        "gym bags",
+        "fitness gifts",
+        "motivational gifts for men",
+        "motivational gifts for women",
+        "motivation"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-24/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-24/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
