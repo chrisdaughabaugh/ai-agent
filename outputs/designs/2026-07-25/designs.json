@@ -1,0 +1,185 @@
+{
+  "date": "2026-07-25",
+  "designs": [
+    {
+      "theme": "gym and fitness mindset",
+      "design_title": "Unstoppable Fitness",
+      "main_text": "NO PAIN NO GAIN",
+      "sub_text": "Push limits every day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Gym Motivation T Shirt for Men and Women",
+        "mug": "Morning Gym Motivation Mug - Rise Supply Co Fitness Gift",
+        "tote_bag": "Gym Tote Bag - Unstoppable Fitness by Rise Supply Co"
+      },
+      "listing_description": "Unleash your inner strength with this bold fitness design, perfect for gym-goers and entrepreneurs who refuse to back down. Wear your motivation on your sleeve and stay focused on your goals with Rise Supply Co.",
+      "tags": [
+        "gym motivation",
+        "fitness mindset",
+        "workout shirt",
+        "gym clothes",
+        "motivational gift",
+        "fitness gift",
+        "gym shirt",
+        "rise supply co",
+        "unstoppable fitness",
+        "no pain no gain",
+        "gym quotes",
+        "fitness quotes",
+        "motivation",
+        "inspiration",
+        "fitness inspiration",
+        "gym inspiration",
+        "gym tote bag",
+        "fitness mug",
+        "motivational mug",
+        "gym motivation mug"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-25/unstoppable-fitness_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-25/unstoppable-fitness_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "control what you can control",
+      "design_title": "Focus On The Controllable",
+      "main_text": "OWN YOUR OUTCOME",
+      "sub_text": "Focus on what you can",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Motivational Gym Shirt - Control Your Outcome",
+        "mug": "RISE SUPPLY CO. Mindset Coffee Mug - Focus On What You Can Control",
+        "tote_bag": "RISE SUPPLY CO. Inspirational Tote Bag - Own Your Outcome"
+      },
+      "listing_description": "Take control of your life with this powerful reminder to focus on what you can control. Perfect for driven individuals who want to stay motivated and inspired to reach their goals.",
+      "tags": [
+        "motivational quotes",
+        "gym shirt",
+        "mindset gift",
+        "inspirational tote bag",
+        "control your outcome",
+        "own your outcome",
+        "focus on the controllable",
+        "RISE SUPPLY CO.",
+        "motivational apparel",
+        "gym motivation",
+        "entrepreneur gift",
+        "fitness motivational quotes",
+        "mindset coffee mug",
+        "inpirational gifts",
+        "motivational gifts for men",
+        "motivational gifts for women",
+        "gym quotes",
+        "motivation",
+        "success mindset"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-25/focus-on-the-controllable_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-25/focus-on-the-controllable_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "silent hard work",
+      "design_title": "Unseen Grind",
+      "main_text": "HUSTLE IN SILENCE",
+      "sub_text": "Results speak louder",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Silent Hard Work Hustle T-Shirt for Gym Goers",
+        "mug": "Motivational Hustle in Silence Coffee Mug for Entrepreneurs",
+        "tote_bag": "RISE SUPPLY CO Unseen Grind Tote Bag for Ambitious Men and Women"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for those who believe in the power of silent hard work. Wear your motivation on your sleeve and stay driven with RISE SUPPLY CO's high-quality apparel and accessories.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "hustle in silence",
+        "silent hard work",
+        "entrepreneur gift",
+        "ambitious men",
+        "driven women",
+        "gym motivation",
+        "fitness apparel",
+        "t-shirts for men",
+        "motivational gifts",
+        "RISE SUPPLY CO",
+        "unseen grind",
+        "hard work pays off",
+        "motivation",
+        "workout motivation",
+        "gym quotes",
+        "fitness quotes",
+        "productivity",
+        "success mindset",
+        "motivational mugs",
+        "inspirational quotes",
+        "hustle culture",
+        "gym tote bag",
+        "fitness tote bag",
+        "motivational accessories"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-25/unseen-grind_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-25/unseen-grind_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
