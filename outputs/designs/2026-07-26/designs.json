@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-26",
+  "designs": [
+    {
+      "theme": "outwork everyone",
+      "design_title": "Outwork The Rest",
+      "main_text": "OUTWORK EVERYONE",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Outwork Everyone Gym Shirt Motivation Tee",
+        "mug": "Outwork Everyone Motivational Coffee Mug for Gym Goers",
+        "tote_bag": "RISE SUPPLY CO Outwork The Rest Fitness Tote Bag"
+      },
+      "listing_description": "Elevate your fitness and motivation with this bold design, perfect for gym-goers and entrepreneurs who refuse to back down. Wear your dedication to outwork everyone on your sleeve, or carry it with you in a mug or tote bag, and take on the day with confidence and determination.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "outwork everyone",
+        "fitness apparel",
+        "gym motivation",
+        "entrepreneur quotes",
+        "RISE SUPPLY CO",
+        "motivation tee",
+        "fitness tote bag",
+        "gym goers",
+        "ambitious gifts",
+        "driven quotes",
+        "workout motivation",
+        "outwork the rest",
+        "gym enthusiasts",
+        "motivational coffee mug",
+        "fitness inspiration",
+        "quotes for entrepreneurs",
+        "gym quotes",
+        "motivation for athletes"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-26/outwork-the-rest_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-26/outwork-the-rest_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Unshakeable Mindset",
+      "main_text": "FACE YOUR FEARS",
+      "sub_text": "find inner strength",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Stoic Philosophy Face Your Fears Tee",
+        "mug": "Motivational Stoicism Quote Mug for Ambitious Entrepreneurs",
+        "tote_bag": "Unshakeable Mindset Tote Bag for Gym and Fitness Enthusiasts"
+      },
+      "listing_description": "Empower your mindset with this bold design, perfect for anyone seeking motivation and inner strength. Wear or carry this stoic philosophy quote as a reminder to face your fears and overcome obstacles.",
+      "tags": [
+        "stoic philosophy",
+        "motivational quotes",
+        "gym shirt",
+        "fitness motivation",
+        "mindset quote",
+        "ambitious entrepreneurs",
+        "motivational gift",
+        "stoicism",
+        "mental toughness",
+        "inner strength",
+        "rise supply co",
+        "face your fears",
+        "unshakeable mindset",
+        "gym tote bag",
+        "motivational mug",
+        "entrepreneur gifts",
+        "stoic mindset",
+        "gym motivation",
+        "fitness quotes",
+        "strong mindset",
+        "overcome fear",
+        "mental discipline"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-26/unshakeable-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-26/unshakeable-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stay dangerous stay humble",
+      "design_title": "Dangerous Humble Mindset",
+      "main_text": "STAY DANGEROUS",
+      "sub_text": "Humble in heart",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Stay Dangerous T Shirt Motivational Gym Tee",
+        "mug": "Stay Humble Stay Dangerous Coffee Mug Motivational Quote",
+        "tote_bag": "Dangerous Humble Tote Bag Gym Bag Motivational Gift"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for gym-goers and entrepreneurs who embody the stay dangerous stay humble mindset. Wear your motivation on your sleeve and stay focused on your goals with RISE SUPPLY CO",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "stay humble",
+        "stay dangerous",
+        "mindset quote",
+        "entrepreneur gift",
+        "fitness motivation",
+        "gym tote bag",
+        "motivational mug",
+        "humble quote",
+        "dangerous quote",
+        "gym inspiration",
+        "motivational apparel",
+        "rise supply co",
+        "motivational quote",
+        "mindset gift",
+        "gym motivation",
+        "fitness quote",
+        "dangerous humble"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-26/dangerous-humble-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-26/dangerous-humble-mindset_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
