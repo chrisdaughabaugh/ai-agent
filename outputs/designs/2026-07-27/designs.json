@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-27",
+  "designs": [
+    {
+      "theme": "control what you can control",
+      "design_title": "Own Your Outcome",
+      "main_text": "CONTROL YOUR DESTINY",
+      "sub_text": "Focus on the present",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Control Your Destiny Gym Shirt for Men and Women",
+        "mug": "Own Your Outcome Morning Motivation Mug by RISE SUPPLY CO",
+        "tote_bag": "RISE SUPPLY CO Control Your Destiny Tote Bag for Gym and Daily Use"
+      },
+      "listing_description": "Take control of your life with this powerful design, reminding you to focus on what you can control and own your outcome. Perfect for gym enthusiasts and entrepreneurs who strive for motivation and success.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "control your destiny",
+        "own your outcome",
+        "fitness motivation",
+        "entrepreneur gift",
+        "inspirational quote",
+        "gym lover",
+        "motivation",
+        "success mindset",
+        "productivity",
+        "focus",
+        "disciplinary",
+        "driven",
+        "ambitious",
+        "RISE SUPPLY CO",
+        "gym tote bag",
+        "motivational mug",
+        "morning motivation",
+        "daily inspiration"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-27/own-your-outcome_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-27/own-your-outcome_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "mental toughness",
+      "design_title": "Unbreakable Mindset",
+      "main_text": "UNSTOPPABLE FORCE",
+      "sub_text": "Fuel your inner strength",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Mental Toughness T Shirt for Gym - Unbreakable Mindset by RISE SUPPLY CO.",
+        "mug": "Motivational Coffee Mug - Unbreakable Mindset for Ambitious Entrepreneurs",
+        "tote_bag": "Gym Tote Bag - Unbreakable Mindset for Driven Fitness Enthusiasts by RISE SUPPLY CO."
+      },
+      "listing_description": "Unlock your full potential with the Unbreakable Mindset design, a powerful reminder to tap into your inner strength and resilience. Perfect for gym-goers, entrepreneurs, and anyone striving for greatness, this bold design is sure to inspire and motivate.",
+      "tags": [
+        "mental toughness",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "unbreakable mindset",
+        "gym tote bag",
+        "motivational mug",
+        "entrepreneur gift",
+        "resilience quote",
+        "unstoppable force",
+        "mindset shift",
+        "gym inspiration",
+        "fitness quote",
+        "motivational apparel",
+        "driven individuals",
+        "ambitious entrepreneurs",
+        "fitness enthusiasts",
+        "gym motivation",
+        "mental strength",
+        "rise supply co",
+        "unbreakable"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-27/unbreakable-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-27/unbreakable-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Desire",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "Every single day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Discipline Over Motivation T-Shirt for Gym Goers",
+        "mug": "Motivational Coffee Mug - Discipline Over Motivation by Rise Supply Co",
+        "tote_bag": "Discipline Over Motivation Tote Bag - Inspirational Gift for Ambitious Entrepreneurs"
+      },
+      "listing_description": "Unlock your full potential with the Discipline Over Motivation design, a powerful reminder to prioritize discipline in your daily life. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed, this design is available on a range of products including t-shirts, mugs, and tote bags.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "discipline over motivation",
+        "rise supply co",
+        "inspirational quote",
+        "fitness motivation",
+        "entrepreneur gift",
+        "mens motivational t shirt",
+        "womens motivational t shirt",
+        "gym motiviation",
+        "motivational mug",
+        "discipline quote",
+        "motivation quote",
+        "productivity gift",
+        "ambition quote",
+        "success mindset",
+        "gym rat gift",
+        "fitness enthusiast gift",
+        "motivational tote bag",
+        "inspirational tote bag"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-27/discipline-over-desire_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-27/discipline-over-desire_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
