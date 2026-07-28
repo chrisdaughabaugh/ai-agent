@@ -1,0 +1,179 @@
+{
+  "date": "2026-07-28",
+  "designs": [
+    {
+      "theme": "entrepreneur grind",
+      "design_title": "Grind Mode Activated",
+      "main_text": "HUSTLE OR DIE",
+      "sub_text": "Grind every day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Entrepreneur Grind Mode T Shirt for Men and Women",
+        "mug": "Motivational Entrepreneur Coffee Mug by Rise Supply Co",
+        "tote_bag": "Rise Supply Co Grind Mode Activated Tote Bag for Gym and Work"
+      },
+      "listing_description": "Unleash your inner hustle with this bold design, perfect for entrepreneurs and fitness enthusiasts who refuse to back down. Wear your motivation on your sleeve and stay focused on your goals with Rise Supply Co's high-quality apparel and accessories.",
+      "tags": [
+        "entrepreneur gift",
+        "gym shirt",
+        "motivational quote",
+        "hustle mode",
+        "grind mode",
+        "fitness motivation",
+        "rise and grind",
+        "small business owner",
+        "startup motivation",
+        "gym motivation",
+        "fitness enthusiast",
+        "entrepreneur lifestyle",
+        "motivational apparel",
+        "inspirational quotes",
+        "gym tote bag",
+        "entrepreneur mug",
+        "motivational coffee mug",
+        "gym gift",
+        "fitness gift",
+        "entrepreneur t shirt",
+        "motivational t shirt"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-28/grind-mode-activated_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-28/grind-mode-activated_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Inner Beast",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Lead the pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Be The Wolf Gym Shirt for Men and Women",
+        "mug": "Motivational Be The Wolf Coffee Mug for Entrepreneurs and Gym Goers",
+        "tote_bag": "RISE SUPPLY CO. Be The Wolf Tote Bag for Ambitious Individuals"
+      },
+      "listing_description": "Unleash your inner strength with this powerful design, perfect for gym-goers and entrepreneurs who refuse to blend in. Wear your motivation on your sleeve and lead the pack with RISE SUPPLY CO.'s Be The Wolf collection",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "be the wolf",
+        "wolf quote",
+        "inner beast",
+        "leadership",
+        "ambitious",
+        "entrepreneur",
+        "gym motivation",
+        "fitness quote",
+        "strong mindset",
+        "motivational mug",
+        "inspirational tote bag",
+        "motivation",
+        "mindset",
+        "wolf",
+        "sheep",
+        "quote",
+        "gym wear",
+        "fitness apparel",
+        "entrepreneur gifts",
+        "motivational apparel"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-28/unleash-inner-beast_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-28/unleash-inner-beast_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Motivation",
+      "main_text": "DISCIPLINE OVER DESIRE",
+      "sub_text": "consistency is key",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Discipline Over Motivation T Shirt - RISE SUPPLY CO. Gym Tee",
+        "mug": "Motivational Discipline Over Motivation Coffee Mug - RISE SUPPLY CO.",
+        "tote_bag": "Discipline Over Motivation Tote Bag - RISE SUPPLY CO. Gym Bag"
+      },
+      "listing_description": "Unlock your full potential with the Discipline Over Motivation design, a powerful reminder that consistency and self-control are the keys to success. Perfect for gym-goers, entrepreneurs, and anyone striving to reach their goals.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "discipline over motivation",
+        "fitness motivation",
+        "RISE SUPPLY CO.",
+        "motivational quotes",
+        "gym inspiration",
+        "entrepreneur gifts",
+        "motivation monday",
+        "gym tees",
+        "fitness quotes",
+        "inspirational gifts",
+        "motivational mugs",
+        "gym bags",
+        "discipline quotes",
+        "motivation gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-28/discipline-over-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-28/discipline-over-motivation_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
