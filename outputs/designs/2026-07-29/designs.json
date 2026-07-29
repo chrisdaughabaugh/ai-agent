@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-29",
+  "designs": [
+    {
+      "theme": "build your empire",
+      "design_title": "Empire Builder Rise",
+      "main_text": "BUILD YOUR LEGACY",
+      "sub_text": "start with one step",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Motivational Gym Shirt - Build Your Empire Tee - Rise Supply Co",
+        "mug": "Empire Builder Coffee Mug - Inspirational Morning Routine - Rise Supply",
+        "tote_bag": "Build Your Empire Tote Bag - Motivational Gift for Entrepreneurs - Rise Supply Co"
+      },
+      "listing_description": "Unleash your inner empire builder with this powerful design, perfect for anyone chasing their dreams and striving for success. Wear your motivation on your sleeve and stay focused on your goals with Rise Supply Co's high-quality apparel and accessories.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "empire builder",
+        "rise supply co",
+        "build your empire",
+        "inspirational gift",
+        "entrepreneur apparel",
+        "motivational gift",
+        "fitness motivation",
+        "successful mindset",
+        "ambitious quotes",
+        "motivational tee",
+        "gym motivation",
+        "empire building",
+        "rise and grind",
+        "hustle and grind",
+        "motivational mug",
+        "morning routine",
+        "coffee lover gift",
+        "motivational tote bag",
+        "entrepreneur gift",
+        "motivational accessories",
+        "success mindset",
+        "build your legacy"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-29/empire-builder-rise_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-29/empire-builder-rise_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Your Inner Beast",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Lead The Pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Be The Wolf T Shirt - Motivational Gym Tee",
+        "mug": "Be The Wolf Not The Sheep Coffee Mug - Motivational Morning Quote",
+        "tote_bag": "Unleash Your Inner Beast Tote Bag - Motivational Gift For Entrepreneurs"
+      },
+      "listing_description": "Unlock your full potential with this bold motivational design, perfect for gym enthusiasts and ambitious entrepreneurs. Wear your mindset on your sleeve and stay driven with RISE SUPPLY CO's empowering 'Be The Wolf' quote.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "wolf quote",
+        "be the wolf",
+        "motivational gift",
+        "gym motivation",
+        "fitness inspiration",
+        "entrepreneur mindset",
+        "rise supply co",
+        "motivational t shirt",
+        "beast mode",
+        "gym tee",
+        "motivational mug",
+        "coffee quote",
+        "morning motivation",
+        "motivational tote bag",
+        "empowering gift",
+        "motivational apparel",
+        "fitness quote",
+        "gym enthusiast",
+        "ambitious entrepreneur"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-29/unleash-your-inner-beast_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-29/unleash-your-inner-beast_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "early riser 5am club",
+      "design_title": "Rise Above",
+      "main_text": "RISE BEFORE THE SUN",
+      "sub_text": "own the morning",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "5am Club T Shirt for Men and Women - Rise Supply Co Motivational Tee",
+        "mug": "Early Riser 5am Club Coffee Mug - Morning Motivation Ceramic Cup",
+        "tote_bag": "Rise Above Gym Tote Bag - 5am Club Workout Motivation Bag"
+      },
+      "listing_description": "Unlock your full potential with our motivational apparel and start your day with a powerful mindset. Perfect for gym-goers, entrepreneurs, and anyone looking to rise above the ordinary.",
+      "tags": [
+        "5am club",
+        "early riser",
+        "morning motivation",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "rise and grind",
+        "productivity hack",
+        "mindset shirt",
+        "gym motivation",
+        "morning routine",
+        "success mindset",
+        "ambition",
+        "driven",
+        "fitness",
+        "wellness",
+        "self improvement",
+        "motivation",
+        "inspiration",
+        "rise above",
+        "own the morning"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-29/rise-above_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-29/rise-above_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
