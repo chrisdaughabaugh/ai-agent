@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-30",
+  "designs": [
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Disciplined Mindset Wins",
+      "main_text": "DISCIPLINE OVER DESIRE",
+      "sub_text": "consistency beats motivation",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Discipline Over Motivation Gym Shirt",
+        "mug": "Discipline Over Motivation Coffee Mug for Gym Goers",
+        "tote_bag": "RISE SUPPLY CO Motivational Discipline Tote Bag for Athletes"
+      },
+      "listing_description": "Unlock your full potential with the discipline to achieve your goals. This design is perfect for driven individuals who understand that consistency is key to success.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "discipline over motivation",
+        "motivational gift",
+        "fitness apparel",
+        "inspirational quote",
+        "gym motivation",
+        "discipline quote",
+        "motivation quote",
+        "fitness motivation",
+        "gym quote",
+        "RISE SUPPLY CO",
+        "motivational clothing",
+        "workout motivation"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-30/disciplined-mindset-wins_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-30/disciplined-mindset-wins_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "grind and hustle",
+      "design_title": "Hustle Mode Activated",
+      "main_text": "GRIND EVERY DAY",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO. Grind Hustle Gym Shirt",
+        "mug": "Motivational Hustle Mode Activated Coffee Mug",
+        "tote_bag": "RISE SUPPLY CO. Hustle Mode Activated Tote Bag"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for gym-goers and entrepreneurs who embody the grind and hustle mindset. Wear your motivation on your sleeve with RISE SUPPLY CO.'s high-quality apparel and accessories.",
+      "tags": [
+        "grind and hustle",
+        "motivational quotes",
+        "gym shirt",
+        "hustle mode",
+        "rise supply co",
+        "motivational gift",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "gym motivation",
+        "hustle grind",
+        "motivational apparel",
+        "inspirational quotes",
+        "gym clothing",
+        "fitness apparel",
+        "entrepreneur gifts",
+        "motivational accessories",
+        "hustle quotes",
+        "grind quotes",
+        "fitness inspiration",
+        "motivational t shirts",
+        "hustle t shirts",
+        "rise and grind"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-30/hustle-mode-activated_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-30/hustle-mode-activated_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "control what you can control",
+      "design_title": "Own Your Mindset",
+      "main_text": "CONTROL YOUR DESTINY",
+      "sub_text": "Focus on the process",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Motivational Gym Shirt Control Your Destiny RISE SUPPLY CO.",
+        "mug": "Mindset Morning Mug Control Your Day RISE SUPPLY CO.",
+        "tote_bag": "Inspirational Tote Bag Own Your Mindset RISE SUPPLY CO."
+      },
+      "listing_description": "Unlock your full potential with this powerful reminder to control your destiny, perfect for driven individuals who want to take charge of their lives. This high-quality design is a constant motivational reminder to focus on what you can control and own your mindset.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "mindset quotes",
+        "inspirational clothing",
+        "control your destiny",
+        "own your mindset",
+        "motivation",
+        "fitness motivation",
+        "gym motivation",
+        "entrepreneur mindset",
+        "motivational mug",
+        "motivational tote bag",
+        "rise above",
+        "mental toughness",
+        "motivational quotes",
+        "motivational apparel",
+        "fitness apparel",
+        "gym apparel",
+        "motivational gear",
+        "mindset apparel",
+        "inspirational apparel",
+        "motivational accessories"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-30/own-your-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-07-30/own-your-mindset_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
