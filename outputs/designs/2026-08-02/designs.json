@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-02",
+  "designs": [
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Inner Wolf",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Lead the pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Be the Wolf T Shirt Motivational Gym Tee",
+        "mug": "Be the Wolf Coffee Mug Motivational Gift for Entrepreneurs",
+        "tote_bag": "RISE SUPPLY CO Unleash Inner Wolf Tote Bag Gym Motivation"
+      },
+      "listing_description": "Unleash your inner strength and leadership with this bold design, perfect for driven individuals and entrepreneurs. Wear your motivation on your sleeve with RISE SUPPLY CO's high-quality apparel and accessories.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "be the wolf",
+        "wolf quotes",
+        "entrepreneur motivation",
+        "gym motivation",
+        "fitness apparel",
+        "t shirts for men",
+        "t shirts for women",
+        "wolf design",
+        "motivational quotes",
+        "inspirational tees",
+        "gym tees",
+        "workout motivation",
+        "leadership quotes",
+        "mindset shift",
+        "rise supply co",
+        "motivational mugs",
+        "gym bags",
+        "wolf themed gifts",
+        "motivation monday",
+        "fitness motivation",
+        "entrepreneur gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-02/unleash-inner-wolf_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-02/unleash-inner-wolf_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "entrepreneur grind",
+      "design_title": "Hustle Mode Activated",
+      "main_text": "GRIND EVERY DAY",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Entrepreneur T Shirt - Motivational Gym Tee",
+        "mug": "RISE SUPPLY CO Hustle Mode Activated Coffee Mug",
+        "tote_bag": "RISE SUPPLY CO Grind Every Day Tote Bag - Motivational Gift"
+      },
+      "listing_description": "Unleash your inner hustle with this bold design, perfect for entrepreneurs and gym-goers who refuse to back down. Wear your motivation on your sleeve and stay focused on your goals with RISE SUPPLY CO's high-quality apparel and accessories.",
+      "tags": [
+        "entrepreneur grind",
+        "motivational quote",
+        "gym shirt",
+        "hustle mode",
+        "motivational gift",
+        "rise supply co",
+        "t shirt",
+        "mug",
+        "tote bag",
+        "fitness motivation",
+        "business mindset",
+        "success quote",
+        "gym motivation",
+        "entrepreneur mindset",
+        "ambitious",
+        "driven",
+        "motivational apparel",
+        "inspirational quote",
+        "goal oriented",
+        "fitness enthusiast",
+        "entrepreneur gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-02/hustle-mode-activated_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-02/hustle-mode-activated_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Unbroken Will",
+      "main_text": "FORTUNE FAVORS THE BOLD",
+      "sub_text": "Face your fears",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Stoic Philosophy T Shirt for Men and Women - Motivational Gym Shirt",
+        "mug": "Stoic Mindset Coffee Mug - RISE SUPPLY CO Morning Motivation",
+        "tote_bag": "RISE SUPPLY CO Unbroken Will Tote Bag - Stoic Philosophy Gift for Fitness Enthusiasts"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for those who embody the stoic philosophy. Wear your motivation on your sleeve and take on the day with confidence and determination.",
+      "tags": [
+        "stoic philosophy",
+        "motivational gift",
+        "gym shirt",
+        "fitness enthusiast",
+        "mindset shirt",
+        "motivational quote",
+        "t shirt for men",
+        "t shirt for women",
+        "stoic mindset",
+        "gym motivation",
+        "stoicism",
+        "philosophy quote",
+        "inspirational quote",
+        "motivational design",
+        "fitness motivation",
+        "unbroken will",
+        "fortune favors the bold",
+        "motivational mug",
+        "stoic coffee mug",
+        "morning motivation",
+        "gym tote bag",
+        "fitness tote bag",
+        "stoic tote bag"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-02/unbroken-will_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-02/unbroken-will_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
