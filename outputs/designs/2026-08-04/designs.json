@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-04",
+  "designs": [
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Your Inner Beast",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Lead the pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co. Be The Wolf T-Shirt - Motivational Gym Shirt",
+        "mug": "Be The Wolf Mug - Morning Motivation Coffee Cup",
+        "tote_bag": "Rise Supply Co. Be The Wolf Tote Bag - Inspirational Gift"
+      },
+      "listing_description": "Unleash your inner strength and become the leader of the pack with this powerful 'Be The Wolf' design. Perfect for anyone who needs a motivational boost to take on their day, whether you're hitting the gym or crushing your goals.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "be the wolf",
+        "wolf quote",
+        "strong mindset",
+        "fitness motivation",
+        "gym motivation",
+        "motivational gift",
+        "inspirational quote",
+        "rise supply co",
+        "wolf t shirt",
+        "motivation",
+        "mindset",
+        "leadership",
+        "motivational mug",
+        "motivational tote bag",
+        "gym tote bag",
+        "fitness tote bag"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-04/unleash-your-inner-beast_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-04/unleash-your-inner-beast_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "outwork everyone",
+      "design_title": "Outwork The Rest",
+      "main_text": "OUTWORK EVERYONE",
+      "sub_text": "No Excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Outwork Everyone Motivational Gym Shirt RISE SUPPLY CO",
+        "mug": "Outwork The Rest Morning Motivation Mug",
+        "tote_bag": "Outwork Everyone Gym Tote Bag Fitness Motivation RISE SUPPLY CO"
+      },
+      "listing_description": "Unleash your inner strength with this bold 'Outwork Everyone' design, perfect for gym-goers and entrepreneurs who refuse to back down. Wear your motivation on your sleeve and stay driven to succeed with RISE SUPPLY CO",
+      "tags": [
+        "outwork everyone",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "rise supply co",
+        "gym motivation",
+        "fitness quote",
+        "workout motivation",
+        "hustle",
+        "grind",
+        "ambition",
+        "success",
+        "motivation",
+        "inspiration",
+        "gym tote bag",
+        "fitness tote",
+        "motivational mug",
+        "morning motivation"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-04/outwork-the-rest_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-04/outwork-the-rest_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "early riser 5am club",
+      "design_title": "Rise Above",
+      "main_text": "WAKE UP DOMINATE",
+      "sub_text": "Lead the day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co 5am Club T Shirt - Motivational Gym Shirt for Early Risers",
+        "mug": "5am Club Coffee Mug - Rise Supply Co Morning Motivation Mug",
+        "tote_bag": "Rise Above Tote Bag - 5am Club Motivational Gift for Fitness Enthusiasts"
+      },
+      "listing_description": "Unlock your full potential with the Rise Supply Co 5am Club design, perfect for driven individuals who take control of their day. This bold and motivational design is ideal for gym-goers, entrepreneurs, and anyone who rises above the rest.",
+      "tags": [
+        "5am club",
+        "early riser",
+        "motivational shirt",
+        "gym shirt",
+        "rise and grind",
+        "motivation",
+        "inspirational quotes",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "gym wear",
+        "morning motivation",
+        "wake up and dominate",
+        "productivity",
+        "success mindset",
+        "fitness enthusiast",
+        "ambitious",
+        "driven",
+        "early bird",
+        "t shirt",
+        "mug",
+        "tote bag",
+        "rise supply co"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-04/rise-above_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-04/rise-above_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
