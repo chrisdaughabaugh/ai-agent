@@ -1,0 +1,182 @@
+{
+  "date": "2026-08-05",
+  "designs": [
+    {
+      "theme": "no excuses mentality",
+      "design_title": "No Excuses Mindset",
+      "main_text": "NO EXCUSES ALLOWED",
+      "sub_text": "Get it done now",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "No Excuses T Shirt - RISE SUPPLY CO. Motivational Gym Shirt",
+        "mug": "RISE SUPPLY CO. No Excuses Mindset Coffee Mug",
+        "tote_bag": "No Excuses Tote Bag - RISE SUPPLY CO. Gym Bag Gift"
+      },
+      "listing_description": "Unlock your full potential with this bold 'No Excuses' design from RISE SUPPLY CO., perfect for driven individuals who refuse to back down. Wear or use this motivational gear to stay focused and motivated on your fitness or entrepreneurial journey.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "no excuses",
+        "mindset shift",
+        "fitness motivation",
+        "entrepreneur gift",
+        "RISE SUPPLY CO.",
+        "motivational quote",
+        "gym motivation",
+        "mindset quotes",
+        "fitness quotes",
+        "no excuses mentality",
+        "motivational t shirt",
+        "motivational mug",
+        "gym bag",
+        "motivational tote",
+        "motivational apparel",
+        "fitness apparel",
+        "entrepreneur apparel",
+        "driven individuals",
+        "ambitious people",
+        "gym goers",
+        "motivational gear"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-05/no-excuses-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-05/no-excuses-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "control what you can control",
+      "design_title": "Own Your Focus",
+      "main_text": "CONTROL THE CONTROLLABLE",
+      "sub_text": "let go of the rest",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Motivational Gym Shirt - Control The Controllable - RISE SUPPLY CO.",
+        "mug": "Daily Motivation Mug - Own Your Focus - Mindset Coffee Cup",
+        "tote_bag": "Inspirational Tote Bag - Control The Controllable - RISE SUPPLY CO. Gift"
+      },
+      "listing_description": "Unlock your potential with this powerful reminder to control the controllable. Perfect for gym-goers and entrepreneurs, this design will fuel your motivation and focus.",
+      "tags": [
+        "motivational quotes",
+        "gym shirt",
+        "mindset apparel",
+        "control the controllable",
+        "focus t shirt",
+        "inspirational mug",
+        "motivational gift",
+        "gym motivation",
+        "fitness quote",
+        "mindset coffee cup",
+        "motivational tote bag",
+        "daily motivation",
+        "own your focus",
+        "RISE SUPPLY CO.",
+        "motivational apparel",
+        "mindset shirt",
+        "gym inspiration",
+        "fitness inspiration"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-05/own-your-focus_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-05/own-your-focus_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "pressure makes diamonds",
+      "design_title": "Diamonds Under Pressure",
+      "main_text": "PRESSURE MAKES DIAMONDS",
+      "sub_text": "stronger every day",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Pressure Makes Diamonds T-Shirt Motivational Gym Shirt",
+        "mug": "Pressure Makes Diamonds Coffee Mug Motivational Quote Ceramic",
+        "tote_bag": "Rise Supply Co Diamonds Under Pressure Tote Bag Motivational Gift"
+      },
+      "listing_description": "Unlock your inner strength with this powerful design, reminding you that pressure makes diamonds. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed, this motivational quote will fuel your mind and body to reach new heights.",
+      "tags": [
+        "pressure makes diamonds",
+        "motivational quote",
+        "gym shirt",
+        "gym motivation",
+        "fitness inspiration",
+        "entrepreneur gift",
+        "motivational gift",
+        "rising above",
+        "stronger every day",
+        "diamonds under pressure",
+        "tough times",
+        "overcoming obstacles",
+        "mental toughness",
+        "resilience",
+        "motivation",
+        "inspiration",
+        "gym apparel",
+        "fitness apparel",
+        "motivational t shirt",
+        "motivational mug",
+        "motivational tote bag"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-05/diamonds-under-pressure_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-05/diamonds-under-pressure_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
