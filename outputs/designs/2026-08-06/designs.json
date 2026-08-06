@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-06",
+  "designs": [
+    {
+      "theme": "control what you can control",
+      "design_title": "Own Your Focus",
+      "main_text": "CONTROL YOUR DESTINY",
+      "sub_text": "Focus on what matters",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Motivational Gym T-Shirt - Control Your Destiny",
+        "mug": "Rise Supply Co Own Your Focus Coffee Mug - Motivational Quote",
+        "tote_bag": "Rise Supply Co Control Your Destiny Tote Bag - Inspirational Gift"
+      },
+      "listing_description": "Stay focused on your goals with this bold design, perfect for gym-goers and entrepreneurs alike. Own your mindset and control your destiny with Rise Supply Co's motivational apparel and accessories.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "inspirational gift",
+        "control your destiny",
+        "focus",
+        "mindset",
+        "mental toughness",
+        "entrepreneur",
+        "fitness motivation",
+        "self improvement",
+        "rise supply co",
+        "motivational apparel",
+        "gym accessories",
+        "productivity",
+        "success mindset",
+        "goal oriented",
+        "driven",
+        "ambitious",
+        "t shirt",
+        "mug",
+        "tote bag",
+        "motivational gift"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-06/own-your-focus_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-06/own-your-focus_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "silent hard work",
+      "design_title": "Unseen Grit Wins",
+      "main_text": "SILENT GRIND",
+      "sub_text": "work in the shadows",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Silent Grind T-Shirt for Gym and Fitness Motivation",
+        "mug": "RISE SUPPLY CO Unseen Grit Wins Coffee Mug for Entrepreneurs and Athletes",
+        "tote_bag": "RISE SUPPLY CO Silent Hard Work Tote Bag for Motivational Gift"
+      },
+      "listing_description": "Unleash your inner strength with RISE SUPPLY CO's Silent Grind design, a powerful reminder that hard work and dedication can lead to greatness. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed, this design is a constant motivator to push beyond your limits.",
+      "tags": [
+        "silent grind",
+        "motivational gift",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur quotes",
+        "mindset shift",
+        "hard work pays off",
+        "success mindset",
+        "motivational apparel",
+        "gym motivation",
+        "fitness quotes",
+        "entrepreneur gift",
+        "motivational mug",
+        "gym tote bag",
+        "fitness inspiration",
+        "motivational poster",
+        "success quotes",
+        "hard work",
+        "dedication",
+        "grit and determination",
+        "mental toughness",
+        "motivation",
+        "inspiration",
+        "fitness",
+        "gym",
+        "entrepreneur"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-06/unseen-grit-wins_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-06/unseen-grit-wins_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "early riser 5am club",
+      "design_title": "Rise Above",
+      "main_text": "RISE BEFORE THE SUN",
+      "sub_text": "OWN THE DAY",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Early Riser 5am Club T Shirt for Men and Women - Rise Supply Co",
+        "mug": "5am Club Coffee Mug - Motivational Gift for Entrepreneurs",
+        "tote_bag": "Rise Above Tote Bag - Gym Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Start your day with a powerful mindset and conquer your goals with this bold design. Perfect for entrepreneurs, gym-goers, and anyone who wants to rise above the ordinary.",
+      "tags": [
+        "5am club",
+        "early riser",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "rise and grind",
+        "morning motivation",
+        "productivity hack",
+        "fitness enthusiast",
+        "motivational gift",
+        "gym bag",
+        "tote bag",
+        "coffee mug",
+        "quote t shirt",
+        "inspirational quote",
+        "mindset shift",
+        "goal setting",
+        "success mindset",
+        "motivation monday",
+        "fitness inspiration",
+        "gym motivation"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-06/rise-above_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-06/rise-above_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
