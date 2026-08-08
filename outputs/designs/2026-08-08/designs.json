@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-08",
+  "designs": [
+    {
+      "theme": "silent hard work",
+      "design_title": "Unseen Grind Mode",
+      "main_text": "HUSTLE IN SILENCE",
+      "sub_text": "Work hard, stay humble",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Silent Grind T Shirt Motivational Gym Tee",
+        "mug": "RISE SUPPLY CO Hustle in Silence Coffee Mug for Gym Lovers",
+        "tote_bag": "RISE SUPPLY CO Unseen Grind Mode Tote Bag for Fitness Enthusiasts"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for those who believe in the power of silent hard work. Ideal for gym enthusiasts, entrepreneurs, and anyone driven to succeed, this motivational design will fuel your hustle and inspire you to reach new heights.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "silent grind",
+        "hard work",
+        "hustle in silence",
+        "gym lover",
+        "entrepreneur gift",
+        "motivational gift",
+        "workout inspiration",
+        "fitness enthusiast",
+        "RISE SUPPLY CO",
+        "gym motivational quotes",
+        "motivational t shirt",
+        "inspirational mug",
+        "gym gear",
+        "fitness apparel",
+        "motivational tote bag",
+        "gym bag",
+        "fitness quote",
+        "workout motivation",
+        "hustle mode"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-08/unseen-grind-mode_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-08/unseen-grind-mode_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "control what you can control",
+      "design_title": "Own Your Outcome",
+      "main_text": "CONTROL YOUR DESTINY",
+      "sub_text": "Focus on what matters",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Control Your Destiny T Shirt Gym Motivation Apparel",
+        "mug": "Rise Supply Co Own Your Outcome Quote Coffee Mug Motivational Gift",
+        "tote_bag": "Rise Supply Co Control Your Destiny Tote Bag Gym Bag Motivational Accessory"
+      },
+      "listing_description": "Unlock your full potential with this powerful reminder to control your destiny. Perfect for driven individuals who strive for excellence, this design is a constant motivator to focus on what truly matters.",
+      "tags": [
+        "motivational quote",
+        "gym shirt",
+        "entrepreneur gift",
+        "mindset apparel",
+        " CONTROL YOUR DESTINY",
+        "focus on what matters",
+        "own your outcome",
+        "gym motivation",
+        "inspirational tee",
+        "motivational mug",
+        "rise supply co",
+        "motivational gift",
+        "gym bag",
+        "motivational accessories",
+        "control what you can control",
+        "motivational apparel",
+        "gym quote",
+        "entrepreneur motivation",
+        "driven individuals",
+        "excellence mindset",
+        "productivity gift",
+        "success mindset",
+        "motivational products",
+        "inspirational gifts"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-08/own-your-outcome_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-08/own-your-outcome_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "build your empire",
+      "design_title": "Empire Builder Mindset",
+      "main_text": "BUILD YOUR EMPIRE",
+      "sub_text": "Rise Above The Rest",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Empire Builder T Shirt for Men and Women",
+        "mug": "Motivational Empire Builder Coffee Mug for Entrepreneurs",
+        "tote_bag": "Rise Supply Co Empire Builder Tote Bag for Gym and Daily Use"
+      },
+      "listing_description": "Unlock your full potential with this empowering design, perfect for driven individuals who strive to build their empire. Wear or carry this motivational quote to stay focused on your goals and rise above the rest.",
+      "tags": [
+        "build your empire",
+        "motivational quote",
+        "gym shirt",
+        "entrepreneur gift",
+        "empire builder mindset",
+        "rise supply co",
+        "motivational apparel",
+        "fitness motivation",
+        "business inspiration",
+        "success mindset",
+        "motivational gift",
+        "gym motivation",
+        "entrepreneur shirt",
+        "empire building",
+        "rise above",
+        "daily motivation",
+        "goal oriented",
+        "fitness quote",
+        "business quote",
+        "success quote",
+        "motivational mug",
+        "empire builder tote",
+        "rise supply co apparel",
+        "motivational accessories"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-08/empire-builder-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-08/empire-builder-mindset_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
