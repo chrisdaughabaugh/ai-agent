@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-10",
+  "designs": [
+    {
+      "theme": "mental toughness",
+      "design_title": "Unbreakable Mindset",
+      "main_text": "I AM UNSTOPPABLE",
+      "sub_text": "Stronger every rep",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Mental Toughness T Shirt - RISE SUPPLY CO. Gym Motivation",
+        "mug": "Unbreakable Mindset Coffee Mug - Motivational Gift for Gym Goers",
+        "tote_bag": "RISE SUPPLY CO. Unbreakable Tote Bag - Fitness Motivation Bag"
+      },
+      "listing_description": "Unlock your mental strength with this bold design, perfect for gym-goers and entrepreneurs who refuse to back down. Boost your motivation and confidence with RISE SUPPLY CO.'s unbreakable mindset merchandise.",
+      "tags": [
+        "mental toughness",
+        "gym motivation",
+        "motivational gift",
+        "fitness shirt",
+        "gym shirt",
+        "mindset",
+        "unbreakable",
+        "strong mindset",
+        "motivational quote",
+        "fitness motivation",
+        "gym goers",
+        "entrepreneurs",
+        "motivation",
+        "inspiration",
+        "rise supply co",
+        "gym apparel",
+        "motivational apparel",
+        "mindset shift",
+        "mental strength",
+        "unstoppable",
+        "fitness quote",
+        "gym quote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-10/unbreakable-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-10/unbreakable-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over Motivation",
+      "main_text": "DISCIPLINE OVER DESIRE",
+      "sub_text": "Consistency is key",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Discipline Over Motivation T Shirt - Gym Motivation Tee",
+        "mug": "Discipline Over Motivation Coffee Mug - Morning Motivation Gift",
+        "tote_bag": "RISE SUPPLY CO Discipline Over Motivation Tote Bag - Motivational Gym Bag"
+      },
+      "listing_description": "Unleash your inner strength with this powerful design, reminding you that discipline is the key to achieving your goals. Perfect for fitness enthusiasts, entrepreneurs, and anyone striving for success, this design is a constant motivation to stay focused and driven.",
+      "tags": [
+        "motivational gift",
+        "gym shirt",
+        "discipline over motivation",
+        "fitness motivation",
+        "motivation quote",
+        "gym inspiration",
+        "motivational tee",
+        "gym wear",
+        "entrepreneur gift",
+        "success mindset",
+        "motivational mug",
+        "morning motivation",
+        "motivational tote bag",
+        "gym bag",
+        "fitness quote",
+        "motivation for athletes",
+        "disciplinary quotes",
+        "gym motivation quote",
+        "rise supply co",
+        "motivational apparel",
+        "inspirational quotes"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-10/discipline-over-motivation_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-10/discipline-over-motivation_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Unbroken Will Power",
+      "main_text": "FORTUNE FAVORS THE BOLD",
+      "sub_text": "Stay strong, stay focused",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Stoic Philosophy Tee - Motivational Gym Shirt for Men and Women",
+        "mug": "Stoic Philosophy Coffee Mug - Unbroken Will Power Morning Motivation",
+        "tote_bag": "Rise Supply Co Stoic Philosophy Tote Bag - Inspirational Motivational Gift"
+      },
+      "listing_description": "Stay motivated and focused with our stoic philosophy design, perfect for gym-goers and entrepreneurs. This design is a reminder to stay strong and bold in the face of challenges, and to trust in your own will power.",
+      "tags": [
+        "stoic philosophy",
+        "motivational quote",
+        "gym shirt",
+        "inspirational gift",
+        "entrepreneur motivation",
+        "mental toughness",
+        "resilience",
+        "strength",
+        "bold design",
+        "geometric sans-serif",
+        "stoicism",
+        "philosophy",
+        "motivation",
+        "focus",
+        "determination",
+        "motivational tee",
+        "stoic gift",
+        "fitness motivation",
+        "mental health awareness",
+        "productivity",
+        "success mindset",
+        "ambition",
+        "driven",
+        "rise supply co"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-10/unbroken-will-power_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-10/unbroken-will-power_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
