@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-14",
+  "designs": [
+    {
+      "theme": "self discipline",
+      "design_title": "Disciplined Mind",
+      "main_text": "I CONTROL MY FATE",
+      "sub_text": "No excuses today",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Self Discipline T Shirt for Gym and Fitness",
+        "mug": "Motivational Self Discipline Quote Mug for Morning Routine",
+        "tote_bag": "RISE SUPPLY CO Discipline Mindset Tote Bag for Gym and Workout"
+      },
+      "listing_description": "Unlock your full potential with this powerful self discipline design, perfect for gym-goers and entrepreneurs who strive for greatness. Wear your motivation and stay focused on your goals with RISE SUPPLY CO",
+      "tags": [
+        "self discipline",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "mindset shirt",
+        "discipline mindset",
+        "motivational gift",
+        "gym inspiration",
+        "workout motivation",
+        "self control",
+        "mental toughness",
+        "motivational tee",
+        "fitness quote",
+        "gym quote",
+        "motivation for gym",
+        "self discipline quote",
+        "motivational design",
+        "gym design",
+        "fitness design",
+        "motivational art",
+        "motivational apparel",
+        "mindset apparel",
+        "gym apparel",
+        "fitness apparel",
+        "self discipline apparel",
+        "discipline apparel",
+        "motivational clothing",
+        "gym clothing",
+        "fitness clothing"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-14/disciplined-mind_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-14/disciplined-mind_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "be the wolf not the sheep",
+      "design_title": "Unleash Inner Beast",
+      "main_text": "BE THE WOLF",
+      "sub_text": "Lead the pack",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Wolf Motivational Tee for Men and Women",
+        "mug": "Be The Wolf Coffee Mug for Entrepreneurs and Gym Goers",
+        "tote_bag": "Unleash Your Inner Beast Tote Bag for Motivational Lovers"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for driven individuals who refuse to blend in. This motivational quote reminds you to take control and lead the pack, making it a great gift for entrepreneurs, gym-goers, and anyone seeking inspiration.",
+      "tags": [
+        "motivational quote",
+        "wolf quote",
+        "be the wolf",
+        "inner beast",
+        "gym shirt",
+        "motivational gift",
+        "entrepreneur gift",
+        "rise supply co",
+        "wolf design",
+        "motivational mug",
+        "gym motivation",
+        "fitness inspiration",
+        "strong mindset",
+        "lead the pack",
+        "unleash your potential",
+        "motivational tote bag",
+        "wolf motivational",
+        "motivational apparel",
+        "gym lover gift",
+        "fitness enthusiast",
+        "motivational coffee mug",
+        "inspirational quote"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-14/unleash-inner-beast_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-14/unleash-inner-beast_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "stoic philosophy",
+      "design_title": "Unbroken Mindset",
+      "main_text": "FORTUNE FAVORS THE BRAVE",
+      "sub_text": "strength in resilience",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "Rise Supply Co Stoic Philosophy T Shirt for Gym Goers",
+        "mug": "Motivational Stoicism Quote Mug for Ambitious Entrepreneurs",
+        "tote_bag": "Stoic Mindset Tote Bag for Driven Individuals"
+      },
+      "listing_description": "Unlock your inner strength with this powerful stoic philosophy design, perfect for gym enthusiasts and ambitious entrepreneurs looking for a motivational boost. Wear your mindset on your sleeve with Rise Supply Co's high-quality apparel and accessories.",
+      "tags": [
+        "stoic philosophy",
+        "motivational quote",
+        "gym shirt",
+        "entrepreneur gift",
+        "mindset apparel",
+        "resilience quote",
+        "fortitude",
+        "ambition",
+        "drive",
+        "motivation",
+        "inspirational gift",
+        "gym motivation",
+        "stoicism",
+        "philosophy quote",
+        "fitness motivation",
+        "mental toughness",
+        "strong mindset",
+        "stoic mindset",
+        "inner strength"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-14/unbroken-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-14/unbroken-mindset_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
