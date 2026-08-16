@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-16",
+  "designs": [
+    {
+      "theme": "outwork everyone",
+      "design_title": "Outwork The Rest",
+      "main_text": "OUTWORK EVERYONE",
+      "sub_text": "no excuses",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Outwork Everyone Motivational Gym Shirt",
+        "mug": "Outwork Everyone Quote Mug for Gym and Fitness Enthusiasts",
+        "tote_bag": "RISE SUPPLY CO Motivational Tote Bag for Driven Individuals"
+      },
+      "listing_description": "Unleash your inner strength with this bold design, perfect for gym-goers and entrepreneurs who refuse to back down. Wear your motivation on your sleeve and outwork everyone with RISE SUPPLY CO's exclusive apparel and accessories.",
+      "tags": [
+        "outwork everyone",
+        "motivational quote",
+        "gym shirt",
+        "fitness motivation",
+        "entrepreneur gift",
+        "motivational gift",
+        "gym clothing",
+        "outwork the rest",
+        "rise supply co",
+        "motivation",
+        "inspiration",
+        "fitness quotes",
+        "gym quotes",
+        "workout motivation",
+        "entrepreneur quotes",
+        "success mindset",
+        "motivational apparel",
+        "fitness apparel",
+        "outwork everyone quote",
+        "gym motivation",
+        "fitness inspiration",
+        "motivational clothing",
+        "rise above",
+        "outwork"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-16/outwork-the-rest_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-16/outwork-the-rest_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "no excuses mentality",
+      "design_title": "Unstoppable Mindset",
+      "main_text": "NO EXCUSES ACCEPTED",
+      "sub_text": "Own your journey",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "No Excuses T Shirt for Men and Women, RISE SUPPLY CO. Gym Motivation Tee",
+        "mug": "Motivational Mug for Gym Goers, No Excuses Coffee Cup by RISE SUPPLY CO.",
+        "tote_bag": "No Excuses Tote Bag, Inspirational Gym Bag for Men and Women, RISE SUPPLY CO."
+      },
+      "listing_description": "Stay motivated and focused with this powerful 'No Excuses' design. Perfect for gym-goers, entrepreneurs, and anyone striving for success, this design embodies the unstoppable mindset you need to achieve your goals.",
+      "tags": [
+        "no excuses mentality",
+        "motivational quote",
+        "gym shirt",
+        "gym motivation",
+        "inspirational gift",
+        "motivational gift",
+        "RISE SUPPLY CO.",
+        "gym goers",
+        "fitness motivation",
+        "entrepreneur mindset",
+        "success mindset",
+        "unstoppable mindset",
+        "motivation",
+        "inspiration",
+        "gym wear",
+        "workout clothes",
+        "gym clothing",
+        "motivational clothing",
+        "fitness apparel",
+        "gym apparel",
+        "mens gym shirt",
+        "womens gym shirt"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-16/unstoppable-mindset_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-16/unstoppable-mindset_transparent.png"
+      },
+      "shopify_products": []
+    },
+    {
+      "theme": "discipline over motivation",
+      "design_title": "Discipline Over All",
+      "main_text": "DISCIPLINE OVER MOTIVATION",
+      "sub_text": "Consistency is key",
+      "font_style": "bold geometric sans-serif, high contrast, strong weight",
+      "color_palette": [
+        {
+          "name": "background",
+          "hex": "#111111"
+        },
+        {
+          "name": "primary text",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "accent gold",
+          "hex": "#C9A84C"
+        },
+        {
+          "name": "secondary",
+          "hex": "#888888"
+        }
+      ],
+      "product_titles": {
+        "t_shirt": "RISE SUPPLY CO Discipline Over Motivation Gym Shirt",
+        "mug": "Motivational Coffee Mug Discipline Over Motivation Quote",
+        "tote_bag": "RISE SUPPLY CO Discipline Over Motivation Tote Bag Gym Gift"
+      },
+      "listing_description": "Unleash your inner strength with this powerful design, reminding you that discipline is the key to achieving your goals. Perfect for gym-goers, entrepreneurs, and anyone driven to succeed.",
+      "tags": [
+        "discipline over motivation",
+        "motivational quote",
+        "gym shirt",
+        "gym gift",
+        "entrepreneur gift",
+        "motivational gift",
+        "inspirational quote",
+        "fitness motivation",
+        "mindset shift",
+        "rise supply co",
+        "motivation quote",
+        "discipline quote",
+        "gym motivation",
+        "fit gift",
+        "rise supply co gift",
+        "motivational mug",
+        "fitness gift",
+        "gym bag",
+        " Discipline Over Motivation tee",
+        "Rise Supply Co tee"
+      ],
+      "files": {
+        "colored": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-16/discipline-over-all_colored.png",
+        "transparent": "/home/runner/work/ai-agent/ai-agent/outputs/designs/2026-08-16/discipline-over-all_transparent.png"
+      },
+      "shopify_products": []
+    }
+  ],
+  "published": []
+}
